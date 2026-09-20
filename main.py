@@ -14,7 +14,7 @@ def get_search_results(algo, dir="query1_cache", top_n=20):
         else:
             raise FileNotFoundError(f'Cache file {cache_file} not found')
 
-        # Considering only the top_n rankings of the results
+        # considering only the top_n rankings of the results
         _ranking = [x['link'] for x in result['organic_results']]
         return _ranking
 
@@ -30,8 +30,8 @@ def get_search_results(algo, dir="query1_cache", top_n=20):
 
 
 def precision_recall(retrieved_docs, relevant_docs):
-    # Precision = |relevant AND retrieved| / |retrieved|
-    # Recall    = |relevant AND retrieved| / |relevant|
+    # precision = |relevant AND retrieved| / |retrieved|
+    # recall = |relevant AND retrieved| / |relevant|
     retrieved = set(retrieved_docs)
     relevant = set(relevant_docs)
     relevant_retrieved = len(retrieved & relevant)
@@ -47,8 +47,8 @@ def precision_at_11_standard_recall_levels(retrieved_docs, relevant_docs):
             pr_values_for_relevant_retrieved_docs.append(precision_recall(retrieved_docs[:idx + 1], relevant_docs))
 
     p_values, r_values = [], []
-    # Interpolated precision: P(r_j) = max precision observed at any recall >= r_j.
-    # Boundary cases: recall levels above the highest recall reached get precision 0,
+    # interpolated precision: P(r_j) = max precision observed at any recall >= r_j.
+    #boundary cases: recall levels above the highest recall reached get precision 0,
     # and recall level 0 takes the best precision seen anywhere (0 if nothing relevant was retrieved).
     for j in range(11):
         r_j = j / 10
@@ -85,8 +85,8 @@ def f_metric(retrieved_docs, relevant_docs):
 
 
 def p_at_k(retrieved_docs, relevant_docs, k):
-    # Precision at rank k: fraction of the top-k results that are relevant.
-    # Divide by k (not by the number returned) so rankings shorter than k are penalised.
+    # precision at rank k: fraction of the top-k results that are relevant.
+    # divide by k (not by the number returned) so rankings shorter than k are penalised.
     top_k = retrieved_docs[:k]
     return sum(1 for doc in top_k if doc in relevant_docs) / k
 
@@ -114,16 +114,16 @@ def run_all_parts(dir):
         'yahoo': get_search_results('yahoo', dir, top_n=20)
     }
 
-    # Relevant documents (Let's create a baseline using results from Google search)
+    #relevant documents 
     relevant_docs = set(search_results['google'])
 
-    # Precision and Recall
+    #precision and recall
     print('\nThe precision and recall scores for the various search algorithms with Google search as the baseline:')
     for ranking_name, retrieved_docs in search_results.items():
         p, r = precision_recall(retrieved_docs, relevant_docs)
         print(f'{ranking_name.ljust(11)} ranking  ==>  precision: {round(p, 2)} \t recall: {round(r, 2)}')
 
-    # Precision vs Recall Plots
+    # precision vs recall Plots
     print('\nPlotting precision vs recall plots')
     for ranking_name, retrieved_docs in search_results.items():
         r_values, p_values = precision_at_11_standard_recall_levels(retrieved_docs, relevant_docs)
@@ -133,7 +133,7 @@ def run_all_parts(dir):
                       f'considering Google search as the baseline')
         plot_precision_vs_recall_curve(p_values, r_values, plot_title)
 
-    # Single valued Summaries
+    # single valued summaries
     print('\nComputing the single valued summaries')
     for ranking_name, retrieved_docs in search_results.items():
         f_score = f_metric(retrieved_docs, relevant_docs)
