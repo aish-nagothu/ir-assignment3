@@ -1,4 +1,4 @@
-# Information Retrieval — Assignment 3: Retrieval Evaluation
+# Information Retrieval - Assignment 3: Retrieval Evaluation
 
 Implementation of fundamental retrieval evaluation metrics (precision, recall,
 interpolated precision at the 11 standard recall levels, P@k and the F-measure),
