@@ -1,0 +1,515 @@
+{
+  "search_metadata": {
+    "id": "61559f0ab5961e3e8026b332",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9448947061884e45/61559f0ab5961e3e8026b332.json",
+    "created_at": "2021-09-30 11:27:06 UTC",
+    "processed_at": "2021-09-30 11:27:06 UTC",
+    "bing_url": "https://www.bing.com/search?form=QBRE&q=information+retrieval+evaluation&count=50",
+    "raw_html_file": "https://serpapi.com/searches/9448947061884e45/61559f0ab5961e3e8026b332.html",
+    "total_time_taken": 4.74
+  },
+  "search_parameters": {
+    "q": "information retrieval evaluation",
+    "device": "desktop",
+    "count": "50",
+    "engine": "bing"
+  },
+  "search_information": {
+    "total_results": 1900000
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Evaluation in information retrieval - Stanford University",
+      "link": "http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-in-information-retrieval-1.html",
+      "displayed_link": "nlp.stanford.edu/IR-book/html/htmledition/...",
+      "snippet": "07/04/2009\u00a0\u00b7 Information retrieval has developed as a highly empirical discipline, requiring careful and thorough evaluation to demonstrate the superior performance of novel techniques on representative document collections.",
+      "sitelinks": {
+        "expanded": [
+          {
+            "title": "Contents",
+            "link": "https://nlp.stanford.edu/IR-book/html/htmledition/contents-1.html",
+            "snippet": "Evaluation in information retrieval. Information retrieval system evaluation; \u2026"
+          },
+          {
+            "title": "Irbook",
+            "link": "https://nlp.stanford.edu/IR-book/html/htmledition/irbook.html",
+            "snippet": "Components of an information retrieval system. Tiered indexes; Query-term \u2026"
+          },
+          {
+            "title": "System Issues",
+            "link": "https://nlp.stanford.edu/IR-book/html/htmledition/system-issues-1.html",
+            "snippet": "User utility Up: A broader perspective: System Previous: A broader perspective: \u2026"
+          }
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Information Retrieval Evaluation",
+      "link": "https://www.iro.umontreal.ca/~nie/IFT6255/IR-Evaluation.pdf",
+      "displayed_link": "https://www.iro.umontreal.ca/~nie/IFT6255/IR-Evaluation.pdf",
+      "snippet": "evaluation \u2013 Option 1: Show results from different retrieval methods alternatively \u2013 Option 2: Merge results in a doc list \u2013 Compare the clickthrough-rate of two results"
+    },
+    {
+      "position": 3,
+      "title": "Information Retrieval Evaluation",
+      "link": "http://people.cs.georgetown.edu/~nazli/classes/ir-Slides/Evaluation-13.pdf",
+      "displayed_link": "people.cs.georgetown.edu/~nazli/classes/ir-Slides/Evaluation-13.pdf",
+      "snippet": "Information Retrieval Evaluation (COSC 488) Nazli Goharian nazli@cs.georgetown.edu 2 Measuring Effectiveness \u2022An algorithm is deemed incorrect if it does not have a \u201cright\u201d answer. \u2022A heuristic tries to guess something close to the right answer. Heuristics are measured on \u201chow close\u201d they come to a right answer."
+    },
+    {
+      "position": 4,
+      "title": "Evaluation in information retrieval (Chapter 8 ...",
+      "link": "https://www.cambridge.org/core/books/introduction-to-information-retrieval/evaluation-in-information-retrieval/1DE7AC4EC9996792D8590212D735AF15",
+      "displayed_link": "https://www.cambridge.org/core/books/introduction...",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 29",
+          "Publish Year: 2008",
+          "Author: Christopher D. Manning, Prabhakar Raghavan, Hinrich Sch\u00fctze"
+        ]
+      },
+      "snippet": "IR has developed as a highly empirical discipline, requiring careful and thorough evaluation to demonstrate the superior performance of novel techniques on representative document collections. In this chapter, we begin with a discussion of measuring the effectiveness of IR systems (Section 8.1) and the test collections that are most often used for this purpose \u2026"
+    },
+    {
+      "position": 5,
+      "title": "Information retrieval system evaluation - Stanford University",
+      "link": "https://nlp.stanford.edu/IR-book/html/htmledition/information-retrieval-system-evaluation-1.html",
+      "displayed_link": "https://nlp.stanford.edu/IR-book/html/htmledition/...",
+      "snippet": "Information retrieval system evaluation To measure ad hoc information retrieval effectiveness in the standard way, we need a test collection consisting of three things: A document collection A test suite of information needs, expressible as queries A set of relevance judgments, standardly a binary assessment of either relevant or nonrelevant for each query-document pair. The standard approach to information retrieval system evaluation \u2026"
+    },
+    {
+      "position": 6,
+      "title": "Information Retrieval Evaluation - SlideShare",
+      "link": "https://www.slideshare.net/JosRamnRosViqueira/information-retrieval-evaluation-64158263",
+      "displayed_link": "https://www.slideshare.net/JosRamnRosViqueira/...",
+      "snippet": "19/07/2016\u00a0\u00b7 Information Retrieval Evaluation 1. IR Evaluation Mihai Lupu lupu@ifs.tuwien.ac.at Chapter 8 of the Introduction to IR book M. Sanderson. Test... 2. Outline \uf0a7 Introduction \u2013 Introduction to IR \uf0a7 Kinds of evaluation \uf0a7 Retrieval Effectiveness evaluation \u2013 Measures,... 3. Introduction \u2022 Why? \u2013 Put a ..."
+    },
+    {
+      "position": 7,
+      "title": "Evaluation Metrics For Information Retrieval",
+      "link": "https://amitness.com/2020/08/information-retrieval-evaluation/",
+      "displayed_link": "https://amitness.com/2020/08/information-retrieval-evaluation",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 8 min."
+        ]
+      },
+      "snippet": "08/10/2020\u00a0\u00b7 Evaluation Metrics For Information Retrieval 9 minute read Most software products we encounter today have some form of search functionality integrated into them. We search for content on Google, videos on YouTube, products on Amazon, messages on Slack, emails on Gmail, people on Facebook, and so on. As users, the workflow is pretty simple."
+    },
+    {
+      "position": 8,
+      "title": "Evaluation of Information Retrieval Systems",
+      "link": "https://clgiles.ist.psu.edu/IST441/materials/powerpoint/eval-week3/retrieval-evaluation.ppt",
+      "displayed_link": "https://clgiles.ist.psu.edu/IST441/materials/...",
+      "rich_snippet": {
+        "extensions": [
+          "Author: Microsoft Office User",
+          "Last modified by: Giles, C Lee",
+          "Created Date: 1/20/2017 2:23:11 PM",
+          "Title: Evaluation of Information Retrieval Systems"
+        ]
+      },
+      "snippet": "Evaluation Issues To place information retrieval on a systematic basis, we need repeatable criteria to evaluate how effective a system is in meeting the information needs of the user of the system. This proves to be very difficult with a human in the loop."
+    },
+    {
+      "position": 9,
+      "title": "Ch5 Retrieval Evaluation 2021 | PDF | Information ...",
+      "link": "https://www.scribd.com/document/526097157/Ch5-Retrieval-Evaluation-2021",
+      "displayed_link": "https://www.scribd.com/document/526097157/Ch5-Retrieval-Evaluation-2021",
+      "snippet": "Ch5 Retrieval Evaluation 2021 - Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online. Modern Information Retrieval evaluation metrics and method precision recall confusion matrix"
+    },
+    {
+      "position": 10,
+      "title": "Pengertian Information Retrieval (IR), Peranan IR dan ...",
+      "link": "https://ligiaprapta17.wordpress.com/2015/03/03/pengertian-information-retrieval-ir-peranan-ir-dan-contoh-contoh-ir/",
+      "displayed_link": "https://ligiaprapta17.wordpress.com/2015/03/03/...",
+      "snippet": "03/03/2015\u00a0\u00b7 Pengertian Information Retrieval (IR) Information Retrieval (IR) atau sering disebut \u201ctemu kembali infromasi\u201d adalah ilmu yang mempelajari prosedur-prosedur dan metode-metode untuk menemukan kembali informasi yang tersimpan dari berbagai sumber ( resource s) yang relevan atau koleksi sumber informasi yang dicari atau dibutuhkan."
+    },
+    {
+      "position": 11,
+      "title": "Evaluation measures (information retrieval) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)",
+      "displayed_link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 9 min."
+        ]
+      }
+    },
+    {
+      "position": 12,
+      "title": "(PDF) Evaluation of Evaluation in Information Retrieval",
+      "link": "https://www.researchgate.net/publication/221301028_Evaluation_of_Evaluation_in_Information_Retrieval",
+      "displayed_link": "https://www.researchgate.net/publication/221301028_Evaluation_of_Evaluation_in...",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 6 min."
+        ]
+      },
+      "snippet": "Evaluation is a major force in research, development and applications related to information retrieval (IR). This paper is a critical and historical analysis of evaluations of IR systems and ..."
+    },
+    {
+      "position": 13,
+      "title": "(PDF) Evaluation in Information Retrieval",
+      "link": "https://www.researchgate.net/publication/220875658_Evaluation_in_Information_Retrieval",
+      "displayed_link": "https://www.researchgate.net/publication/220875658...",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 10 min."
+        ]
+      },
+      "snippet": "A primary purpose of Information Retrieval (IR) evaluation campaigns such as Text REtrieval Conference (TREC) and Conference and Labs of the Evaluation Forum \u2026"
+    },
+    {
+      "position": 14,
+      "title": "Evaluation of Information Retrieval System",
+      "link": "https://www.slideshare.net/somipam123456/evaluation-of-information-retrieval-system",
+      "displayed_link": "https://www.slideshare.net/somipam123456/...",
+      "snippet": "15/10/2013\u00a0\u00b7 Evaluation of Information Retrieval System 1. Submitted by Somipam R. Shimray III/Semester dept. of LIS Pondicherry University    2. INTRODUCTION \uf0d8 Evaluation is a systematic determination of a subject's merit, worth and significance, using criteria... 3. PURPOSE OF EVALUATION \uf0d8 The main purpose ..."
+    },
+    {
+      "position": 15,
+      "title": "Forum for Information Retrieval Evaluation",
+      "link": "http://fire.irsi.res.in/",
+      "displayed_link": "fire.irsi.res.in",
+      "snippet": "Welcome. The 13th meeting of Forum for Information Retrieval Evaluation 2021 will be held in India. Started in 2008 with the aim of building a South Asian counterpart for TREC, CLEF and NTCIR, FIRE has since evolved continuously to meet the new challenges in multilingual information access. It has expanded to include new domains like plagiarism ..."
+    },
+    {
+      "position": 16,
+      "title": "Information Retrieval - Stanford University",
+      "link": "https://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-6-per.pdf",
+      "displayed_link": "https://web.stanford.edu/class/cs276/handouts/...",
+      "rich_snippet": {
+        "extensions": [
+          "File Size: 502KB",
+          "Page Count: 4"
+        ]
+      },
+      "snippet": "Introduction to Information Retrieval Sec. 8.5.1 Critique of pure relevance Relevance vs Marginal Relevance A document can be redundant even if it is highly relevant Duplicates The same information from different sources Marginal relevance is a better measure of utility for the user But harder to create evaluation set"
+    },
+    {
+      "position": 17,
+      "title": "Retrieval Evaluation - SIGIR",
+      "link": "https://sigir.org/files/museum/introduction_to_modern_information_retrieval/chapter_5.pdf",
+      "displayed_link": "https://sigir.org/files/museum/introduction_to...",
+      "snippet": "To understand the retrieval evaluation problem, it is necessary to examine first the functions of a retrieval system and the various system components. There\u00ad after, the measures that actually reflect system performance can be introduced. Information retrieval systems give a user population access to a stored col\u00ad lection of information items."
+    },
+    {
+      "position": 18,
+      "title": "PPT \u2013 Evaluation of Information Retrieval Systems ...",
+      "link": "https://www.powershow.com/view/4e3e8-NGQ3N/Evaluation_of_Information_Retrieval_Systems_powerpoint_ppt_presentation",
+      "displayed_link": "https://www.powershow.com/view/4e3e8-NGQ3N/...",
+      "snippet": "Evaluation of Information Retrieval Systems. Evaluation of IR Systems ... The user wants to find a restaurant serving sashimi. User uses 2 IR systems. ... \u2013 A free PowerPoint PPT presentation (displayed as a Flash slide show) on PowerShow.com - id: 4e3e8-NGQ3N"
+    },
+    {
+      "position": 19,
+      "title": "Evaluating Information Retrieval and Access Tasks",
+      "link": "https://library.oapen.org/handle/20.500.12657/41715",
+      "displayed_link": "https://library.oapen.org/handle/20.500.12657/41715",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 1",
+          "Publish Year: 2021",
+          "Author: Tetsuya Sakai, Douglas W. Oard, Noriko Kando"
+        ]
+      },
+      "snippet": "This book is suitable for researchers, practitioners, and students\u2014anyone who wants to learn about past and present evaluation efforts in information retrieval, information access, and natural language processing, as well as those who want to participate in an evaluation task or even to design and organize one."
+    },
+    {
+      "position": 20,
+      "title": "Information Retrieval Evaluation in a Changing World ...",
+      "link": "https://link.springer.com/book/10.1007%2F978-3-030-22948-1",
+      "displayed_link": "https://link.springer.com/book/10.1007/978-3-030-22948-1",
+      "snippet": "CLEF\u2019s main mission is to promote research, innovation and development of information retrieval (IR) systems by anticipating trends in information management in order to stimulate advances in the field of IR system experimentation and evaluation. The book is divided into six parts."
+    },
+    {
+      "position": 21,
+      "title": "Evaluating Information Retrieval. A story of Precision ...",
+      "link": "https://sniafas.medium.com/evaluating-information-retrieval-3975348ef97a",
+      "displayed_link": "https://sniafas.medium.com/evaluating-information-retrieval-3975348ef97a",
+      "snippet": "06/08/2020\u00a0\u00b7 Model evaluation along representation variations is the key idea of deep learning models \u2014 finding the most appropriate one of input data. Information retrieval topic helped a lot to make the first steps in machine learning getting easier grasp of entities like statistics, probability and machine learning methodologies like regression ..."
+    },
+    {
+      "position": 22,
+      "title": "Information retrieval evaluation using test collections ...",
+      "link": "https://link.springer.com/article/10.1007/s10791-016-9281-7",
+      "displayed_link": "https://link.springer.com/article/10.1007/s10791-016-9281-7",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 9",
+          "Publish Year: 2016",
+          "Author: Falk Scholer, Diane Kelly, Ben Carterette",
+          "Estimated Reading Time: 13 min."
+        ]
+      },
+      "snippet": "10/06/2016\u00a0\u00b7 In his essay on the history of IR evaluation, Robertson attributes TREC with stimulating a \u201cseries of substantial advances in information retrieval techniques\u201d (p. 452). He further notes several concerns about TREC, and more generally, the emphasis on the laboratory experiment and the use of test collections, which can create bias in what ..."
+    },
+    {
+      "position": 23,
+      "title": "EVALUATION OF INFORMATION RETRIEVAL SYSTEMS",
+      "link": "https://web2.aabu.edu.jo/tool/course_file/902333_1.pdf",
+      "displayed_link": "https://web2.aabu.edu.jo/tool/course_file/902333_1.pdf",
+      "snippet": "which information retrieval evaluation stands. Thus it is important to understand relevance. In order to support laboratory experimentation in the early studies, relevance was considered to be topical relevance, a subject relationship between item and query. According to [1] relevance is seen as a relationship between any one of a document ..."
+    },
+    {
+      "position": 24,
+      "title": "Methods for Evaluating Interactive Information Retrieval ...",
+      "link": "https://ils.unc.edu/courses/2017_fall/inls509_002/papers/FnTIR-Press-Kelly.pdf",
+      "displayed_link": "https://ils.unc.edu/courses/2017_fall/inls509_002/...",
+      "snippet": "Information retrieval (IR) has experienced huge growth in the past decade as increasing numbers and types of information systems are being developed for end-users. The incorporation of users into IR sys-tem evaluation and the study of users\u2019 information search behaviors and interactions have been identi\ufb01ed as important concerns for IR"
+    },
+    {
+      "position": 25,
+      "title": "[PDF/eBook] Information Retrieval Evaluation Download Full ...",
+      "link": "https://findfullebook.com/download/information-retrieval-evaluation/",
+      "displayed_link": "https://findfullebook.com/download/information-retrieval-evaluation",
+      "snippet": "The final chapters look at evaluation issues in user studies -- the interactive part of information retrieval, including a look at the search log studies mainly done by the commercial search engines. Here the goal is to show, via case studies, how the high-level issues of experimental design affect the final evaluations."
+    },
+    {
+      "position": 26,
+      "title": "Information Retrieval Evaluation | Synthesis Lectures on ...",
+      "link": "https://www.morganclaypool.com/doi/abs/10.2200/S00368ED1V01Y201105ICR019",
+      "displayed_link": "https://www.morganclaypool.com/doi/abs/10.2200/S00368ED1V01Y201105ICR019",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 139",
+          "Publish Year: 2011",
+          "Author: Donna Harman"
+        ]
+      },
+      "snippet": "Abstract. Evaluation has always played a major role in information retrieval, with the early pioneers such as Cyril Cleverdon and Gerard Salton laying the foundations for most of the evaluation methodologies in use today. The retrieval community has been extremely fortunate to have such a well-grounded evaluation paradigm during a period when most ..."
+    },
+    {
+      "position": 27,
+      "title": "Precision and Recall Information Retrieval Evaluation In the",
+      "link": "https://slidetodoc.com/precision-and-recall-information-retrieval-evaluation-in-the-2/",
+      "displayed_link": "https://slidetodoc.com/precision-and-recall...",
+      "snippet": "Information Retrieval Evaluation \u2022 In the information retrieval (search engines) community, system evaluation revolves around the notion of relevant and not relevant documents. \u2013 With respect to a given query, a document is given a binary classification as either relevant or not relevant. \u2013 An information retrieval system can be thought ..."
+    },
+    {
+      "position": 28,
+      "title": "Information Retrieval: Evaluation - YouTube",
+      "link": "https://www.youtube.com/watch?v=BxAzuCSvF8s",
+      "displayed_link": "https://www.youtube.com/watch?v=BxAzuCSvF8s",
+      "snippet": "Cancel. Autoplay is paused. You're signed out. Videos you watch may be added to the TV's watch history and influence TV recommendations. To avoid this, cancel and sign in to YouTube on your ..."
+    },
+    {
+      "position": 29,
+      "title": "Forum for Information Retrieval Evaluation",
+      "link": "http://fire.irsi.res.in/fire/2020/home",
+      "displayed_link": "fire.irsi.res.in/fire/2020/home",
+      "snippet": "The 12th meeting of Forum for Information Retrieval Evaluation 2020 will be held virtually in Hyderabad, India.Started in 2008 with the aim of building a South Asian counterpart for TREC, CLEF and NTCIR, FIRE has since evolved continuously to meet the new challenges in multilingual information access."
+    },
+    {
+      "position": 30,
+      "title": "MIREX HOME - MIREX Wiki",
+      "link": "https://www.music-ir.org/mirex/wiki/MIREX_HOME",
+      "displayed_link": "https://www.music-ir.org/mirex",
+      "snippet": "13/09/2020\u00a0\u00b7 Welcome to MIREX 2020. This is the main page for the 16th running of the Music Information Retrieval Evaluation eXchange (MIREX 2020). The International Music Information Retrieval Systems Evaluation Laboratory (IMIRSEL) at School of Information Sciences, University of Illinois at Urbana-Champaign is the principal organizer of MIREX 2020.. The MIREX 2020 \u2026"
+    },
+    {
+      "position": 31,
+      "title": "Information Retrieval Evaluation - I - YouTube",
+      "link": "https://www.youtube.com/watch?v=0zWXSmyvr0M",
+      "displayed_link": "https://www.youtube.com/watch?v=0zWXSmyvr0M",
+      "snippet": "Information Retrieval Evaluation - I - YouTube."
+    },
+    {
+      "position": 32,
+      "title": "Evaluating Information Retrieval and Access Tasks - NTCIR ...",
+      "link": "https://www.springer.com/gp/book/9789811555534",
+      "displayed_link": "https://www.springer.com/gp/book/9789811555534",
+      "snippet": "She initiated NTCIR in late 1997, an evaluation of information-access technologies such as information retrieval, summarization, question answering, and text mining, using various types of documents in East Asian languages and English, and has been a designer of various tasks and general co-chair of NTCIR."
+    },
+    {
+      "position": 33,
+      "title": "Test Collection Based Evaluation of Information Retrieval ...",
+      "link": "http://marksanderson.org/publications/my_papers/FnTIR.pdf",
+      "displayed_link": "marksanderson.org/publications/my_papers/FnTIR.pdf",
+      "snippet": "Information Retrieval Vol. 4, No. 4 (2010) 247\u2013375 c 2010 M. Sanderson DOI: 10.1561/1500000009 Test Collection Based Evaluation of Information Retrieval Systems Mark Sanderson The Information School, University of She\ufb03eld, She\ufb03eld, UK m.sanderson@shef.ac.uk Abstract Use of test collections and evaluation measures to assess \u2026"
+    },
+    {
+      "position": 34,
+      "title": "Information retrieval - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/IR_evaluation",
+      "displayed_link": "https://en.wikipedia.org/wiki/IR_evaluation",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 11 min."
+        ]
+      },
+      "snippet": "The evaluation of an information retrieval system' is the process of assessing how well a system meets the information needs of its users. In general, measurement considers a collection of documents to be searched and a search query."
+    },
+    {
+      "position": 35,
+      "title": "GitHub - paologentleman/Information-Retrieval-Evaluation ...",
+      "link": "https://github.com/paologentleman/Information-Retrieval-Evaluation",
+      "displayed_link": "https://github.com/paologentleman/Information-Retrieval-Evaluation",
+      "snippet": "21/08/2019\u00a0\u00b7 Information Retrieval Evaluation. In this project the main goal is to index a collection of documents and improve the search-engine performance by changing its configurations using the provided set of queries and the associated Ground-Truth. For this purpose Whoosh API is used."
+    },
+    {
+      "position": 36,
+      "title": "Reproduce. Generalize. Extend. On Information Retrieval ...",
+      "link": "https://dl.acm.org/doi/10.1145/3241064",
+      "displayed_link": "https://dl.acm.org/doi/10.1145/3241064",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 4",
+          "Publish Year: 2018",
+          "Author: Kevin Roitero, Marco Passon, Giuseppe Serra, Stefano Mizzaro"
+        ]
+      },
+      "snippet": "The evaluation of retrieval effectiveness by means of test collections is a commonly used methodology in the information retrieval field. Some researchers have addressed the quite fascinating research question of whether it is possible to evaluate effectiveness completely automatically, without human relevance assessments."
+    },
+    {
+      "position": 37,
+      "title": "Online Evaluation for Information Retrieval | Foundations ...",
+      "link": "https://dl.acm.org/doi/10.1561/1500000051",
+      "displayed_link": "https://dl.acm.org/doi/10.1561/1500000051",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 96",
+          "Publish Year: 2016",
+          "Author: Katja Hofmann, Lihong Li, Filip Radlinski"
+        ]
+      },
+      "snippet": "Online evaluation is one of the most common approaches to measure the effectiveness of an information retrieval system. It involves fielding the information retrieval system to real users, and observing these users' interactions in-situ while they engage with the system."
+    },
+    {
+      "position": 38,
+      "title": "What is Information Retrieval? - GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/what-is-information-retrieval/",
+      "displayed_link": "https://www.geeksforgeeks.org/what-is-information-retrieval",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 7 min.",
+          "Published: 02/07/2020"
+        ]
+      },
+      "thumbnail": "https://serpapi.com/searches/61559f0ab5961e3e8026b332/images/ac4ed141d904fe641c00ca27d804a219024312e2e06f2763f294d1df1fe2bb97.jpeg"
+    },
+    {
+      "position": 39,
+      "title": "Information Retrieval and Text Mining 2021 - Retrieval ...",
+      "link": "https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2021-retrieval-evaluation",
+      "displayed_link": "https://speakerdeck.com/kbalog/information...",
+      "snippet": "14/09/2021\u00a0\u00b7 Text Retrieval Conference (TREC) \u2022 Organized by the US National. Institute of Standards and Technology (NIST) \u2022 Yearly benchmarking cycle \u2022 Developing test collections for various information retrieval tasks \u2022 Relevance judgments created by expert judges, i.e., retired information analysts (CIA) 11 / 54."
+    },
+    {
+      "position": 40,
+      "title": "Information Retrieval",
+      "link": "https://vvtesh.github.io/teaching/IR-2021.html",
+      "displayed_link": "https://vvtesh.github.io/teaching/IR-2021.html",
+      "snippet": "Welcome to Information Retrieval (IR) course! It is difficult to imagine living without search engines. Availability of big data has necessitated a systematic study of retrieval techniques. Principles and practices of information retrieval have been a focus of both researchers and practitioners alike. This course is not about just search engines."
+    },
+    {
+      "position": 41,
+      "title": "Information Retrieval Evaluation | Morgan & Claypool ...",
+      "link": "https://ieeexplore.ieee.org/book/6812850/",
+      "displayed_link": "https://ieeexplore.ieee.org/book/6812850",
+      "snippet": "Book Abstract: Evaluation has always played a major role in information retrieval, with the early pioneers such as Cyril Cleverdon and Gerard Salton laying the foundations for most of the evaluation methodologies in use today. The retrieval community has been extremely fortunate to have such a well-grounded evaluation paradigm during a period when most of the human \u2026"
+    },
+    {
+      "position": 42,
+      "title": "Modern Information Retrieval Chapter 3 Retrieval ...",
+      "link": "https://slidetodoc.com/modern-information-retrieval-chapter-3-retrieval-evaluation-the/",
+      "displayed_link": "https://slidetodoc.com/modern-information...",
+      "snippet": "Modern Information Retrieval Chapter 3 Retrieval Evaluation The. Slides: 24; Download presentation ..."
+    },
+    {
+      "position": 43,
+      "title": "Evaluation measures (information retrieval) - WikiMili ...",
+      "link": "https://wikimili.com/en/Evaluation_measures_(information_retrieval)",
+      "displayed_link": "https://wikimili.com/en/Evaluation_measures_(information_retrieval)",
+      "snippet": "16/01/2021\u00a0\u00b7 Evaluation measures (information retrieval) Last updated January 16, 2021. Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent. Such metrics are often split into kinds: online metrics look at users' interactions with the search system, while offline metrics measure relevance, in other \u2026"
+    },
+    {
+      "position": 44,
+      "title": "Text REtrieval Conference (TREC) Home Page",
+      "link": "https://trec.nist.gov/",
+      "displayed_link": "https://trec.nist.gov",
+      "snippet": "TREC Statement on Product Testing and Advertising. The TREC Conference series is co-sponsored by the NIST Information Technology Laboratory's (ITL) Retrieval Group of the Information Access Division (IAD) Contact us at: trec (at) nist.gov. is an agency of the U.S. Commerce Department. Last updated: Thursday, 19-Aug-2021 16:47:26 EDT. Date ..."
+    },
+    {
+      "position": 45,
+      "title": "Introduction to Information Retrieval - Stanford University",
+      "link": "https://web.stanford.edu/class/cs276/19handouts/lecture8-evaluation-1per.pdf",
+      "displayed_link": "https://web.stanford.edu/class/cs276/19handouts/...",
+      "snippet": "Information Retrieval Evaluation Chris Manning and Pandu Nayak CS276 \u2013Information Retrieval and Web Search. Introduction to Information Retrieval Situation \u00a7Thanks to your stellar performance in CS276, you quickly rise to VP of Search at internet retail giant nozama.com. Your boss brings in her nephew Sergey,"
+    },
+    {
+      "position": 46,
+      "title": "OnlineEvaluationforInformationRetrieval",
+      "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ftir-online-evaluation-final-journal.pdf",
+      "displayed_link": "https://www.microsoft.com/en-us/research/wp...",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 96",
+          "Publish Year: 2016",
+          "Author: Katja Hofmann, Lihong Li, Filip Radlinski"
+        ]
+      },
+      "snippet": "smaller scales and encourage studying real-world information seeking in a wide range of scenarios. Finally, we present a summary of the most recent work in the area, and describe open problems, as well as postulatingfuturedirections. K.Hofmann,L.Li,andF.Radlinski.Online Evaluation for Information Retrieval."
+    },
+    {
+      "position": 47,
+      "title": "Information Retrieval Evaluation - Morgan & Claypool books",
+      "link": "https://ieeexplore.ieee.org/document/6812850/",
+      "displayed_link": "https://ieeexplore.ieee.org/document/6812850",
+      "snippet": "Abstract: Evaluation has always played a major role in information retrieval, with the early pioneers such as Cyril Cleverdon and Gerard Salton laying the foundations for most of the evaluation methodologies in use today. The retrieval community has been extremely fortunate to have such a well-grounded evaluation paradigm during a period when most of the human \u2026"
+    },
+    {
+      "position": 48,
+      "title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of ...",
+      "link": "https://arxiv.org/abs/2104.08663",
+      "displayed_link": "https://arxiv.org/abs/2104.08663",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 9",
+          "Publish Year: 2021",
+          "Author: Nandan Thakur, Nils Reimers, Andreas R\u00fcckl\u00e9, Abhishek Srivastava, Iryna Gurevych",
+          "Cite as: arXiv:2104.08663 [cs.IR]"
+        ]
+      },
+      "snippet": "17/04/2021\u00a0\u00b7 Existing neural information retrieval (IR) models have often been studied in homogeneous and narrow settings, which has considerably limited insights into their out-of-distribution (OOD) generalization capabilities. To address this, and to facilitate researchers to broadly evaluate the effectiveness of their models, we introduce Benchmarking-IR (BEIR), a robust and heterogeneous evaluation ..."
+    },
+    {
+      "position": 49,
+      "title": "A Comparison of Statistical Signi\ufb01cance Tests for ...",
+      "link": "https://ciir-publications.cs.umass.edu/getpdf.php?id=744",
+      "displayed_link": "https://ciir-publications.cs.umass.edu/getpdf.php?id=744",
+      "snippet": "Information Retrieval Evaluation Mark D. Smucker, James Allan, and Ben Carterette Center for Intelligent Information Retrieval Department of Computer Science University of Massachusetts Amherst {smucker, allan, carteret}@cs.umass.edu ABSTRACT Information retrieval (IR) researchers commonly use three"
+    },
+    {
+      "position": 50,
+      "title": "Interactive Information Retrieval: Models, Algorithms, and ...",
+      "link": "https://experts.illinois.edu/en/publications/interactive-information-retrieval-models-algorithms-and-evaluatio-2",
+      "displayed_link": "https://experts.illinois.edu/en/publications/...",
+      "snippet": "Zhai, C 2021, Interactive Information Retrieval: Models, Algorithms, and Evaluation. in SIGIR 2021 - Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval., 3462811, SIGIR 2021 - Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, Association for Computing \u2026"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.bing.com/search?count=50&q=information+retrieval+evaluation&first=51&FORM=PORE",
+    "other_pages": {
+      "2": "https://www.bing.com/search?count=50&q=information+retrieval+evaluation&first=51&FORM=PERE",
+      "3": "https://www.bing.com/search?count=50&q=information+retrieval+evaluation&first=101&FORM=PERE1",
+      "4": "https://www.bing.com/search?count=50&q=information+retrieval+evaluation&first=151&FORM=PERE2",
+      "5": "https://www.bing.com/search?count=50&q=information+retrieval+evaluation&first=201&FORM=PERE3"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=51&q=information+retrieval+evaluation",
+    "next": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=51&q=information+retrieval+evaluation",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=51&q=information+retrieval+evaluation",
+      "3": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=101&q=information+retrieval+evaluation",
+      "4": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=151&q=information+retrieval+evaluation",
+      "5": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=201&q=information+retrieval+evaluation"
+    }
+  }
+}

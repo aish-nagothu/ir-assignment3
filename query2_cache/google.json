@@ -1,0 +1,858 @@
+{
+  "search_metadata": {
+    "id": "61559f059b6472ec46056e70",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4fa33a35ca3cffc1/61559f059b6472ec46056e70.json",
+    "created_at": "2021-09-30 11:27:01 UTC",
+    "processed_at": "2021-09-30 11:27:01 UTC",
+    "google_url": "https://www.google.com/search?q=information+retrieval+evaluation&oq=information+retrieval+evaluation&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&num=50&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4fa33a35ca3cffc1/61559f059b6472ec46056e70.html",
+    "total_time_taken": 3.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "information retrieval evaluation",
+    "location_requested": "austin, texas, united states",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "num": "50",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "information retrieval evaluation",
+    "total_results": 131000000,
+    "time_taken_displayed": 0.87
+  },
+  "knowledge_graph": {
+    "title": "Evaluation measures",
+    "type": "Information retrieval",
+    "description": "Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)"
+    }
+  },
+  "inline_images": [
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhUEAE#imgrc=pZLBTBdc4muQ6M",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9x9-o5LR9F25LbSB4acfkwjaqNZPO7PX7fe5xwX8sRA&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhTEAE#imgrc=3ZiJP1heAzgOwM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9GsItwV3K2F1sSYi70CETk0tRxl7juW0r2WYZtUkXRQ&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhSEAE#imgrc=b-SXDSIKBCjfyM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XvyXHYTq5WhTjkATl-Mwl0h0x6GmYkR43L-Z6QcQkg&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhQEAE#imgrc=OJsFZTNyFn0Z8M",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdoOgFxehZA3oHFiKU4fZHT8WYCiZSvq-dcwv5WSrZUg&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhPEAE#imgrc=pKeIRI57bcTOXM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4OAKa8sM3jlmHm1exS9XgG_dU2USP4G6RRM_RH21MCg&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhNEAE#imgrc=_lS7bXShWxxrhM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJg8FMlRcWJXbxGQ58bisUDAgvczL09cpJ4YyXSje7iw&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhJEAE#imgrc=xj2gsXisBsUZ5M",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVDNWLIODkIgZJBhPbcZplnfaUf3Ls_-BVeLzRm1cB&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhFEAE#imgrc=sL-61-AN0dI6tM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxj1azQ3zCX6h3q8jCkotly8mRfGlCP8AezbSq0Ac&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAhDEAE#imgrc=7AWkdX5hMS8GPM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThxieP-g2iX5uVnq--0rbCPKGriM5z3KDmzuwSI5-tgw&s"
+    },
+    {
+      "link": "/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&tbm=isch&source=iu&ictx=1&fir=pZLBTBdc4muQ6M%252CpB3XuWLPyZjZ8M%252C_%253B3ZiJP1heAzgOwM%252CchNlAVTETZcPQM%252C_%253Bb-SXDSIKBCjfyM%252CW9B7YlfzQfM3sM%252C_%253BOJsFZTNyFn0Z8M%252CihHVu9FpgVoOmM%252C_%253BpKeIRI57bcTOXM%252CiBwkywktzudqHM%252C_%253B_lS7bXShWxxrhM%252CMDPQXxU9Dqj6-M%252C_%253Bxj2gsXisBsUZ5M%252CAEL-LmNzrBcwCM%252C_%253BsL-61-AN0dI6tM%252CbrKwzK0D7macGM%252C_%253B7AWkdX5hMS8GPM%252CZjdDWWn8miPXsM%252C_%253B36JuVsVFqxHeoM%252CpQPzTfE-5jJAQM%252C_&vet=1&usg=AI4_-kS-vHIOZqv9oKUYnYn_PwE2lZatoQ&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ9QF6BAg_EAE#imgrc=36JuVsVFqxHeoM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwDTDF2lUKIBYQQQFoQ30Vd8AyIldrAmRf6dGOp9XLZA&s"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Information Retrieval: Evaluation",
+      "link": "https://www.youtube.com/watch?v=BxAzuCSvF8s",
+      "thumbnail": "https://serpapi.com/searches/61559f059b6472ec46056e70/images/61da8219a2d6b13b3b5eec79292a729ef69bc244b7f388a24a6661f99dc726f1.jpeg",
+      "channel": "Jordan Boyd-Graber",
+      "duration": "6:16",
+      "platform": "YouTube",
+      "date": "Jan 25, 2019"
+    },
+    {
+      "position": 2,
+      "title": "Information Retrieval Evaluation - I",
+      "link": "https://www.youtube.com/watch?v=0zWXSmyvr0M",
+      "thumbnail": "https://serpapi.com/searches/61559f059b6472ec46056e70/images/61da8219a2d6b13b1b96808ec84f8ad4a675f3c4615175ee03c706f0b981d6a0.jpeg",
+      "channel": "WIT Solapur - Professional Learning Community",
+      "duration": "9:51",
+      "platform": "YouTube",
+      "date": "Mar 7, 2019"
+    },
+    {
+      "position": 3,
+      "title": "Evaluating Retrieval System Effectiveness",
+      "link": "https://www.youtube.com/watch?v=Tw4guy9X8U0",
+      "thumbnail": "https://serpapi.com/searches/61559f059b6472ec46056e70/images/61da8219a2d6b13bc54ff69cb870f855a49f753e665cf6ed7a6d712d28148de7.jpeg",
+      "channel": "Microsoft Research",
+      "duration": "1:11:30",
+      "platform": "YouTube",
+      "date": "Sep 6, 2016"
+    },
+    {
+      "position": 4,
+      "title": "Introduction to Information Retrieval",
+      "link": "https://www.youtube.com/watch?v=2qFg_k7-ksA",
+      "thumbnail": "https://serpapi.com/searches/61559f059b6472ec46056e70/images/61da8219a2d6b13bcb0b28ed1bf85ba944aaea5afcac37696ccf3018b5a9f98b.jpeg",
+      "channel": "Data Science & Machine Learning - MLMINDS",
+      "duration": "7:35",
+      "platform": "YouTube",
+      "date": "Aug 30, 2018"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "title": "Books on information Retrieval",
+      "items": [
+        {
+          "name": "Introduction to informatio...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3BIWtGd6_csklApBxNI7nCO8ag750aj3hq6aRa351cnjVdnrFokHOMw&s=0",
+          "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Introduction+to+information+retrieval&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDVMqsotNJJLys_PLlbIz1PIzEvLL8pNLMkEsotSS4oyU8sSc6KwCyuAiFKw4ClGJONOMfLop-sbGpZZ5mUYWaZBuUZJuemWBrmGUKUpOaamSeUwOZOsNLOi7GSE0rSqwpJiBNcsOc3QDG5JipmBAUIuOc2oBOgAXrCdSZXpxmVJJVW_GOWcsPkpCOb4BhbGRayqnnklRfkppclguZJ87P68xSbJcGMml-n6bZNW9j2-Er7iw8nU2H3Sq_LDi00Bv-uyvUkBAAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQs9oBKAB6BAgoEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Introduction+to+information+retrieval&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDVMqsotNJJLys_PLlbIz1PIzEvLL8pNLMkEsotSS4oyU8sSc6KwCyuAiFKw4ClGJONOMfLop-sbGpZZ5mUYWaZBuUZJuemWBrmGUKUpOaamSeUwOZOsNLOi7GSE0rSqwpJiBNcsOc3QDG5JipmBAUIuOc2oBOgAXrCdSZXpxmVJJVW_GOWcsPkpCOb4BhbGRayqnnklRfkppclguZJ87P68xSbJcGMml-n6bZNW9j2-Er7iw8nU2H3Sq_LDi00Bv-uyvUkBAAA"
+        },
+        {
+          "name": "Statistical Language Models for...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIrCefX_fxvtg7ceymK_pcHKRo1th6NaLnw59BAk06kzU9i8h15Q7-Hw&s=0",
+          "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Statistical+Language+Models+for+Information+Retrieval&stick=H4sIAAAAAAAAAOOQUeLRT9c3NCyzzMswskwzkkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMKKZDuUZJuemWBrmGUKUpOaamSeUwOZOsNLOi7GSE0rSqwpJiBNcsOc3QDG5JipmBAUIuOc2oBOgAXrCdSZXpxmVJJVW_GOWcsPkpCOb4BhbGRaymwSVA4eKSzGSgb3wS89JLE9NTFXzzU1JzihWAmhQ8sWm9xSbJcGMml-n6bZNW9j2-Er7iw8nU2H3Sq_LDi00BTYsws1sBAAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQs9oBKAF6BAgoEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Statistical+Language+Models+for+Information+Retrieval&stick=H4sIAAAAAAAAAOOQUeLRT9c3NCyzzMswskwzkkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMKKZDuUZJuemWBrmGUKUpOaamSeUwOZOsNLOi7GSE0rSqwpJiBNcsOc3QDG5JipmBAUIuOc2oBOgAXrCdSZXpxmVJJVW_GOWcsPkpCOb4BhbGRaymwSVA4eKSzGSgb3wS89JLE9NTFXzzU1JzihWAmhQ8sWm9xSbJcGMml-n6bZNW9j2-Er7iw8nU2H3Sq_LDi00BTYsws1sBAAA"
+        },
+        {
+          "name": "Understan... Information Retrieval...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4DRmByVze6cKdpFq26akdiNw763nERbtl-ihsn8M-GNoLuGJUiVBfQQ&s=0",
+          "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Understanding+Information+Retrieval+Systems:+Management,+Types,+and+Standards&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKTbc0yDU0kkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMYNMNyyzzMows06BcmGVQpSk5pqZJ5TA5k6w0s6LsZITStKrCkmIE1yw5zdAMbkmKmYEBQi45zagE6ABesJ1JlenGZUklVb8Y5Zyw-SkI5vgGFsZFrL6heSmpRcUliXkpmXnpCp7YFCoEVxaXpOYWWyn4JuYlpqfmpuaV6CiEVBakFusoADUqBIO0JxalFN9ik2S4MZPLdP22SSv7Hl8JX_HhZGrsPulV-eHFpgAT2L43cwEAAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQs9oBKAJ6BAgoEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Understanding+Information+Retrieval+Systems%3A+Management%2C+Types%2C+and+Standards&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKTbc0yDU0kkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMYNMNyyzzMows06BcmGVQpSk5pqZJ5TA5k6w0s6LsZITStKrCkmIE1yw5zdAMbkmKmYEBQi45zagE6ABesJ1JlenGZUklVb8Y5Zyw-SkI5vgGFsZFrL6heSmpRcUliXkpmXnpCp7YFCoEVxaXpOYWWyn4JuYlpqfmpuaV6CiEVBakFusoADUqBIO0JxalFN9ik2S4MZPLdP22SSv7Hl8JX_HhZGrsPulV-eHFpgAT2L43cwEAAA"
+        },
+        {
+          "name": "Text Information Retrieval...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSG4ne_2ROBAGxziaaPn1FAqu_4iz8zj526UZJOnxIZ4Od2otms6e-eg&s=0",
+          "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Text+Information+Retrieval+Systems+Charles+T+Meadow&stick=H4sIAAAAAAAAAOOQUeLSz9U3SMkxNU0qN5JLys_PLlbIz1PIzEvLL8pNLMkEsotSS4oyU8sSc6KwCyuAiFKw4ClGsHGmhklVuYWnGHn00_UNDcss8zKMLNOgXKOk3HRLg1xDqFKIzTA5k6w0s6LsZITStKrCkmIE1yw5zdAMbkmKmYEBQi45zagE6ABesJ1JlenGZUklVb8Y5Zyw-SkI5vgGFsZFrMYhqRUlCp7Y5BWCK4tLUnOLFZwzEotyUosVQhR8UxNT8stvsUky3JjJZbp-26SVfY-vhK_4cDI1dp_0qvzwYlMALHF4dlcBAAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQs9oBKAN6BAgoEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Text+Information+Retrieval+Systems+Charles+T+Meadow&stick=H4sIAAAAAAAAAOOQUeLSz9U3SMkxNU0qN5JLys_PLlbIz1PIzEvLL8pNLMkEsotSS4oyU8sSc6KwCyuAiFKw4ClGsHGmhklVuYWnGHn00_UNDcss8zKMLNOgXKOk3HRLg1xDqFKIzTA5k6w0s6LsZITStKrCkmIE1yw5zdAMbkmKmYEBQi45zagE6ABesJ1JlenGZUklVb8Y5Zyw-SkI5vgGFsZFrMYhqRUlCp7Y5BWCK4tLUnOLFZwzEotyUosVQhR8UxNT8stvsUky3JjJZbp-26SVfY-vhK_4cDI1dp_0qvzwYlMALHF4dlcBAAA"
+        },
+        {
+          "name": "Modern Information Retrieval",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuLgNY50VCEE-6v6Y9HY6Jh7uC8-uIqOrpa_c9C2EvHLzVl6CzM02eLg&s=0",
+          "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Modern+Information+Retrieval&stick=H4sIAAAAAAAAAOOQUeLRT9c3NDLJSjMryk42kkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMYNMNyyzzMows06Bco6TcdEuDXEOo0pQcU9Okcpgc1CEIpWlVhSXFCK5ZcpqhGdySFDMDA4RccppRCdABvGA7kyrTjcuSSqp-Mco5YfNTEMzxDSyMi1hlfPNTUovyFDyxqbjFJslwYyaX6fptk1b2Pb4SvuLDydTYfdKr8sOLTQGXEna5QgEAAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQs9oBKAR6BAgoEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Modern+Information+Retrieval&stick=H4sIAAAAAAAAAOOQUeLRT9c3NDLJSjMryk42kkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMYNMNyyzzMows06Bco6TcdEuDXEOo0pQcU9Okcpgc1CEIpWlVhSXFCK5ZcpqhGdySFDMDA4RccppRCdABvGA7kyrTjcuSSqp-Mco5YfNTEMzxDSyMi1hlfPNTUovyFDyxqbjFJslwYyaX6fptk1b2Pb4SvuLDydTYfdKr8sOLTQGXEna5QgEAAA"
+        },
+        {
+          "name": "Information Retrieval: Implement...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_3FiDs5GJ0X77hPXuo4BRMSMzyBroJ7He6cVTSMk3nDGAoFYJEQ6D_A&s=0",
+          "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Information+Retrieval:+Implementing+and+Evaluating+Search+Engines&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKTasqLCk2kkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMYNMNyyzzMows06BcoGXplga5hlClKTmmpknlMDmTrDSzouxkhFKwuxBcs-Q0QzO4JSlmBgYIueQ0oxKgA3jBdiZVphuXJZVU_WKUc8LmpyCY4xtYGBexOnpik7JS8MwtyEnNTc0rycxLV0jMS1FwhfoUyA1OTSxKzlBwzUvPzEstvsUmyXBjJpfp-m2TVvY9vhK-4sPJ1Nh90qvyw4tNAT0hCuRnAQAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQs9oBKAV6BAgoEAg",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Information+Retrieval%3A+Implementing+and+Evaluating+Search+Engines&stick=H4sIAAAAAAAAAOOQUeLRT9c3NErKTasqLCk2kkvKz88uVsjPU8jMS8svyk0syQSyi1JLijJTyxJzorALK4CIUrDgKUYu_Vx9A1PDpKrcwlOMYNMNyyzzMows06BcoGXplga5hlClKTmmpknlMDmTrDSzouxkhFKwuxBcs-Q0QzO4JSlmBgYIueQ0oxKgA3jBdiZVphuXJZVU_WKUc8LmpyCY4xtYGBexOnpik7JS8MwtyEnNTc0rycxLV0jMS1FwhfoUyA1OTSxKzlBwzUvPzEstvsUmyXBjJpfp-m2TVvY9vhK-4sPJ1Nh90qvyw4tNAT0hCuRnAQAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Books+on+information+Retrieval&stick=H4sIAAAAAAAAAOOQMZJLys_PLlbIz1PIzEvLL8pNLMkEsotSS4oyU8sSc6KwCyuAiFKw4ClGLv1cfQNTw6Sq3MJTjDz66fqGhmWWeRlGlmlQrlFSbrqlQa4hVGlKjqlpUjlMziQrzawoOxmhNK2qsKQYwTVLTjM0g1uSYmZggJBLTjMqATqAF2xnUmW6cVlSSdUvRjknbH4Kgjm-gYVxESsBNbfYJBluzOQyXb9t0sq-x1fCV3w4mRq7T3pVfnixKQAeaNXpNgEAAA&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ4qYDegQIKBAJ",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=Books+on+information+Retrieval&stick=H4sIAAAAAAAAAOOQMZJLys_PLlbIz1PIzEvLL8pNLMkEsotSS4oyU8sSc6KwCyuAiFKw4ClGLv1cfQNTw6Sq3MJTjDz66fqGhmWWeRlGlmlQrlFSbrqlQa4hVGlKjqlpUjlMziQrzawoOxmhNK2qsKQYwTVLTjM0g1uSYmZggJBLTjMqATqAF2xnUmW6cVlSSdUvRjknbH4Kgjm-gYVxESsBNbfYJBluzOQyXb9t0sq-x1fCV3w4mRq7T3pVfnixKQAeaNXpNgEAAA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How do you evaluate information retrieval?",
+      "snippet": "To evaluate using the Cranfield approach typically requires these stages: (1) select different retrieval strategies or systems to compare; (2) use these to produce ranked lists of documents (often called runs) for each query (often called topics); (3) compute the effectiveness of each strategy for every query in the ...Jun 2, 2013",
+      "title": "Evaluating the performance of information retrieval systems ...",
+      "link": "http://informationr.net/ir/18-2/paper582.html",
+      "displayed_link": "http://informationr.net \u203a paper582"
+    },
+    {
+      "question": "What is retrieval performance evaluation?",
+      "snippet": "The idea is to generate a single value summary of the ranking by averaging the precision figures obtained after each new relevant document is observed. e.g. for example 1: (1+0.66+0.5+0.4+03)/5. This measure favors systems which retrieve relevant documents quickly.",
+      "title": "Retrieval Performance Evaluation",
+      "link": "https://staff.csie.ncu.edu.tw/chia/Course/IR/IR1999/evaluation.ppt",
+      "displayed_link": "https://staff.csie.ncu.edu.tw \u203a chia \u203a Course \u203a evaluation"
+    },
+    {
+      "question": "What should I evaluate in IR?",
+      "snippet": "Information retrieval system evaluation.Standard test collections.Evaluation of unranked retrieval sets.Evaluation of ranked retrieval results.Assessing relevance. ... A broader perspective: System quality and user utility. ... Results snippets.References and further reading.",
+      "title": "Subsections",
+      "link": "https://nlp.stanford.edu/IR-book/html/htmledition/evaluation-in-information-retrieval-1.html",
+      "displayed_link": "https://nlp.stanford.edu \u203a IR-book \u203a html \u203a htmledition"
+    },
+    {
+      "question": "Why we need the evaluation of information retrieval system?",
+      "snippet": "Evaluation of information retrieval system measure which of the two existing system perform better and try to assess how the level of performance of a given can be improved. Effectiveness and Efficiency are two basic parameter for measuring the performance of system.",
+      "title": "EVALUATION OF INFORMATION RETRIEVAL SYSTEMS",
+      "link": "https://upload.wikimedia.org/wikipedia/commons/1/17/Evaluation_of_information_retrieval_system_purpose_and_retrieval.pdf",
+      "displayed_link": "https://upload.wikimedia.org \u203a commons \u203a Evalua..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Evaluation measures (information retrieval) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)",
+      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Evaluation_measures_...",
+      "snippet": "Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent.",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Offline metrics",
+            "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Offline_metrics"
+          },
+          {
+            "title": "Precision",
+            "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Precision"
+          },
+          {
+            "title": "F-score / F-measure",
+            "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#F-score_/_F-measure"
+          },
+          {
+            "title": "Precision at k",
+            "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)#Precision_at_k"
+          }
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "title": "Information retrieval system evaluation - Stanford NLP Group",
+      "link": "https://nlp.stanford.edu/IR-book/html/htmledition/information-retrieval-system-evaluation-1.html",
+      "displayed_link": "https://nlp.stanford.edu \u203a IR-book \u203a html \u203a htmledition",
+      "snippet": "The standard approach to information retrieval system evaluation revolves around the notion of relevant and nonrelevant documents. With respect to a user ..."
+    },
+    {
+      "position": 3,
+      "title": "Evaluation Metrics For Information Retrieval - Amit Chaudhary",
+      "link": "https://amitness.com/2020/08/information-retrieval-evaluation/",
+      "displayed_link": "https://amitness.com \u203a 2020/08 \u203a information-retrieval-...",
+      "date": "Oct 8, 2020",
+      "snippet": "Learn about common metrics used to evaluate performance of information retrieval systems."
+    },
+    {
+      "position": 4,
+      "title": "Information Retrieval Evaluation.pdf",
+      "link": "http://sifaka.cs.uiuc.edu/~wang296/Course/IR_Fall/docs/PDFs/Information%20Retrieval%20Evaluation.pdf",
+      "displayed_link": "http://sifaka.cs.uiuc.edu \u203a IR_Fall \u203a docs \u203a PDFs",
+      "date": "50 pages",
+      "snippet": "Retrieval evaluation. \u2022 Aforementioned evaluation criteria are all good, but not essential. \u2013 Goal of any IR system. \u2022 Satisfying users' information need."
+    },
+    {
+      "position": 5,
+      "title": "Evaluating the performance of information retrieval systems ...",
+      "link": "http://informationr.net/ir/18-2/paper582.html",
+      "displayed_link": "http://informationr.net \u203a paper582",
+      "snippet": "To evaluate means to \"ascertain the value or amount of something or to appraise it\" (Kiewitt 1979: 3) and involves identifying suitable success ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by P Clough",
+            "2013",
+            "Cited by 79 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2013,
+            "cited_by": 79
+          }
+        }
+      }
+    },
+    {
+      "position": 6,
+      "title": "EVALUATION OF INFORMATION RETRIEVAL SYSTEMS",
+      "link": "https://upload.wikimedia.org/wikipedia/commons/1/17/Evaluation_of_information_retrieval_system_purpose_and_retrieval.pdf",
+      "displayed_link": "https://upload.wikimedia.org \u203a commons \u203a Evalua...",
+      "date": "13 pages",
+      "snippet": "Evaluation of information retrieval system measure which of the two existing system perform better and try to assess how the level of performance of a given can ..."
+    },
+    {
+      "position": 7,
+      "title": "Evaluation of Information Retrieval System - SlideShare",
+      "link": "https://www.slideshare.net/somipam123456/evaluation-of-information-retrieval-system",
+      "displayed_link": "https://www.slideshare.net \u203a somipam123456 \u203a evaluati...",
+      "snippet": "It ascertain the degree of achievement in regard to the aim and objectives and results of any such action that has been completed. Evaluation of ..."
+    },
+    {
+      "position": 8,
+      "title": "Information Retrieval Computer Science Tripos Part II",
+      "link": "https://www.cl.cam.ac.uk/teaching/1516/InfoRtrv/lecture6-evaluation.pdf",
+      "displayed_link": "https://www.cl.cam.ac.uk \u203a lecture6-evaluation",
+      "date": "221 pages",
+      "snippet": "Today: how good are the returned documents? 227. Page 10. Overview. 1 Recap/Catchup. 2 Introduction. 3 Unranked evaluation. 4 Ranked evaluation. 5 Benchmarks. 6 ..."
+    },
+    {
+      "position": 9,
+      "title": "(PDF) Evaluation of information retrieval: precision and recall",
+      "link": "https://www.researchgate.net/publication/292671645_Evaluation_of_information_retrieval_precision_and_recall",
+      "displayed_link": "https://www.researchgate.net \u203a ... \u203a Retrieval",
+      "date": "Dec 15, 2018",
+      "snippet": "The information retrieval system evaluation revolves around the notion of relevant and non-relevant documents."
+    },
+    {
+      "position": 10,
+      "title": "Evaluation of Information Retrieval Systems",
+      "link": "https://clgiles.ist.psu.edu/IST441/materials/powerpoint/eval-week3/retrieval-evaluation.ppt",
+      "displayed_link": "https://clgiles.ist.psu.edu \u203a powerpoint \u203a eval-week3",
+      "snippet": "Recall? Precision? Order of ranking? Evaluation Issues. To place information retrieval on a systematic basis, we need repeatable criteria to evaluate how ..."
+    },
+    {
+      "position": 11,
+      "title": "Evaluation measures (information retrieval) - Wikiwand",
+      "link": "https://www.wikiwand.com/en/Evaluation_measures_(information_retrieval)",
+      "displayed_link": "https://www.wikiwand.com \u203a Evaluation_measures_(inf...",
+      "snippet": "Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent."
+    },
+    {
+      "position": 12,
+      "title": "10. Evaluation in Information Retrieval - Universit\u00e4t Mannheim",
+      "link": "https://www.uni-mannheim.de/media/Einrichtungen/dws/Files_People/Profs/goran/10-Evaluation-FSS20.pdf",
+      "displayed_link": "https://www.uni-mannheim.de \u203a Profs \u203a goran \u203a 1...",
+      "date": "Apr 20, 2020",
+      "snippet": "Evaluation in Information Retrieval ... Understand what the pooling method is and how it is leveraged in information retrieval evaluation ..."
+    },
+    {
+      "position": 13,
+      "title": "EVALUATION OF INFORMATION RETRIEVAL SYSTEMS",
+      "link": "http://airccse.org/journal/jcsit/0612csit04.pdf",
+      "displayed_link": "http://airccse.org \u203a journal \u203a jcsit",
+      "date": "9 pages",
+      "snippet": "complement one another to adequately evaluate information retrieval systems. The visual evaluation methods are capable of indicating whether one IRS ..."
+    },
+    {
+      "position": 14,
+      "title": "The Philosophy of Information Retrieval Evaluation Ellen M ...",
+      "link": "https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151546",
+      "displayed_link": "https://tsapps.nist.gov \u203a publication \u203a get_pdf",
+      "snippet": "The evaluation of information retrieval (IR) systems is the process of ... used in evaluation efforts such as the Text REtrieval Conference (TREC), the."
+    },
+    {
+      "position": 15,
+      "title": "Online Evaluation for Information Retrieval - Microsoft",
+      "link": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/ftir-online-evaluation-final-journal.pdf",
+      "displayed_link": "https://www.microsoft.com \u203a uploads \u203a 2016/06",
+      "date": "120 pages",
+      "snippet": "niques for information retrieval. We show how online evaluation is used for controlled experiments, segmenting them into experiment designs."
+    },
+    {
+      "position": 16,
+      "title": "Information Retrieval Evaluation Measuring Effectiveness",
+      "link": "http://people.cs.georgetown.edu/~nazli/classes/ir-Slides/Evaluation-12.pdf",
+      "displayed_link": "http://people.cs.georgetown.edu \u203a Evaluation-12",
+      "date": "20 pages",
+      "snippet": "Information Retrieval. Evaluation. (COSC 488). Nazli Goharian nazli@cs.georgetown.edu. @ Goharian, Grossman, Frieder, 2002, 2012. 2. Measuring Effectiveness."
+    },
+    {
+      "position": 17,
+      "title": "Evaluation of information retrieval systems using structural ...",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1574013718301990",
+      "displayed_link": "https://www.sciencedirect.com \u203a science \u203a article \u203a pii",
+      "snippet": "Evaluation of information retrieval systems using structural equation modeling\u2606 ... The aforementioned context is where Information Retrieval (IR) systems ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by M Melucci",
+            "2019",
+            "Cited by 9 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2019,
+            "cited_by": 9
+          }
+        }
+      }
+    },
+    {
+      "position": 18,
+      "title": "Information Retrieval Evaluation - Morgan & Claypool Publishers",
+      "link": "https://www.morganclaypool.com/doi/abs/10.2200/S00368ED1V01Y201105ICR019",
+      "displayed_link": "https://www.morganclaypool.com \u203a doi \u203a abs",
+      "snippet": "Abstract Evaluation has always played a major role in information retrieval, with the early pioneers such as Cyril Cleverdon and Gerard Salton laying the ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by D Harman",
+            "2011",
+            "Cited by 148 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2011,
+            "cited_by": 148
+          }
+        }
+      }
+    },
+    {
+      "position": 19,
+      "title": "Evaluation in information retrieval (Chapter 8) - Introduction to ...",
+      "link": "https://www.cambridge.org/core/books/introduction-to-information-retrieval/evaluation-in-information-retrieval/1DE7AC4EC9996792D8590212D735AF15",
+      "displayed_link": "https://www.cambridge.org \u203a core \u203a books \u203a evaluation-in...",
+      "snippet": "Introduction to Information Retrieval - July 2008. ... kinds of evaluation measures that are standardly used for document retrieval and related tasks like ..."
+    },
+    {
+      "position": 20,
+      "title": "Modern Information Retrieval",
+      "link": "https://homepages.dcc.ufmg.br/~nivio/cursos/ri10/transp/slideschap_eval.pdf",
+      "displayed_link": "https://homepages.dcc.ufmg.br \u203a slideschap_eval",
+      "snippet": "suggested by humans for a same set of queries. Retrieval Evaluation, Modern Information Retrieval, Addison Wesley, 2010 \u2013 p. 4 ..."
+    },
+    {
+      "position": 21,
+      "title": "Improving the Reliability and Robustness of Information ...",
+      "link": "https://minerva-access.unimelb.edu.au/handle/11343/233322",
+      "displayed_link": "https://minerva-access.unimelb.edu.au \u203a handle",
+      "snippet": "Batch evaluation techniques are often used to measure and compare the performance of Information Retrieval (IR) systems. In these approaches, IR evaluation ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by Z Yang",
+            "2019 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2019
+          }
+        }
+      }
+    },
+    {
+      "position": 22,
+      "title": "Information retrieval system evaluation - ACM Digital Library",
+      "link": "https://dl.acm.org/doi/10.1145/1076034.1076064",
+      "displayed_link": "https://dl.acm.org \u203a doi",
+      "snippet": "The effectiveness of information retrieval systems is measured by comparing performance on a common set of queries and documents.",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by M Sanderson",
+            "2005",
+            "Cited by 404 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2005,
+            "cited_by": 404
+          }
+        }
+      }
+    },
+    {
+      "position": 23,
+      "title": "Test Collection Based Evaluation of ... - Mark Sanderson",
+      "link": "http://marksanderson.org/publications/my_papers/FnTIR.pdf",
+      "displayed_link": "http://marksanderson.org \u203a my_papers \u203a FnTIR",
+      "snippet": "Use of test collections and evaluation measures to assess the effective- ness of information retrieval systems has its origins in work dating back to the early ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by M Sanderson",
+            "2010",
+            "Cited by 415 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2010,
+            "cited_by": 415
+          }
+        }
+      }
+    },
+    {
+      "position": 24,
+      "title": "A Nugget-based Information Retrieval Evaluation Paradigm",
+      "link": "http://www.ccs.neu.edu/home/jaa/IIS-1256172/",
+      "displayed_link": "http://www.ccs.neu.edu \u203a home \u203a jaa \u203a IIS-1256172",
+      "date": "Oct 13, 2017",
+      "snippet": "Evaluating information retrieval systems, such as search engines, is critical to their effective development. Current performance evaluation ..."
+    },
+    {
+      "position": 25,
+      "title": "Methods for Evaluating Interactive Information Retrieval ...",
+      "link": "https://ils.unc.edu/courses/2013_spring/inls509_001/papers/FnTIR-Press-Kelly.pdf",
+      "displayed_link": "https://ils.unc.edu \u203a papers \u203a FnTIR-Press-Kelly",
+      "snippet": "evaluating interactive information retrieval systems with users, it can ... There is a small body of research on evaluation models, methods, and.",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by D Kelly",
+            "2009",
+            "Cited by 692 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2009,
+            "cited_by": 692
+          }
+        }
+      }
+    },
+    {
+      "position": 26,
+      "title": "A Framework for Evaluating the Retrieval Effectiveness of ...",
+      "link": "https://arxiv.org/pdf/1511.05817",
+      "displayed_link": "https://arxiv.org \u203a pdf",
+      "snippet": "information on information retrieval evaluation is presented; next, ... hoc queries for evaluation and calculating effectiveness measures such as precision ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by D Lewandowski",
+            "2015",
+            "Cited by 32 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2015,
+            "cited_by": 32
+          }
+        }
+      }
+    },
+    {
+      "position": 27,
+      "title": "Building High-Quality Datasets for Information Retrieval ...",
+      "link": "https://www.mdpi.com/2504-3900/21/1/33/pdf",
+      "displayed_link": "https://www.mdpi.com \u203a pdf",
+      "snippet": "Retrieval Evaluation at a Reduced Cost. \u2020. David Otero * , Daniel Valcarce , Javier Parapar and \u00c1lvaro Barreiro. Information Retrieval Lab ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by D Otero",
+            "2019 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2019
+          }
+        }
+      }
+    },
+    {
+      "position": 28,
+      "title": "Lesson 3.1: Evaluation of TR Systems - Week 3 | Coursera",
+      "link": "https://www.coursera.org/lecture/text-retrieval/lesson-3-1-evaluation-of-tr-systems-YSvkh",
+      "displayed_link": "https://www.coursera.org \u203a lecture \u203a text-retrieval \u203a lesson...",
+      "date": "May 24, 2016",
+      "snippet": "In this week's lessons, you will learn how to evaluate an information retrieval system (a search engine), including the basic measures ..."
+    },
+    {
+      "position": 29,
+      "title": "Using Replicates in Information Retrieval Evaluation - NCBI",
+      "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5997300/",
+      "displayed_link": "https://www.ncbi.nlm.nih.gov \u203a articles \u203a PMC5997300",
+      "snippet": "A retrieval system creates a run containing a ranked list of documents for each topic, such that each list is sorted by decreasing likelihood that the document ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by EM VOORHEES",
+            "2017",
+            "Cited by 19 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2017,
+            "cited_by": 19
+          }
+        }
+      }
+    },
+    {
+      "position": 30,
+      "title": "Online Evaluation for Information Retrieval - IEEE Xplore",
+      "link": "https://ieeexplore.ieee.org/document/8187018",
+      "displayed_link": "https://ieeexplore.ieee.org \u203a document",
+      "snippet": "Online evaluation is one of the most common approaches to measure the effectiveness of an information retrieval system. It involves fielding the information ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by K Hofmann",
+            "2016",
+            "Cited by 95 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2016,
+            "cited_by": 95
+          }
+        }
+      }
+    },
+    {
+      "position": 31,
+      "title": "The development of a method for the evaluation of interactive ...",
+      "link": "https://www.emerald.com/insight/content/doi/10.1108/EUM0000000007198/full/html",
+      "displayed_link": "https://www.emerald.com \u203a ... \u203a Volume 53 Issue 3",
+      "snippet": "The development of a method for the evaluation of interactive information retrieval systems - Author: Pia Borlund, Peter Ingwersen.",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by P Borlund",
+            "1997",
+            "Cited by 362 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 1997,
+            "cited_by": 362
+          }
+        }
+      }
+    },
+    {
+      "position": 32,
+      "title": "Information Retrieval: Implementing and Evaluating Search ...",
+      "link": "https://www.amazon.com/Information-Retrieval-Implementing-Evaluating-Engines/dp/0262528878",
+      "displayed_link": "https://www.amazon.com \u203a Information-Retrieval-Impl...",
+      "snippet": "Amazon.com: Information Retrieval: Implementing and Evaluating Search Engines (The MIT Press): 9780262528870: Buttcher, Stefan, Clarke, Charles L. A., ..."
+    },
+    {
+      "position": 33,
+      "title": "[PDF] Novelty and diversity in information retrieval evaluation",
+      "link": "https://www.semanticscholar.org/paper/Novelty-and-diversity-in-information-retrieval-Clarke-Kolla/15004aadabd967ac722a28a9c3bb39cf5bc32605",
+      "displayed_link": "https://www.semanticscholar.org \u203a paper \u203a Novelty-and-di...",
+      "snippet": "Evaluation measures act as objective functions to be optimized by information retrieval systems. Such objective functions must accurately reflect user ..."
+    },
+    {
+      "position": 34,
+      "title": "Exploring Topic Difficulty in Information Retrieval Systems ...",
+      "link": "https://iopscience.iop.org/article/10.1088/1742-6596/1339/1/012019",
+      "displayed_link": "https://iopscience.iop.org \u203a article",
+      "snippet": "Experimental or relevance assessment cost as well as reliability of an information retrieval (IR) evaluation is highly correlated to the number of topics ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by WT Pang",
+            "2019 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2019
+          }
+        }
+      }
+    },
+    {
+      "position": 35,
+      "title": "Novelty and Diversity in Information Retrieval Evaluation - PLG",
+      "link": "https://plg.uwaterloo.ca/~gvcormac/novelty.pdf",
+      "displayed_link": "https://plg.uwaterloo.ca \u203a ~gvcormac \u203a novelty",
+      "snippet": "ABSTRACT. Evaluation measures act as objective functions to be op- timized by information retrieval systems. Such objective.",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by CLA Clarke",
+            "2008",
+            "Cited by 1080 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2008,
+            "cited_by": 1080
+          }
+        }
+      }
+    },
+    {
+      "position": 36,
+      "title": "Information Retrieval | The MIT Press",
+      "link": "https://mitpress.mit.edu/books/information-retrieval",
+      "displayed_link": "https://mitpress.mit.edu \u203a books \u203a information-retrieval",
+      "snippet": "Information retrieval is the foundation for modern search engines. ... including algorithms, data structures, indexing, retrieval, and evaluation."
+    },
+    {
+      "position": 37,
+      "title": "information retrieval evaluation python precision, recall, f ...",
+      "link": "https://stackoverflow.com/questions/40457331/information-retrieval-evaluation-python-precision-recall-f-score-ap-map",
+      "displayed_link": "https://stackoverflow.com \u203a questions \u203a information-ret...",
+      "snippet": "Since you are new, i am writing briefly how to compute precision, recall, fscore, AP and MAP in an information retrieval system.",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "nov": 15,
+            "answers": 2
+          },
+          "extensions": [
+            "Nov 15, 2016",
+            "2 answers"
+          ]
+        }
+      }
+    },
+    {
+      "position": 38,
+      "title": "Creation of Reliable Relevance Judgments in Information ...",
+      "link": "https://www.hindawi.com/journals/tswj/2014/135641/",
+      "displayed_link": "https://www.hindawi.com \u203a journals \u203a tswj",
+      "snippet": "Test collection is used to evaluate the information retrieval systems in laboratory-based evaluation experimentation. In a classic setting, ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by P Samimi",
+            "Cited by 14 \u2014"
+          ],
+          "detected_extensions": {
+            "cited_by": 14
+          }
+        },
+        "bottom": {
+          "extensions": [
+            "Crowdsourcing: Crowdsourcing is defined as ...",
+            "User-based methods: Description",
+            "Human in the lab: This method involves human ...",
+            "Using clickthrough data: Clickthrough data is u..."
+          ]
+        }
+      }
+    },
+    {
+      "position": 39,
+      "title": "What are the online evaluation metrics for Information ...",
+      "link": "https://genaiz.com/tech-insights/online-evaluation-metrics-for-information-retrieval-systems/",
+      "displayed_link": "https://genaiz.com \u203a tech-insights \u203a online-evaluation-m...",
+      "snippet": "What are the online evaluation metrics for Information Retrieval Systems? ... most relevant set of documents (effectiveness or quality goal) as quickly as ..."
+    },
+    {
+      "position": 40,
+      "title": "What is Information Retrieval? - GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/what-is-information-retrieval/",
+      "displayed_link": "https://www.geeksforgeeks.org \u203a what-is-information-re...",
+      "date": "Jul 9, 2020",
+      "snippet": "The softwarethe program that deals with the organization, storage, retrieval, and evaluation of information from document repositories ..."
+    },
+    {
+      "position": 41,
+      "title": "Test Collection Based Evaluation of Information Retrieval ...",
+      "link": "https://www.nowpublishers.com/article/Details/INR-009",
+      "displayed_link": "https://www.nowpublishers.com \u203a Details \u203a INR-009",
+      "snippet": "Use of test collections and evaluation measures to assess the effectiveness of information retrieval systems has its origins in work dating back ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by M Sanderson",
+            "2010",
+            "Cited by 415 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2010,
+            "cited_by": 415
+          }
+        }
+      }
+    },
+    {
+      "position": 42,
+      "title": "Evaluation in Information Retrieval - Indian Statistical Institute",
+      "link": "https://www.isical.ac.in/~debapriyo/teaching/ir2015/slides/evaluation.v3.pdf",
+      "displayed_link": "https://www.isical.ac.in \u203a slides \u203a evaluation.v3.pdf",
+      "snippet": "Relevance judgments - information about which document is relevant to which query . M. Mitra (ISI). Evaluation in Information Retrieval."
+    },
+    {
+      "position": 43,
+      "title": "Evaluating Information Retrieval. A story of Precision & Recall",
+      "link": "https://sniafas.medium.com/evaluating-information-retrieval-3975348ef97a",
+      "displayed_link": "https://sniafas.medium.com \u203a evaluating-information-re...",
+      "snippet": "Continuing from the latest post, it would be a great chance to discuss some of my grasps of evaluation methodologies in Information Retrieval presenting the ..."
+    },
+    {
+      "position": 44,
+      "title": "Towards New Measures of Information Retrieval Evaluation",
+      "link": "https://dmice.ohsu.edu/hersh/sigir-95-taskeval.pdf",
+      "displayed_link": "https://dmice.ohsu.edu \u203a hersh \u203a sigir-95-taskeval",
+      "snippet": "All of the methods cumently used to evaluate information retrieval (Ill) systems have limitations in their ability to measure how well users are able to ...",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by WR Hersh",
+            "Cited by 67 \u2014"
+          ],
+          "detected_extensions": {
+            "cited_by": 67
+          }
+        }
+      }
+    },
+    {
+      "position": 45,
+      "title": "NLP - Information Retrieval - Tutorialspoint",
+      "link": "https://www.tutorialspoint.com/natural_language_processing/natural_language_processing_information_retrieval.htm",
+      "displayed_link": "https://www.tutorialspoint.com \u203a natural_language_pro...",
+      "snippet": "Information retrieval (IR) may be defined as a software program that deals with the organization, storage, retrieval and evaluation of information from ..."
+    },
+    {
+      "position": 46,
+      "title": "Models, Performance Evaluation Techniques and Applications",
+      "link": "https://www.eurekaselect.com/node/190574/article/review-of-information-retrieval-models-performance-evaluation-techniques-and-applications",
+      "displayed_link": "https://www.eurekaselect.com \u203a node \u203a article \u203a review-...",
+      "date": "Jan 21, 2021",
+      "snippet": "Information retrieval (IR) is a field that concerns the structure, memory, analysis, and access to pieces of information. It has a wide ..."
+    },
+    {
+      "position": 47,
+      "title": "Information Retrieval Evaluation in Knowledge Acquisition Tasks",
+      "link": "http://ceur-ws.org/Vol-2863/paper-10.pdf",
+      "displayed_link": "http://ceur-ws.org \u203a Vol-2863 \u203a paper-10",
+      "snippet": "Information Retrieval, Knowledge Delta, Personalisation, Evaluation, Knowledge Acquisition, Search as. Learning. 1. Personalisation with Knowledge.",
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "by Y Ghafourian",
+            "2021",
+            "Cited by 1 \u2014"
+          ],
+          "detected_extensions": {
+            "unknown": 2021,
+            "cited_by": 1
+          }
+        }
+      }
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "information retrieval evaluation metrics",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Information+retrieval+evaluation+metrics&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAg3EAE"
+    },
+    {
+      "query": "precision and recall information retrieval example",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Precision+and+recall+information+retrieval+example&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAgsEAE"
+    },
+    {
+      "query": "evaluation of information retrieval system pdf",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Evaluation+of+information+retrieval+system+PDF&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAg0EAE"
+    },
+    {
+      "query": "evaluation of information retrieval system ppt",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Evaluation+of+information+retrieval+system+ppt&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAgxEAE"
+    },
+    {
+      "query": "precision and recall in information retrieval",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Precision+and+recall+in+information+retrieval&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAgvEAE"
+    },
+    {
+      "query": "mean average precision information retrieval",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Mean+average+precision+information+retrieval&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAg1EAE"
+    },
+    {
+      "query": "retrieval metrics",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=Retrieval+metrics&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAgrEAE"
+    },
+    {
+      "query": "f-measure in information retrieval",
+      "link": "https://www.google.com/search?num=50&gl=us&hl=en&q=f-measure+in+information+retrieval&sa=X&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ1QJ6BAgqEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&ei=B59VYbPTBcuv5NoPuoGa0AY&start=50&sa=N&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ8NMDegQIAhA9",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&ei=B59VYbPTBcuv5NoPuoGa0AY&start=50&sa=N&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ8tMDegQIAhA3",
+      "3": "https://www.google.com/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&ei=B59VYbPTBcuv5NoPuoGa0AY&start=100&sa=N&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ8tMDegQIAhA5",
+      "4": "https://www.google.com/search?q=information+retrieval+evaluation&num=50&gl=us&hl=en&ei=B59VYbPTBcuv5NoPuoGa0AY&start=150&sa=N&ved=2ahUKEwjz8sfOy6bzAhXLF1kFHbqABmoQ8tMDegQIAhA7"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=information+retrieval+evaluation&start=50",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=information+retrieval+evaluation&start=50",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=information+retrieval+evaluation&start=50",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=information+retrieval+evaluation&start=100",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=austin%2C+texas%2C+united+states&num=50&q=information+retrieval+evaluation&start=150"
+    }
+  }
+}

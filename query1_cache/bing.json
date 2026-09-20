@@ -1,0 +1,807 @@
+{
+  "search_metadata": {
+    "id": "6151e4c20574f534bc14669d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/38a48c6c5dbeb510/6151e4c20574f534bc14669d.json",
+    "created_at": "2021-09-27 15:35:30 UTC",
+    "processed_at": "2021-09-27 15:35:30 UTC",
+    "bing_url": "https://www.bing.com/search?form=QBRE&q=Modern+Information+Retrieval&count=50",
+    "raw_html_file": "https://serpapi.com/searches/38a48c6c5dbeb510/6151e4c20574f534bc14669d.html",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "q": "Modern Information Retrieval",
+    "device": "desktop",
+    "count": "50",
+    "engine": "bing"
+  },
+  "search_information": {
+    "total_results": 2780000
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval By",
+        "hidden": "Berth 2nd Edition"
+      },
+      "price": "$64.95",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e8j4FgrrXlztrktN9av1Z9ZzVUCUzXjjQNALPwjVYkGM1LEkcEtW8RI8E_WdSyQDreCITwicVbqTDXMNlpNarhhAgH6ZbdKyUAJwUCsEyGZkfZCtJr9pFLuvrCFbH1JD6wsy0c4QhYlVu8Hp3U3votEMsxXtrkMWOWRTuSoSYQVgRgrVI2fD_dJe47bGvwtv-3genPZA&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmYyNjQ0MjIxMjc1MTglM2ZjaG4lM2RwcyUyNl90cmtwYXJtcyUzZGlzcHIlMjUzRDElMjZhbWRhdGElM2RlbmMlMjUzQTFETjRoMjBWY1FzZUdQZktfek5taUFBNDUlMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTIxMzcyNy0xMzA3OC0wJTI2bWtjaWQlM2QyJTI2aXRlbWlkJTNkMjY0NDIyMTI3NTE4JTI2dGFyZ2V0aWQlM2Q0NTgxMDQ2NDg4NzYxNDU1JTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmdvb2dsZWxvYyUzZCUyNnBvaSUzZCUyNmNhbXBhaWduaWQlM2Q0MTg2NDAzMjIlMjZta2dyb3VwaWQlM2QxMjM5MTQ5ODQyMjMzMjQ1JTI2cmxzYXRhcmdldCUzZHBsYS00NTgxMDQ2NDg4NzYxNDU1JTI2YWJjSWQlM2Q5MzAwNjAyJTI2bWVyY2hhbnRpZCUzZDUxMjkxJTI2bXNjbGtpZCUzZDRjNWIyODUyNTdjMjFhNWZjMzgxNDkwM2IzMDBiZjQ2&rlid=4c5b285257c21a5fc3814903b300bf46",
+      "details": "Free shipping"
+    },
+    {
+      "position": 2,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval : The",
+        "hidden": "Concepts And Technology Behind"
+      },
+      "price": "$5.53",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e8jzjWB5RTSbEK1ltq7i0HHjVUCUxGInrTI_JlPBNMXJINQz-KzUw3BrhXP-almP4G_CrIAr0AlLinFPQwZ1gYLE9so3QYx-IhAg5KS8IScZ6uKgpZOYKGzGA1h87qVzo5GSABeNdxTnW8wUWUfSkjVR5npg0OQQQt4iBZWCsVta5Y8WXt9bosbKwOHPxnFeqbkGtWsA&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmYyMjQ1ODQ0MTE3ODglM2ZjaG4lM2RwcyUyNl90cmtwYXJtcyUzZGlzcHIlMjUzRDElMjZhbWRhdGElM2RlbmMlMjUzQTFtVEZOcEpLUFIzV2lrVEtkNGdOUUxnOTglMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTIxMzcyNy0xMzA3OC0wJTI2bWtjaWQlM2QyJTI2aXRlbWlkJTNkMjI0NTg0NDExNzg4JTI2dGFyZ2V0aWQlM2Q0NTgxMDQ2NDg4NzYxNDU1JTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmdvb2dsZWxvYyUzZCUyNnBvaSUzZCUyNmNhbXBhaWduaWQlM2Q0MTg2NDAzMjIlMjZta2dyb3VwaWQlM2QxMjM5MTQ5ODQyMjMzMjQ1JTI2cmxzYXRhcmdldCUzZHBsYS00NTgxMDQ2NDg4NzYxNDU1JTI2YWJjSWQlM2Q5MzAwNjAyJTI2bWVyY2hhbnRpZCUzZDUxMjkxJTI2bXNjbGtpZCUzZGYxMTFkYWNhZmZhZTFkNzQ2MzQxYmI5YjFiNmMyNzJj&rlid=f111dacaffae1d746341bb9b1b6c272c",
+      "details": "Free shipping"
+    },
+    {
+      "position": 3,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval By",
+        "hidden": "Berthier Ribeiro-Neto - Used (Good) - 020139829X By Addison-Wesley Longman, Incorporated | Thriftbooks.Com"
+      },
+      "price": "$4.49",
+      "store": "Thriftbooks.com",
+      "link": "https://www.bing.com/aclk?ld=e878ViL3w0z_LgvH7h89QajTVUCUwP0iPgCSxTnB70EzjiWK1zzaNesYmotZqYhy9vQMSwRqLo9Eziar0eCWbP0rANcmqzHHeXvVSuF-ohmmufF9B6-YR-Q6V1AjHlNSd4hKlpN2rnq4F1mT5QZxvxG--_kNehwRLO2Xq_gF3xMzEbk2jBmC0ajuigJU9JwpNI4u0M8g&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhyaWZ0Ym9va3MuY29tJTJmdyUyZm1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWxfcmljYXJkby1iYWV6YS15YXRlcyUyZjM0ODkyNiUyZml0ZW0lMmY0MjA4NDAxJTJmJTNmaXNibiUzZDAyMDEzOTgyOVglMjZpZGlxJTNkNDIwODQwMSUyNm1rd2lkJTNkJTdjZGMlMjZwY3JpZCUzZDExNTU4ODU4MzA2JTI2cGt3JTNkJTI2cG10JTNkYmUlMjZzbGlkJTNkJTI2cHJvZHVjdCUzZDQyMDg0MDElMjZwbGMlM2QlMjZwZ3JpZCUzZDM5NzA3NjkzODAlMjZwdGFpZCUzZHBsYS00NTgwNDI4MDEzNjIxNjQ5JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkQmluZyUyNTIwU2hvcHBpbmclMjUyMCUyNTdDJTI1MjBDb21wdXRlcnMlMjUyMCUyNTI2JTI1MjBUZWNobm9sb2d5JTI2dXRtX3Rlcm0lM2QlMjZ1dG1fY29udGVudCUzZCU3Y2RjJTdjcGNyaWQlN2MxMTU1ODg1ODMwNiU3Y3BrdyU3YyU3Y3BtdCU3Y2JlJTdjcHJvZHVjdCU3YzQyMDg0MDElN2NzbGlkJTdjJTdjcGdyaWQlN2MzOTcwNzY5MzgwJTdjcHRhaWQlN2NwbGEtNDU4MDQyODAxMzYyMTY0OSU3YyUyNm1zY2xraWQlM2Q0OThjNDk5ZDFkNzgxYTNlZTcyNTI4Y2NmOWJhYmFjOQ&rlid=498c499d1d781a3ee72528ccf9babac9",
+      "details": "39% price drop"
+    },
+    {
+      "position": 4,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval By",
+        "hidden": "Yates"
+      },
+      "price": "$32.99",
+      "store": "World of Books",
+      "link": "https://www.bing.com/aclk?ld=e80tT6cX6dqNl0dR6mnI14VzVUCUwPNXCgWpac7ykqiy5M0wNuek6kDs0RqVY7zvn_25mZMoFR_bE3FPb_pt2wQS9AuzGXAkysy7YTjsXSobEzpRNuCiYf1d6ZOjQtb8_ay7BErk_8UZicZ46VVZcXFfzFyz9XQLp2eim232Umb0cUmNpXcdKVUFBHSuLCydUcIii8wg&u=aHR0cHMlM2ElMmYlMmZ3d3cud29ybGRvZmJvb2tzLmNvbSUyZmVuLXVzJTJmYm9va3MlMmZ5YXRlcyUyZm1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwlMmY5Nzg4MTMxNzA5NzcxJTNmbXNjbGtpZCUzZDU3NjM2NGM1MzhlNzFiOTNmMjkxMDU5NGRjMjVkYWYzJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUzIlMjUyMC0lMjUyMEJvb2tzJTI1MjAtJTI1MjAzMC4wMCUyNTJCJTI1MjAtJTI1MjBCaW5nJTI2dXRtX3Rlcm0lM2Q0NTc0OTk5MTY2NDY0MTYyJTI2dXRtX2NvbnRlbnQlM2QzMC4wMCUyNTJCJTIzR09SMDExNDU1NzQ3&rlid=576364c538e71b93f2910594dc25daf3",
+      "details": "Free shipping"
+    },
+    {
+      "position": 5,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval By",
+        "hidden": "Yates Book The Fast Free Shipping"
+      },
+      "price": "$33.10",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e862tMSDwtKluVlqzFrklUCTVUCUz5G_QLllITvE0Ne2iBkM8-LToM9h9nMpZSHZXKz_ckAsmVBmuUO3XnBMzoWzzw2JObpOxZ3GPNdRxJ8kju_ior42yGz0Erjo8HhZQ_unYoH39ShstO_ig8-OX5tVAEZW9sTv1bf4wWBILLe8xh0tdB7H9hvRJ-OKP8nHLf1l4KZQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmYzMDQwMzQ0NjU4ODglM2ZjaG4lM2RwcyUyNl90cmtwYXJtcyUzZGlzcHIlMjUzRDElMjZhbWRhdGElM2RlbmMlMjUzQTFJWnBydDV0SVRYR3pTVEw0MzlER2N3OTUlMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTIxMzcyNy0xMzA3OC0wJTI2bWtjaWQlM2QyJTI2aXRlbWlkJTNkMzA0MDM0NDY1ODg4JTI2dGFyZ2V0aWQlM2Q0NTgxMDQ2NDg4NzYxNDU1JTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmdvb2dsZWxvYyUzZCUyNnBvaSUzZCUyNmNhbXBhaWduaWQlM2Q0MTg2NDAzMjIlMjZta2dyb3VwaWQlM2QxMjM5MTQ5ODQyMjMzMjQ1JTI2cmxzYXRhcmdldCUzZHBsYS00NTgxMDQ2NDg4NzYxNDU1JTI2YWJjSWQlM2Q5MzAwNjAyJTI2bWVyY2hhbnRpZCUzZDUxMjkxJTI2bXNjbGtpZCUzZDhkZTRhZjJhNWQ3ZDEyZWUwMWE3Y2U3YmI5YmYzNjgx&rlid=8de4af2a5d7d12ee01a7ce7bb9bf3681",
+      "details": "39% price drop"
+    },
+    {
+      "position": 6,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval, 3rd Edition"
+      },
+      "price": "$277.62",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e8GOEz2tAdMCLMYKpI7xbdFDVUCUw59mEp_-TiZ_Mex6amcDQVHiX2ANLYwTFs-28QtmoeBR3hJMhw8cVDm-KPnu0awAC2kdBZ-bUNe1KjeSKf_0KbXr5snuz-5DjrvF8_0QQMp-HaryTJGK4LJww38RGHhFwEFsqBSYb7VPD8CSuIUgoOwj65VO23w1ldWuojh644Xw&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmY0MDMwODMzMDgyMjAlM2ZjaG4lM2RwcyUyNm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MTEtMjEzNzI3LTEzMDc4LTAlMjZta2NpZCUzZDIlMjZpdGVtaWQlM2Q0MDMwODMzMDgyMjAlMjZ0YXJnZXRpZCUzZDQ1ODExODM5MjcxNzkxNDglMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2Z29vZ2xlbG9jJTNkJTI2cG9pJTNkJTI2Y2FtcGFpZ25pZCUzZDQxODIzMzc4NyUyNm1rZ3JvdXBpZCUzZDEyNDEzNDg4NjE3MjUyOTUlMjZybHNhdGFyZ2V0JTNkcGxhLTQ1ODExODM5MjcxNzkxNDglMjZhYmNJZCUzZDkzMDA1NDIlMjZtZXJjaGFudGlkJTNkNTEyOTElMjZtc2Nsa2lkJTNkZjhjY2M3Yzk5ZTc0MTQ3OTQ0Y2NhNjk4N2FiNjEwNzI&rlid=f8ccc7c99e74147944cca6987ab61072",
+      "details": "Free shipping"
+    },
+    {
+      "position": 7,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval -",
+        "hidden": "Used (Very Good) - 8129702746 By Pearson Education India | Thriftbooks.Com"
+      },
+      "price": "$16.99",
+      "store": "Thriftbooks.com",
+      "link": "https://www.bing.com/aclk?ld=e8Ftcx_jvXCWVIy0-02QNYCDVUCUw2JbWk7jowpe3DVwCBMM7Lso3AX90Vsjf7x-yw30wGzRFxEAKkKQwUNjbL6PAFII7MxHLFUjcAaobBZvx8WMXkCQcejv69cG8dsYboIC_iTlnMLj79REkCyEtJrmCSbBOHh6zTBmpvteCq32Fz0J0a0fA566sVsGuW94u9XPzXyA&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhyaWZ0Ym9va3MuY29tJTJmdyUyZm1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwlMmYxMDg4NDQwMSUyZml0ZW0lMmY4ODIyNzg4JTJmJTNmaXNibiUzZDgxMjk3MDI3NDYlMjZpZGlxJTNkODgyMjc4OCUyNm1rd2lkJTNkN2ZsR0thYVQlN2NkYyUyNnBjcmlkJTNkMTE1NTg3OTI3NjYlMjZwa3clM2QlMjZwbXQlM2RiZSUyNnNsaWQlM2QlMjZwcm9kdWN0JTNkODgyMjc4OCUyNnBsYyUzZCUyNnBncmlkJTNkMzk3MDc1ODU1MCUyNnB0YWlkJTNkcGxhLTQ1ODA1NjU0NTIwNjU5MjUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCaW5nJTI1MjBTaG9wcGluZyUyNTIwJTI1N0MlMjUyMEV2ZXJ5dGhpbmclMjUyMEVsc2UlMjZ1dG1fdGVybSUzZCUyNnV0bV9jb250ZW50JTNkN2ZsR0thYVQlN2NkYyU3Y3BjcmlkJTdjMTE1NTg3OTI3NjYlN2Nwa3clN2MlN2NwbXQlN2NiZSU3Y3Byb2R1Y3QlN2M4ODIyNzg4JTdjc2xpZCU3YyU3Y3BncmlkJTdjMzk3MDc1ODU1MCU3Y3B0YWlkJTdjcGxhLTQ1ODA1NjU0NTIwNjU5MjUlN2MlMjZtc2Nsa2lkJTNkMDkxODVmODU0MDE5MWJiNTkzOTMzZWQ0YTRkYjZjOTc&rlid=09185f8540191bb593933ed4a4db6c97",
+      "details": "Used"
+    },
+    {
+      "position": 8,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Facet Publishing Introduction To Modern",
+        "hidden": "Information Retrieval"
+      },
+      "price": "$170.95",
+      "store": "Routledge",
+      "link": "https://www.bing.com/aclk?ld=e8JLIa_iOqOkeFAQm0faoWyzVUCUzJNpC5yuM0QmbQYa4IJ4F5MLMDi8yVjm1xynqtTzHn8WJ5eNcTcWYpyX35xcagQ17q3fyTGgvtvbjkJsz-q0FEaJxS9keEHI6iu_ViKz0-Due8CgjAPYsJ8uNxB1MVSuNW3TLiiJwkoXpa0KHZY20XthjghupVluEi7ZQuKv7Xlw&u=aHR0cHMlM2ElMmYlMmZ1cy1nby5rZWxrb29ncm91cC5uZXQlMmZjdGwlMmZnbyUyZnBsYUdvJTNmYWZmaWxpYXRpb25JZCUzZDk2OTYxNDgxJTI2c2VydmljZSUzZDI5JTI2Y291bnRyeSUzZHVzJTI2b2ZmZXJJZCUzZGJhYmUzZjU3YTc0ZWM1MjZiNDliY2IwYTJkZjZlMzhlJTI2Y3VzdG9tMSUzZG1hcmlua2Vsa29vX2JpbmdwbGFfdXNfc2x6em50cnFfcGNyaWRfNzc4NTkzMjY0ODEwNzhfcGt3X2RlZmF1bHRfcG10X2JlX3Bkdl9jJTI2Y3VzdG9tMiUzZDQ1ODE0NTg4MDUxMzQ3NzclMjZjdXN0b20zJTNkNDU4MTQ1ODgwNTEzNDc3N18xMjQ1NzQ3MjIyNzkwMDAzXzI4Nzc1MDgzNCUyNnVybCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGd3d3LnJvdXRsZWRnZS5jb20lMjUyRjk3ODE3ODMzMDMyMjklMjUzRmZyb20lMjUzRGtlbGtvbyUyNm1zY2xraWQlM2QyYjc1ZjUyZmQ4NzgxMzk4YjAzODk0N2UzY2JhZjc3Yg&rlid=2b75f52fd8781398b038947e3cbaf77b",
+      "details": "Free shipping"
+    },
+    {
+      "position": 9,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval By",
+        "hidden": "Ricardo Baeza-Yates"
+      },
+      "price": "$20.95",
+      "store": "AmericanBookWarehouse",
+      "link": "https://www.bing.com/aclk?ld=e8yp2mpT8Faena3JTjilYD4zVUCUwEj9oR1tqh18XmZGNJqdCzhhasCO5D6cLuT3Xt8SA6FdPDD1khajrs0OWpkGS97mJvHMCsNZjW9Ja2Eo8fAkTqIHZ8nm6fOzpJ0Tzf9-3Y_xLTHF7w6eUxT2XLtMT62lgWQQaunW6KPdDQgcKk6Ea76aF3rps0MoW8vtQZz6VtIA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1lcmljYW5ib29rd2FyZWhvdXNlLmNvbSUyZjU1NjY0NiUyZiUzZm1zY2xraWQlM2QwMzA4NmFmNDZkMDcxMDc1YTAxNDBiYTU4OWM1MzNlOQ&rlid=03086af46d071075a0140ba589c533e9",
+      "details": "18% price drop"
+    },
+    {
+      "position": 10,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval By G.G. Chowdhury - Used (Good) - 1856044807 By Facet Publishing | Thriftbooks.Com"
+      },
+      "price": "$7.09",
+      "store": "Thriftbooks.com",
+      "link": "https://www.bing.com/aclk?ld=e8moDt9E2A0QbpAt3sswhe3DVUCUw-RPgxTYEaQCQwDQCxhxBlZO2Bvyb6o30DtflpnH8e_kUsRSOnEBG_DZeIJqkaPI4wc86XcI84v20zbgRYUeMHKOkmGWmt8uuSMz3mc5u-FhIfgI9FpwsX93yZ64EwZhcXQ9-dDqEVfisrPXTqqskDaQLu_8TwiGT-PuU3TRyZvw&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhyaWZ0Ym9va3MuY29tJTJmdyUyZmludHJvZHVjdGlvbi10by1tb2Rlcm4taW5mb3JtYXRpb24tcmV0cmlldmFsX2dnLWNob3dkaHVyeSUyZjcwOTc1MSUyZml0ZW0lMmY3ODg1MTQ5JTJmJTNmaXNibiUzZDE4NTYwNDQ4MDclMjZpZGlxJTNkNzg4NTE0OSUyNm1rd2lkJTNkYlV4N1htY1AlN2NkYyUyNnBjcmlkJTNkNzcxNzIxMjg3MTI0NjElMjZwa3clM2QlMjZwbXQlM2RiZSUyNnNsaWQlM2QlMjZwcm9kdWN0JTNkNzg4NTE0OSUyNnBsYyUzZCUyNnBncmlkJTNkMTIzNDc1MTgwMDIzMDEzNyUyNnB0YWlkJTNkcGxhLTQ1ODA3NzE2MTA1MDYyODUlMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCaW5nJTI1MjBTaG9wcGluZyUyNTIwJTI1N0MlMjUyMEJ1c2luZXNzJTI1MjAlMjUyNiUyNTIwSW52ZXN0aW5nJTI1MjAlMjU3QyUyNTIwSElHSCUyNnV0bV90ZXJtJTNkJTI2dXRtX2NvbnRlbnQlM2RiVXg3WG1jUCU3Y2RjJTdjcGNyaWQlN2M3NzE3MjEyODcxMjQ2MSU3Y3BrdyU3YyU3Y3BtdCU3Y2JlJTdjcHJvZHVjdCU3Yzc4ODUxNDklN2NzbGlkJTdjJTdjcGdyaWQlN2MxMjM0NzUxODAwMjMwMTM3JTdjcHRhaWQlN2NwbGEtNDU4MDc3MTYxMDUwNjI4NSU3YyUyNm1zY2xraWQlM2QyMDJhMmVhNjVlMjMxODk3YjYzZDRmZjdiYWUxNmQ1Zg&rlid=202a2ea65e231897b63d4ff7bae16d5f",
+      "details": "Used"
+    },
+    {
+      "position": 11,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval"
+      },
+      "price": "$3.88",
+      "store": "Second Sale",
+      "link": "https://www.bing.com/aclk?ld=e88a9Fh3xsPsLC8QTO2cWlkDVUCUyaTOXwdqcxWSlFFpNJrAJClr_60O9x0bCYi-4k4EscMKCW06B2KKSyI272RtVdAaKrJRD5kQKrn76IiImvYP0MM2tsI0FJidS-xu3f0-aNrLrLqGiCnV_Z5JOB4HPPgVNlgNqAYs6nDqYGC6fCX1EpwdkD75ZpoExO-ZOMeaLPRg&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2Vjb25kc2FsZS5jb20lMmZpJTJmaW50cm9kdWN0aW9uLXRvLW1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwlMmY5NzgxODU2MDQ0ODA2JTNmY2FtcGFpZ25pZCUzZDQxNjEwNDU1NyUyNmFkZ3JvdXBpZCUzZDEzMDk1MTg2NDM3MjUxNDklMjZrZXl3b3JkJTNkJTI2ZGV2aWNlJTNkYyUyNm1zY2xraWQlM2Q3OTBhODdjZTQxOTkxNTc0ZjcxZmU2OWZhNTViYjRhMyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNTJTI1MjAtJTI1MjBTbWFydCUyNTIwU2hvcHBpbmclMjUyMEhpZ2glMjUyMFZhbHVlJTI1MjBVc2VkJTI2dXRtX3Rlcm0lM2Q0NTg1NDQ0NTI5OTY0OTM4JTI2dXRtX2NvbnRlbnQlM2RBZCUyNTIwZ3JvdXA&rlid=790a87ce41991574f71fe69fa55bb4a3",
+      "details": "Used"
+    },
+    {
+      "position": 12,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval By G G Chowdhury"
+      },
+      "price": "$19.95",
+      "store": "AmericanBookWarehouse",
+      "link": "https://www.bing.com/aclk?ld=e8C9LgkF6t-UYOPGpkK62H3TVUCUwV3vfcXGEOzxZ0I5GFZIrCQYrQZAVR1kIJR49KoxhZmSMIoPF8qW5MhDLbjGc_Ol9MIYp0cCDEYnDobOoUs3-5szaFuW3RkOsWJc5eeCrXbrj_oJLv_KfUHzzLWi8w9McJf9-7JZQkeJQYkOjwhH9a9BkFi8u1AG-hnFvoA1QHww&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1lcmljYW5ib29rd2FyZWhvdXNlLmNvbSUyZjI3MzMzMSUyZiUzZm1zY2xraWQlM2RiMTBhMDc3MmFlMzkxOTdhM2FhMjY2MjM0YWZiNGVlYQ&rlid=b10a0772ae39197a3aa266234afb4eea",
+      "details": "Used"
+    },
+    {
+      "position": 13,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval, 3rd Edition By G. G."
+      },
+      "price": "$99.95",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e8k0Xopla5x3KLgprX53k2EDVUCUxHk5LgnxjXkvxgZV486Tq1uZMkXT6m7yy_iohpLXtb5DrX91ErPDYeqkEeir22Eadi1ELVN9HCBhHniy6QUSdlXtkICxzrjr26Gaemmw4wqu22-RevL79-udgo6wBrgF_uramd8UcaqaKygWu0RW34b0p7bYxZu_Xsuv14EMATOA&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmYxODUwNTAzNTM1NzQlM2ZjaG4lM2RwcyUyNm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MTEtMjEzNzI3LTEzMDc4LTAlMjZta2NpZCUzZDIlMjZpdGVtaWQlM2QxODUwNTAzNTM1NzQlMjZ0YXJnZXRpZCUzZDQ1ODExODM5MjcxNzkxNDklMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2Z29vZ2xlbG9jJTNkJTI2cG9pJTNkJTI2Y2FtcGFpZ25pZCUzZDQxODIzMzc4NyUyNm1rZ3JvdXBpZCUzZDEyNDEzNDg4NjE3MjUyOTUlMjZybHNhdGFyZ2V0JTNkcGxhLTQ1ODExODM5MjcxNzkxNDklMjZhYmNJZCUzZDkzMDA1NDIlMjZtZXJjaGFudGlkJTNkNTEyOTElMjZtc2Nsa2lkJTNkZGExYmE1ZWE2MTMzMTM3NjZhNzhjNGJiODVmMWNmOWU&rlid=da1ba5ea613313766a78c4bb85f1cf9e",
+      "rating": 4.5,
+      "reviews": 15
+    },
+    {
+      "position": 14,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval (Paperback)"
+      },
+      "price": "$94.95",
+      "store": "Walmart",
+      "link": "https://www.bing.com/aclk?ld=e87OKdxM0x65qHYjpKWz3VhTVUCUzWATqnql8kruih93KRDfTLcE03hEgtir1mEQIseB6QssmM8zSWHD4dmLMtH9zoM4SLMMC8ZhUrjJjyYAB0x4KouQYuUuSaK4kdiXDjhx2RoNvJava8eecIGAxo_TeVjBElWkJu1xtFdJl1EyN0sLFrMtzcbZ-zzOobxd1vFMbaqA&u=aHR0cHMlM2ElMmYlMmZyZC5iaXpyYXRlLmNvbSUyZnJkJTNmdCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGZ290by53YWxtYXJ0LmNvbSUyNTJGYyUyNTJGMTUwMzcyJTI1MkY1Njg4MjclMjUyRjkzODMlMjUzRnZlaCUyNTNEYWZmJTI1MjZzb3VyY2VpZCUyNTNEaW1wXzAwMDAxMTExMjIyMjMzMzM0NCUyNTI2cHJvZHNrdSUyNTNEMTMyNTAwODklMjUyNnUlMjUzRGh0dHBzJTI1MjUzQSUyNTI1MkYlMjUyNTJGd3d3LndhbG1hcnQuY29tJTI1MjUyRmlwJTI1MjUyRkludHJvZHVjdGlvbi10by1Nb2Rlcm4tSW5mb3JtYXRpb24tUmV0cmlldmFsLVBhcGVyYmFjay05NzgxNTU1NzA3MTU2JTI1MjUyRjEzMjUwMDg5JTI1MjZpbnRzcmMlMjUzRENBVEZfNDI3OSUyNTI2c3ViaWQxJTI1M0RTWl9SRURJUkVDVF9JRCUyNm1pZCUzZDQwMSUyNmNhdF9pZCUzZDgwMjglMjZhdG9tJTNkMTAxMzIlMjZwcm9kX2lkJTNkMTk5MDEyODUwMSUyNm9pZCUzZDE2NTQ1Mzc5MzY0JTI2cG9zJTNkMSUyNmJfaWQlM2QxOCUyNmJpZF90eXBlJTNkNCUyNmJhbXQlM2Q5YmJhNWI2YzNlNDg2YzY2JTI2Y29icmFuZCUzZDElMjZwcHIlM2Q5N2Y1YmYzYWIwYzA4NDM1JTI2YSUzZDMyYzc5MTI3NmJjMzgxODJiODE4MTY2MDlhNGUyMjEzJTI2cmYlM2RhZjElMjZhZl9hc3NldHR5cGVfaWQlM2QxMiUyNmFmX2NyZWF0aXZlX2lkJTNkMjk3NCUyNmFmX2lkJTNkNzE5MDA2JTI2ZHYlM2Q1ZDYzZDNkZjVlYjY5OTZmMWFkMzkwOGViNDcyMDY3ZTNiMGE1NTJkZGNkMjI2M2MlMjZhZl9wbGFjZW1lbnRfaWQlM2Qx&rlid=790647a1838611b7cf0026f0674430da",
+      "details": "Free shipping"
+    },
+    {
+      "position": 15,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Information Retrieval: The Modern",
+        "hidden": "Algebra Of Information Retrieval (Series 24) (Hardcover)"
+      },
+      "price": "$104.23",
+      "store": "Walmart",
+      "link": "https://www.bing.com/aclk?ld=e8U6YOnqllqy1jFS-tjiOPHzVUCUxZ-X63paCjlciXXMcLBxd0Qa-0od7FK13QvRvSbCQaRJZUppbtiHepeYvOuhTKYofpY3b1pEAyUPyPlCiDc6YnosUWbWGB4ZTcUsoJzmqs49lXT_KD2_-uae258nqSpp3JZwXDpNGIwZuh13-IJ-emAPEqqPnSxLFuWUBaRPgP3g&u=aHR0cHMlM2ElMmYlMmZ3d3cud2FsbWFydC5jb20lMmZpcCUyZkluZm9ybWF0aW9uLVJldHJpZXZhbC1UaGUtTW9kZXJuLUFsZ2VicmEtb2YtSW5mb3JtYXRpb24tUmV0cmlldmFsLVNlcmllcy0yNC1IYXJkY292ZXItOTc4MzU0MDc3NjU4MSUyZjkyNDEwNjIlM2Z3bWxzcGFydG5lciUzZHdscGElMjZzZWxlY3RlZFNlbGxlcklkJTNkMCUyNmFkaWQlM2QyMjIyMjIyMjIyMjEzMDU5NTEwOCUyNndtbHNwYXJ0bmVyJTNkd210bGFicyUyNndsMCUzZGUlMjZ3bDElM2RvJTI2d2wyJTNkYyUyNndsMyUzZDc1Mzg1MzUxODc1ODY4JTI2d2w0JTNkcGxhLTQ1Nzg5ODQ5MTgxMzA4NDYlMjZ3bDUlM2QlMjZ3bDYlM2QlMjZ3bDclM2QlMjZ3bDEwJTNkV2FsbWFydCUyNndsMTElM2RPbmxpbmUlMjZ3bDEyJTNkOTI0MTA2Ml8wJTI2d2wxNCUzZE1vZGVybiUyNTIwSW5mb3JtYXRpb24lMjUyMFJldHJpZXZhbCUyNnZlaCUzZHNlbSUyNmdjbGlkJTNkODg1NTM1MTQxYmIwMWU0MTA1MjM1NDQ1ZmY3MjZlNWElMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2Q4ODU1MzUxNDFiYjAxZTQxMDUyMzU0NDVmZjcyNmU1YQ&rlid=885535141bb01e4105235445ff726e5a",
+      "details": "Free shipping"
+    },
+    {
+      "position": 16,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Modern Information Retrieval",
+        "hidden": "(English Version-2Nd Edition) (Chinese Edition) - Used (Good) - 7111331745 By China Machine Press | Thriftbooks.Com"
+      },
+      "price": "$13.19",
+      "store": "Thriftbooks.com",
+      "link": "https://www.bing.com/aclk?ld=e834SWuZf9SGK02MqeXWqJgTVUCUxKB1Bp6xtf9eM4n4SZbRsEmda1ScN29t6I1KwbZd7urKedGrI_EuR_hpotwaan7Hza8PcsBCXriWSddyVJ8WUI8O_K7qsTb8-gGucXUXJnv4BIEJZ8J0tJVvOJV7zf84QG2x85ZDdjWAWQa2V5_gAQgSb0pJYJA3oFnWJmtJmrfw&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhyaWZ0Ym9va3MuY29tJTJmdyUyZm1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwtZW5nbGlzaC12ZXJzaW9uLTJuZC1lZGl0aW9uLWNoaW5lc2UtZWRpdGlvbiUyZjE4MTQ2OTgxJTJmaXRlbSUyZjQ1MzY2MDA1JTJmJTNmaXNibiUzZDcxMTEzMzE3NDUlMjZpZGlxJTNkNDUzNjYwMDUlMjZta3dpZCUzZDNTeFRrck1aJTdjZGMlMjZwY3JpZCUzZDExNTU4NzkyNzY2JTI2cGt3JTNkJTI2cG10JTNkYmUlMjZzbGlkJTNkJTI2cHJvZHVjdCUzZDQ1MzY2MDA1JTI2cGxjJTNkJTI2cGdyaWQlM2QzOTcwNzU4NTUwJTI2cHRhaWQlM2RwbGEtNDU4MDU2NTQ1MjA2NTkyMiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEJpbmclMjUyMFNob3BwaW5nJTI1MjAlMjU3QyUyNTIwRXZlcnl0aGluZyUyNTIwRWxzZSUyNnV0bV90ZXJtJTNkJTI2dXRtX2NvbnRlbnQlM2QzU3hUa3JNWiU3Y2RjJTdjcGNyaWQlN2MxMTU1ODc5Mjc2NiU3Y3BrdyU3YyU3Y3BtdCU3Y2JlJTdjcHJvZHVjdCU3YzQ1MzY2MDA1JTdjc2xpZCU3YyU3Y3BncmlkJTdjMzk3MDc1ODU1MCU3Y3B0YWlkJTdjcGxhLTQ1ODA1NjU0NTIwNjU5MjIlN2MlMjZtc2Nsa2lkJTNkMDc3YTUzMmQxY2ZmMTQ4OGJmZDgzMjdjZjgzZGI4OWU&rlid=077a532d1cff1488bfd8327cf83db89e",
+      "details": "Used"
+    },
+    {
+      "position": 17,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval By G. G. Chowdhury"
+      },
+      "price": "$12.39",
+      "store": "World of Books",
+      "link": "https://www.bing.com/aclk?ld=e8y8gEddGJN9NYwh7hAfa4VzVUCUxrLsnnXffQ2Tjlaf7dc1ykmF46WDpOZ0KI3fN1lynRYo7FEU5BcyLCH5s2qSTtQgCSf-latBKWQigREWJiO-nC7D9gAT0U212l4uhIFHExLl4hgr4XIec9rgOX-vb-XyFS862vGTfrn--7NMs1-1KWGa51H_h9vgL8P7LQFxf9Aw&u=aHR0cHMlM2ElMmYlMmZ3d3cud29ybGRvZmJvb2tzLmNvbSUyZmVuLXVzJTJmYm9va3MlMmZnLWctY2hvd2RodXJ5JTJmaW50cm9kdWN0aW9uLXRvLW1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwlMmY5NzgxODU2MDQ0ODA2JTNmbXNjbGtpZCUzZGEzYTMzYTMxNWUwNzFhNWYzNDFlNWI2MGJhYzU0MGNhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUzIlMjUyMC0lMjUyMEJvb2tzJTI1MjAtJTI1MjAxMi4zOSUyNTIwLSUyNTIwQmluZyUyNnV0bV90ZXJtJTNkNDU3NTYxNzY0MTk1MTk4NyUyNnV0bV9jb250ZW50JTNkMTIuMzklMjNHT1IwMDM0MDY5MzQ&rlid=a3a33a315e071a5f341e5b60bac540ca",
+      "details": "Free shipping"
+    },
+    {
+      "position": 18,
+      "block_position": "inline-top",
+      "title": {
+        "visible": "Introduction To Modern Information",
+        "hidden": "Retrieval By Chowdhury, G. G."
+      },
+      "price": "$13.34",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e8ctCzg26X9arPd8g1F6z69zVUCUxxxUceSx9GSybkqGUIijysqfoeP6PKTLdc2JjZUGsOTpQFIhT2axjngNWvAd_W4mGxGOOwlh2NLdsqKl3JtHY6U8NWNs4qBrS6wK8SYPw6WMwB8-n8nrJTfp8KqDrib1bJ3nlVFsuVfA5d_YbL1nlVRqmdewHf0ArG0nd1gMJHSw&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmYzODM2Njc0NTg5NjklM2ZjaG4lM2RwcyUyNl90cmtwYXJtcyUzZGlzcHIlMjUzRDElMjZhbWRhdGElM2RlbmMlMjUzQTFFV2Q3bGdFOFNMeV9kd3FEZ2JhbVNnNTclMjZub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTIxMzcyNy0xMzA3OC0wJTI2bWtjaWQlM2QyJTI2aXRlbWlkJTNkMzgzNjY3NDU4OTY5JTI2dGFyZ2V0aWQlM2Q0NTgxMDQ2NDg4NzYxNDU1JTI2ZGV2aWNlJTNkYyUyNm1rdHlwZSUzZCUyNmdvb2dsZWxvYyUzZCUyNnBvaSUzZCUyNmNhbXBhaWduaWQlM2Q0MTg2NDAzMjIlMjZta2dyb3VwaWQlM2QxMjM5MTQ5ODQyMjMzMjQ1JTI2cmxzYXRhcmdldCUzZHBsYS00NTgxMDQ2NDg4NzYxNDU1JTI2YWJjSWQlM2Q5MzAwNjAyJTI2bWVyY2hhbnRpZCUzZDUxMjkxJTI2bXNjbGtpZCUzZGFkOTgwOTYxMDJlMDFkYWMyYWM3NjgzMGU2MjI1ZTc3&rlid=ad98096102e01dac2ac76830e6225e77",
+      "details": "Free shipping"
+    },
+    {
+      "position": 19,
+      "block_position": "inline-middle",
+      "title": {
+        "visible": "Introduction To Modern",
+        "hidden": "Information Retrieval"
+      },
+      "price": "$3.88",
+      "store": "Second Sale",
+      "link": "https://www.bing.com/aclk?ld=e82nljXUVi42eOxyk215kx4TVUCUwqeKEh1PgTg5rh6l-TIZkV_ZAA1i3I_U46WqDPhk-TFkRb7S1S_nbVQ5pWSMDuhy7JuwMDyzDN-7QsjF8dHFSiriLjZShERVXDAzrqOUnAWTi58GSivISwAVzxwN7VPXkCXZ5RYHhmRxDJvgqPe7gIkzrRtPOMF58NHqx-6rTByQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2Vjb25kc2FsZS5jb20lMmZpJTJmaW50cm9kdWN0aW9uLXRvLW1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwlMmY5NzgxODU2MDQ0ODA2JTNmY2FtcGFpZ25pZCUzZDQxNjEwNDU1NyUyNmFkZ3JvdXBpZCUzZDEzMDk1MTg2NDM3MjUxNDklMjZrZXl3b3JkJTNkJTI2ZGV2aWNlJTNkYyUyNm1zY2xraWQlM2Q3ZDRhNTY1ZDBmYWIxOWVhY2U0NTM3MGNlYjY5YzFjMyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNTJTI1MjAtJTI1MjBTbWFydCUyNTIwU2hvcHBpbmclMjUyMEhpZ2glMjUyMFZhbHVlJTI1MjBVc2VkJTI2dXRtX3Rlcm0lM2Q0NTg1NDQ0NTI5OTY0OTM4JTI2dXRtX2NvbnRlbnQlM2RBZCUyNTIwZ3JvdXA&rlid=7d4a565d0fab19eace45370ceb69c1c3",
+      "details": "Used"
+    },
+    {
+      "position": 20,
+      "block_position": "inline-middle",
+      "title": {
+        "visible": "Introduction To Modern",
+        "hidden": "Information Retrieval By G G Chowdhury"
+      },
+      "price": "$19.95",
+      "store": "AmericanBookWarehouse",
+      "link": "https://www.bing.com/aclk?ld=e8L3qIjPlL3gc5RpzXoFUy0TVUCUwQ9I5WP56uz7n3CPKaMoCoik7DhcYO7QKKzgj0vmVXRUtlNMCplEtBnx5bKzeMNDjt5bfubmz-GrmEyhXgWF7lPuypfTojW71HGPejh6xDzYhHNgiOkJyyYHlZ0_hOYsyPv3tOL8g-OmQFikIy826yaJPG5-GTzqyNV9xrlWM-JA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYW1lcmljYW5ib29rd2FyZWhvdXNlLmNvbSUyZjI3MzMzMSUyZiUzZm1zY2xraWQlM2RlNGJjM2EwN2MxYjAxNTk0NjliZDViNTYyNTcyMzc5Nw&rlid=e4bc3a07c1b0159469bd5b5625723797",
+      "details": "Used"
+    },
+    {
+      "position": 21,
+      "block_position": "inline-middle",
+      "title": {
+        "visible": "Introduction To Modern",
+        "hidden": "Information Retrieval, 3rd Edition By G. G."
+      },
+      "price": "$99.95",
+      "store": "eBay",
+      "link": "https://www.bing.com/aclk?ld=e8iS7X9aY5pDDx70y_ebPmwDVUCUyx_M12T_tZZVuO2UZk6pqYjLVfS85qly7gyZ60WSVnDgnnIEo1531m1FosQugAgxkCzoZ7vEfjwJMqFNmvEIV5YL28gS6V7QkIxrp7EmBIDZ8yIj_6l3vwkLY8K9MlJjFiaZv4vuVm1cnobGsyXW_vMXkxpfkwx6F3SjYHbDn_JQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZpdG0lMmYxODUwNTAzNTM1NzQlM2ZjaG4lM2RwcyUyNm5vcm92ZXIlM2QxJTI2bWtldnQlM2QxJTI2bWtyaWQlM2Q3MTEtMjEzNzI3LTEzMDc4LTAlMjZta2NpZCUzZDIlMjZpdGVtaWQlM2QxODUwNTAzNTM1NzQlMjZ0YXJnZXRpZCUzZDQ1ODExODM5MjcxNzkxNDklMjZkZXZpY2UlM2RjJTI2bWt0eXBlJTNkJTI2Z29vZ2xlbG9jJTNkJTI2cG9pJTNkJTI2Y2FtcGFpZ25pZCUzZDQxODIzMzc4NyUyNm1rZ3JvdXBpZCUzZDEyNDEzNDg4NjE3MjUyOTUlMjZybHNhdGFyZ2V0JTNkcGxhLTQ1ODExODM5MjcxNzkxNDklMjZhYmNJZCUzZDkzMDA1NDIlMjZtZXJjaGFudGlkJTNkNTEyOTElMjZtc2Nsa2lkJTNkMDMyNzUyMjIwOWUwMTM5OGFiNzUzMzczZWQyMjk1OTI&rlid=0327522209e01398ab753373ed229592",
+      "rating": 4.5,
+      "reviews": 15
+    },
+    {
+      "position": 22,
+      "block_position": "inline-middle",
+      "title": {
+        "visible": "Introduction To Modern",
+        "hidden": "Information Retrieval (Paperback)"
+      },
+      "price": "$94.95",
+      "store": "Walmart",
+      "link": "https://www.bing.com/aclk?ld=e8L1pBFhkt5POyDuopmuLC5zVUCUxnphBN39e3pwnxi3Q1xJWS5u_HWMYHs4zuP1UElMGUG0Yz7CJsnhVMnsMJEim6xHjlwufw_b7pd67e6w_LWp331yxPhyt3xKv1Qcs21oUMG_VGI5rIU8QLLkfd-VB1F9E33FCcqoqBXp_Ntj9M0xWNXlK2bT-Fh1cbYw3QYrIIRg&u=aHR0cHMlM2ElMmYlMmZyZC5iaXpyYXRlLmNvbSUyZnJkJTNmdCUzZGh0dHBzJTI1M0ElMjUyRiUyNTJGZ290by53YWxtYXJ0LmNvbSUyNTJGYyUyNTJGMTUwMzcyJTI1MkY1Njg4MjclMjUyRjkzODMlMjUzRnZlaCUyNTNEYWZmJTI1MjZzb3VyY2VpZCUyNTNEaW1wXzAwMDAxMTExMjIyMjMzMzM0NCUyNTI2cHJvZHNrdSUyNTNEMTMyNTAwODklMjUyNnUlMjUzRGh0dHBzJTI1MjUzQSUyNTI1MkYlMjUyNTJGd3d3LndhbG1hcnQuY29tJTI1MjUyRmlwJTI1MjUyRkludHJvZHVjdGlvbi10by1Nb2Rlcm4tSW5mb3JtYXRpb24tUmV0cmlldmFsLVBhcGVyYmFjay05NzgxNTU1NzA3MTU2JTI1MjUyRjEzMjUwMDg5JTI1MjZpbnRzcmMlMjUzRENBVEZfNDI3OSUyNTI2c3ViaWQxJTI1M0RTWl9SRURJUkVDVF9JRCUyNm1pZCUzZDQwMSUyNmNhdF9pZCUzZDgwMjglMjZhdG9tJTNkMTAxMzIlMjZwcm9kX2lkJTNkMTk5MDEyODUwMSUyNm9pZCUzZDE2NTQ1Mzc5MzY0JTI2cG9zJTNkMSUyNmJfaWQlM2QxOCUyNmJpZF90eXBlJTNkNCUyNmJhbXQlM2Q5YmJhNWI2YzNlNDg2YzY2JTI2Y29icmFuZCUzZDElMjZwcHIlM2Q5N2Y1YmYzYWIwYzA4NDM1JTI2YSUzZDMyYzc5MTI3NmJjMzgxODJiODE4MTY2MDlhNGUyMjEzJTI2cmYlM2RhZjElMjZhZl9hc3NldHR5cGVfaWQlM2QxMiUyNmFmX2NyZWF0aXZlX2lkJTNkMjk3NCUyNmFmX2lkJTNkNzE5MDA2JTI2ZHYlM2Q1ZDYzZDNkZjVlYjY5OTZmMWFkMzkwOGViNDcyMDY3ZTNiMGE1NTJkZGNkMjI2M2MlMjZhZl9wbGFjZW1lbnRfaWQlM2Qx&rlid=9059f4d57236116a1adb958496f42b19",
+      "details": "Free shipping"
+    },
+    {
+      "position": 23,
+      "block_position": "inline-middle",
+      "title": {
+        "visible": "Information Retrieval:",
+        "hidden": "The Modern Algebra Of Information Retrieval (Series 24) (Hardcover)"
+      },
+      "price": "$104.23",
+      "store": "Walmart",
+      "link": "https://www.bing.com/aclk?ld=e8nsWkUG1d9H_JeVrUW0Bf0zVUCUzXHSg4vJIKYrDwjiEeZXCf_6JMnhNLUM3qB_9J_SwuT4d-DX3zmhqlxMSA2_ADJZLx900Iwd3ItDG4VJzDQGvgojg1IWgMHGtax40K7GtnzAyT7gdGfEpVonj5NflfQydOGXQ7Ox_H8Vdpx_NQ-Acty1CjgmSFBvE3GvQ4BTWGiQ&u=aHR0cHMlM2ElMmYlMmZ3d3cud2FsbWFydC5jb20lMmZpcCUyZkluZm9ybWF0aW9uLVJldHJpZXZhbC1UaGUtTW9kZXJuLUFsZ2VicmEtb2YtSW5mb3JtYXRpb24tUmV0cmlldmFsLVNlcmllcy0yNC1IYXJkY292ZXItOTc4MzU0MDc3NjU4MSUyZjkyNDEwNjIlM2Z3bWxzcGFydG5lciUzZHdscGElMjZzZWxlY3RlZFNlbGxlcklkJTNkMCUyNmFkaWQlM2QyMjIyMjIyMjIyMjEzMDU5NTEwOCUyNndtbHNwYXJ0bmVyJTNkd210bGFicyUyNndsMCUzZGUlMjZ3bDElM2RvJTI2d2wyJTNkYyUyNndsMyUzZDc1Mzg1MzUxODc1ODY4JTI2d2w0JTNkcGxhLTQ1Nzg5ODQ5MTgxMzA4NDYlMjZ3bDUlM2QlMjZ3bDYlM2QlMjZ3bDclM2QlMjZ3bDEwJTNkV2FsbWFydCUyNndsMTElM2RPbmxpbmUlMjZ3bDEyJTNkOTI0MTA2Ml8wJTI2d2wxNCUzZE1vZGVybiUyNTIwSW5mb3JtYXRpb24lMjUyMFJldHJpZXZhbCUyNnZlaCUzZHNlbSUyNmdjbGlkJTNkZjYyMTMwZDA3NWFiMTM5ODc4ZDM1MTgxOTE2OTdiYmElMjZnY2xzcmMlM2QzcC5kcyUyNm1zY2xraWQlM2RmNjIxMzBkMDc1YWIxMzk4NzhkMzUxODE5MTY5N2JiYQ&rlid=f62130d075ab139878d3518191697bba",
+      "details": "Free shipping"
+    },
+    {
+      "position": 24,
+      "block_position": "inline-middle",
+      "title": {
+        "visible": "Modern Information",
+        "hidden": "Retrieval-(English Version-2Nd Edition) (Chinese Edition) - Used (Good) - 7111331745 By China Machine Press | Thriftbooks.Com"
+      },
+      "price": "$13.19",
+      "store": "Thriftbooks.com",
+      "link": "https://www.bing.com/aclk?ld=e8g_6rReJbUBoMTHJAF1jktTVUCUyDOKyjXDLYEOUXLibzhNHxyLzdOq1QiFoL_dY-P51SOVmQk6KAbnAIFluwhIS4W_krYZ4O3SrADHsD750CI2dt5aOQAA0hocNEgSAs1FdUsFCuuEQ9QptPZF3g6U668IziBlN5TMLQ87B14gWOA3POQlb-TSPh-tXxw5mFUFy1hg&u=aHR0cHMlM2ElMmYlMmZ3d3cudGhyaWZ0Ym9va3MuY29tJTJmdyUyZm1vZGVybi1pbmZvcm1hdGlvbi1yZXRyaWV2YWwtZW5nbGlzaC12ZXJzaW9uLTJuZC1lZGl0aW9uLWNoaW5lc2UtZWRpdGlvbiUyZjE4MTQ2OTgxJTJmaXRlbSUyZjQ1MzY2MDA1JTJmJTNmaXNibiUzZDcxMTEzMzE3NDUlMjZpZGlxJTNkNDUzNjYwMDUlMjZta3dpZCUzZDNTeFRrck1aJTdjZGMlMjZwY3JpZCUzZDExNTU4NzkyNzY2JTI2cGt3JTNkJTI2cG10JTNkYmUlMjZzbGlkJTNkJTI2cHJvZHVjdCUzZDQ1MzY2MDA1JTI2cGxjJTNkJTI2cGdyaWQlM2QzOTcwNzU4NTUwJTI2cHRhaWQlM2RwbGEtNDU4MDU2NTQ1MjA2NTkyMiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEJpbmclMjUyMFNob3BwaW5nJTI1MjAlMjU3QyUyNTIwRXZlcnl0aGluZyUyNTIwRWxzZSUyNnV0bV90ZXJtJTNkJTI2dXRtX2NvbnRlbnQlM2QzU3hUa3JNWiU3Y2RjJTdjcGNyaWQlN2MxMTU1ODc5Mjc2NiU3Y3BrdyU3YyU3Y3BtdCU3Y2JlJTdjcHJvZHVjdCU3YzQ1MzY2MDA1JTdjc2xpZCU3YyU3Y3BncmlkJTdjMzk3MDc1ODU1MCU3Y3B0YWlkJTdjcGxhLTQ1ODA1NjU0NTIwNjU5MjIlN2MlMjZtc2Nsa2lkJTNkMzIzMzhjMTQxZGM2MTg4Yjk1NDVlZDQ1ZjkwNGIyMjE&rlid=32338c141dc6188b9545ed45f904b221",
+      "details": "Used"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "displayed_link": "https://www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 10 mins"
+        ]
+      },
+      "thumbnail": "https://serpapi.com/searches/6151e4c20574f534bc14669d/images/9afa9cd61ed361b0bd18bd64b9e7dcc26410e22dfd45b9b68162bb45a782f5f9.jpeg",
+      "snippet": "Information retrieval (IR) has changed considerably in the last years with the expansion of the Web (World Wide Web) and the advent of modern and inexpensive graphical \u2026"
+    },
+    {
+      "position": 2,
+      "title": "Modern Information Retrieval: A Brief Overview",
+      "link": "http://www.cs.columbia.edu/~gravano/Qual/Papers/singhal.pdf",
+      "displayed_link": "www.cs.columbia.edu/~gravano/Qual/Papers/singhal.pdf",
+      "snippet": "Modern Information Retrieval: A Brief Overview Amit Singhal Google, Inc. singhal@google.com Abstract For thousands of years people have realized the importance of archiving and \ufb01nding information. With the advent of computers, it became possible to store large amounts of information; and \ufb01nding useful"
+    },
+    {
+      "position": 3,
+      "title": "Modern Information Retrieval - Pompeu Fabra University",
+      "link": "http://grupoweb.upf.edu/mir2ed/pdf/slides_chap01.pdf",
+      "displayed_link": "grupoweb.upf.edu/mir2ed/pdf/slides_chap01.pdf",
+      "snippet": "Information Retrieval (IR) IR deals with the representation, storage, organization of, and access to information items Types of information items: documents, Web pages, online catalogs, structured records, multimedia objects Early goals of the IR area: indexing text and searching for useful documents in a collection Nowadays, research in IR includes:"
+    },
+    {
+      "position": 4,
+      "title": "Modern Information Retrieval - Pompeu Fabra University",
+      "link": "http://grupoweb.upf.edu/mir2ed/pdf/chapter15.pdf",
+      "displayed_link": "grupoweb.upf.edu/mir2ed/pdf/chapter15.pdf",
+      "snippet": "information assets may be held in relational databases or specialized applications, but much is unstructured text of the type information retrieval systems have been designed to deal with. The application of information retrieval technology to information \ufb01nding within organizations has become known as enterprise search. Enterprise search may be"
+    },
+    {
+      "position": 5,
+      "title": "Modern Information Retrieval: A Brief Overview",
+      "link": "http://sifaka.cs.uiuc.edu/course/410s12/mir.pdf",
+      "displayed_link": "sifaka.cs.uiuc.edu/course/410s12/mir.pdf",
+      "snippet": "retrieval, information \ufb01ltering, user interactions with a retrieval system, and so on. The algorithms developed in IR were the \ufb01rst ones to be employed for searching the World Wide Web from 1996 to 1998. Web search, however, matured into systems that take advantage of the cross linkage available on the web, and is not a focus of the present article. In this article, I will concentrate on describing the \u2026"
+    },
+    {
+      "position": 6,
+      "title": "Amazon.com: Modern Information Retrieval: The \u2026",
+      "link": "https://www.amazon.com/Modern-Information-Retrieval-Concepts-Technology/dp/0321416910",
+      "displayed_link": "https://www.amazon.com/Modern-Information...",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 663",
+          "Author: Ricardo Baeza-Yates, Berthier Ribeiro-Neto",
+          "4/4(14)",
+          "Publish Year: 2011"
+        ]
+      },
+      "snippet": "This completely reorganized, revised and enlarged second edition of Modern Information Retrieval contains four new chapters and double the number of pages and bibliographic references of the first edition, and a companion website with teaching material. It will prove invaluable to students, professors, researchers, practitioners, and scholars of this fascinating field of IR"
+    },
+    {
+      "position": 7,
+      "title": "Modern Information Retrieval - Jordan University of ...",
+      "link": "https://www.just.edu.jo/~hmeidi/Teaching/CS721/slides_chap03.pdf",
+      "displayed_link": "https://www.just.edu.jo/~hmeidi/Teaching/CS721/slides_chap03.pdf",
+      "snippet": "Modern Information Retrieval Chapter 3 Modeling Part I: Classic Models Introduction to IR Models Basic Concepts The Boolean Model Term Weighting The Vector Model Probabilistic Model Chap 03: Modeling, Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval, 2nd Edition \u2013 p. 1"
+    },
+    {
+      "position": 8,
+      "title": "Modern Information Retrieval - Sharif",
+      "link": "http://ce.sharif.edu/courses/84-85/2/ce324/resources/root/lecture%20slides/01Introduction.ppt",
+      "displayed_link": "ce.sharif.edu/courses/84-85/2/ce324/resources/root...",
+      "rich_snippet": {
+        "extensions": [
+          "Document presentation format: On-screen Show",
+          "Title: Modern Information Retrieval",
+          "Last modified by: hassan"
+        ]
+      },
+      "snippet": "Information retrieval information about a subject or topic semantics is frequently loose small errors are tolerated IR system: interpret contents of information items generate a ranking which reflects relevance notion of relevance is most important Motivation (cont.) IR at the center of the stage IR in the last 20 years: classification and categorization systems and languages user interfaces and visualization Still, \u2026"
+    },
+    {
+      "position": 9,
+      "title": "Modern Information Retrieval - Home",
+      "link": "http://grupoweb.upf.es/mir2ed/",
+      "displayed_link": "grupoweb.upf.es/mir2ed",
+      "snippet": "Information about the Second Edition of the book on Information Retrieval by Ricardo Baeza-Yates and Berthier Ribeiro-Neto. Published by Addison-Wesley-Longman Modern Information Retrieval"
+    },
+    {
+      "position": 10,
+      "title": "Introduction to Information Retrieval - Stanford University",
+      "link": "https://nlp.stanford.edu/IR-book/",
+      "displayed_link": "https://nlp.stanford.edu/IR-book",
+      "snippet": "25 rows\u00a0\u00b7 Introduction to Information Retrieval. This is the companion website for the following book. \u2026"
+    },
+    {
+      "position": 11,
+      "title": "Modern Information Retrieval - Sharif",
+      "link": "http://ce.sharif.edu/courses/99-00/1/ce324-1/resources/root/Slides/Lect-13.pdf",
+      "displayed_link": "ce.sharif.edu/courses/99-00/1/ce324-1/resources/root/Slides/Lect-13.pdf",
+      "snippet": "Modern Information Retrieval Language Models for Information Retrieval1 Hamid Beigy Sharif university of technology November 1, 2020 1Some slides have been adapted from slides of Manning, Yannakoudakis, and Schutze."
+    },
+    {
+      "position": 12,
+      "title": "Modern Information Retrieval: A Brief Overview",
+      "link": "http://www.cs.ucr.edu/~vagelis/classes/FIU-CLASSES/COP6727/publications/IR%20Overview.pdf",
+      "displayed_link": "www.cs.ucr.edu/~vagelis/classes/FIU-CLASSES/COP6727...",
+      "snippet": "Modern Information Retrieval: A Brief Overview Amit Singhal Google, Inc. singhal@google.com Abstract For thousands of years people have realized the importance of archiving and \ufb01nding information. With the advent of computers, it became possible to store large amounts of information; and \ufb01nding useful"
+    },
+    {
+      "position": 13,
+      "title": "Amazon.com: Introduction to Modern Information Retrieval ...",
+      "link": "https://www.amazon.com/Introduction-Modern-Information-Retrieval-3rd/dp/1555707157",
+      "displayed_link": "https://www.amazon.com/Introduction-Modern...",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 57",
+          "Author: G. Chowdhury",
+          "4.4/5(14)",
+          "Publish Year: 2010"
+        ]
+      },
+      "snippet": "Amazon.com: Introduction to Modern Information Retrieval, 3rd Edition (9781555707156): Chowdhury, G.G.: Books"
+    },
+    {
+      "position": 14,
+      "title": "INTRODUCTION TO MODERN INFORMATION RETRIEVAL i \u2026",
+      "link": "https://www.sigir.org/files/museum/introduction_to_modern_information_retrieval/frontmatter.pdf",
+      "displayed_link": "https://www.sigir.org/files/museum/introduction_to...",
+      "snippet": "This text is aimed at increasing the understanding of modern information retrieval by students of computer science as well as by students of information science and management science. The book covers the basic aspects of infor\u00ad mation retrieval theory \u2026"
+    },
+    {
+      "position": 15,
+      "title": "Modern Information Retrieval - Inspiring Innovation",
+      "link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap04.pdf",
+      "displayed_link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap04.pdf",
+      "snippet": "Modern Information Retrieval Chapter 4 Retrieval Evaluation The Cran\ufb01eld Paradigm Retrieval Performance Evaluation Evaluation Using Reference Collections Interactive Systems Evaluation Search Log Analysis using Clickthrough Data Chap 04: Retrieval Evaluation, Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval, 2nd Edition \u2013 p. 1"
+    },
+    {
+      "position": 16,
+      "title": "Modern Information Retrieval",
+      "link": "https://homepages.dcc.ufmg.br/~nivio/cursos/ri08/transp/slideschap04c.pdf",
+      "displayed_link": "https://homepages.dcc.ufmg.br/~nivio/cursos/ri08/transp/slideschap04c.pdf",
+      "snippet": "Modern Information Retrieval Chapter 2 Modeling Alternative Probabilistic Models Non-overlapping Lists Proximal Nodes Retrieval Evaluation, Modern Information Retrieval, Addison Wesley, 2006 \u2013 p. 1"
+    },
+    {
+      "position": 17,
+      "title": "Modern information retrieval : Baeza-Yates, R. (Ricardo ...",
+      "link": "https://archive.org/details/moderninformatio0000baez",
+      "displayed_link": "https://archive.org/details/moderninformatio0000baez",
+      "snippet": "Modern information retrieval Item Preview remove-circle Share or Embed This Item. Share to Twitter. Share to Facebook. Share to Reddit. Share to Tumblr. Share to Pinterest. Share via email. EMBED EMBED (for wordpress.com hosted blogs and archive.org item <description> tags) Want more? Advanced embedding details, examples, and ..."
+    },
+    {
+      "position": 18,
+      "title": "GitHub - ZahraFazel/Modern-Information-Retrieval",
+      "link": "https://github.com/ZahraFazel/Modern-Information-Retrieval",
+      "displayed_link": "https://github.com/ZahraFazel/Modern-Information-Retrieval",
+      "snippet": "Modern Information Retrieval. This repository contains the projects of advanced information retrieval course (CE-324). The projects are as follow: Infromation Retrieval System: A traditional infromation retrieval system for persian wikipedia dataset using vector space model & tf-idf score."
+    },
+    {
+      "position": 19,
+      "title": "Modern Information Retrieval - Inspiring Innovation",
+      "link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap03.pdf",
+      "displayed_link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap03.pdf",
+      "snippet": "Modern Information Retrieval Chapter 3 Modeling Part I: Classic Models Introduction to IR Models Basic Concepts The Boolean Model Term Weighting The Vector Model Probabilistic Model Chap 03: Modeling, Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval, 2nd Edition \u2013 p. 1"
+    },
+    {
+      "position": 20,
+      "title": "GitHub - SeyedAlirezaFatemi/modern-information-retrieval ...",
+      "link": "https://github.com/SeyedAlirezaFatemi/modern-information-retrieval",
+      "displayed_link": "https://github.com/SeyedAlirezaFatemi/modern-information-retrieval",
+      "snippet": "Modern Information Retrieval This repo contains my solutions to Modern Information Retrieval course projects. The description of each phase of the project is in MIR_PHASE# directories."
+    },
+    {
+      "position": 21,
+      "title": "Modern Information Retrieval - gbv.de",
+      "link": "http://www.gbv.de/dms/ilmenau/toc/32873943X.PDF",
+      "displayed_link": "www.gbv.de/dms/ilmenau/toc/32873943X.PDF",
+      "snippet": "Modern Information Retrieval Ricardo Baeza-Yates Berthier Ribeiro-Neto ACM Press New York Addison-Wesley Harlow, England \u2022 Reading, Massachusetts Menlo Park, California \u2022 New York ./*. Don Mills, Ontario \u2022 Amsterdam ..."
+    },
+    {
+      "position": 22,
+      "title": "Modern Information Retrieval : Baeza-Yates, Ricardo ...",
+      "link": "https://archive.org/details/modern-information-retrieval_202102",
+      "displayed_link": "https://archive.org/details/modern-information-retrieval_202102",
+      "snippet": "Feb 07, 2021\u00a0\u00b7 Modern Information Retrieval by Baeza-Yates, Ricardo, Ribeiro-Neto, Berthier. Publication date 1999 Usage Attribution-NoDerivatives 4.0 International Topics modern information retrieval Collection opensource. Modern Information Retrieval (1999) Addeddate 2021-02-07 03:09:13 Identifier"
+    },
+    {
+      "position": 23,
+      "title": "Modern Information Retrieval | Guide books",
+      "link": "https://dl.acm.org/doi/book/10.5555/1796408",
+      "displayed_link": "https://dl.acm.org/doi/book/10.5555/1796408",
+      "snippet": "Modern Information Retrieval: The concepts and technology behind search . 2011. Abstract. No abstract available. Cited By. Moreo A, Esuli A and Sebastiani F (2020) Learning to Weight for Text Classification, IEEE Transactions on Knowledge and Data Engineering, 32:2, (302-316), Online publication date: 1 \u2026"
+    },
+    {
+      "position": 24,
+      "title": "Modern Information Retrieval - Al al-Bayt University",
+      "link": "https://web2.aabu.edu.jo/tool/course_file/lec_notes/902333_chapter07.pdf",
+      "displayed_link": "https://web2.aabu.edu.jo/tool/course_file/lec_notes/902333_chapter07.pdf",
+      "snippet": "Information Retrieval Systems Saif Rababah 17 Text compression (cont.) Basic methods: Statistical methods: Estimate the probability of occurrence of each encoding unit (character or word) in the alphabet. Assign codes to units: more frequent units are assigned shorter codes. In information retrieval, word-encoding is preferred over"
+    },
+    {
+      "position": 25,
+      "title": "Modern Information Retrieval - Universidade Federal de ...",
+      "link": "http://homepages.dcc.ufmg.br/~nivio/cursos/ri10/transp/slideschap01.pdf",
+      "displayed_link": "homepages.dcc.ufmg.br/~nivio/cursos/ri10/transp/slideschap01.pdf",
+      "snippet": "Introduction, Modern Information Retrieval, Addison Wesley, 2006 \u2013 p. 23. How the Web Changed Search The fourth major impact derive from the fact that the Web is also a medium to do business Search problem has been extended beyond the seeking of text information to also encompass other user needs"
+    },
+    {
+      "position": 26,
+      "title": "Modern Information Retrieval by Ricardo Baeza-Yates",
+      "link": "https://www.goodreads.com/book/show/433444.Modern_Information_Retrieval",
+      "displayed_link": "https://www.goodreads.com/book/show/433444",
+      "rich_snippet": {
+        "extensions": [
+          "3.8/5",
+          "Ratings: 123",
+          "Reviews: 7"
+        ]
+      },
+      "snippet": "Modern Information Retrieval. Information Retrieval/Database ManagementModern Information RetrievalRicardo Baeza-Yates and Berthier Ribeiro-NetoWe live in the information age, where swift access to relevant information in whatever form or medium can \u2026"
+    },
+    {
+      "position": 27,
+      "title": "CS 276: Information Retrieval and Web Search",
+      "link": "http://web.stanford.edu/class/cs276/",
+      "displayed_link": "web.stanford.edu/class/cs276",
+      "snippet": "Information retrieval is the process through which a computer system can respond to a user's query for text-based information on a specific topic. IR was one of the first and remains one of the most important problems in the domain of natural language processing (NLP). ... (MIR) Modern Information Retrieval, by R. Baeza-Yates and B. Ribeiro ..."
+    },
+    {
+      "position": 28,
+      "title": "Modern Information Retrieval (CS-7004) - B.E RGPV CBCS ...",
+      "link": "https://be-notes.rgpvnotes.in/2018/07/modern-information-retrieva-cs-7004.html",
+      "displayed_link": "https://be-notes.rgpvnotes.in/2018/07/modern-information-retrieva-cs-7004.html",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 1 min"
+        ]
+      },
+      "snippet": "1. Ricardo Baeza-Yates and Berthier Ribeiro-Neto, \u201cModern Information Retrieval\u201d Pearson Education 2. C. Manning, P. Raghvan and H. Schutze, \u201cIntroduction to \u2026"
+    },
+    {
+      "position": 29,
+      "title": "Modern Information Retrieval - grupoweb.upf.es",
+      "link": "http://grupoweb.upf.es/mir2ed/pdf/references.pdf",
+      "displayed_link": "grupoweb.upf.es/mir2ed/pdf/references.pdf",
+      "snippet": "Modern Information Retrieval The Concepts and Technology behind Search Ricardo Baeza-Yates Berthier Ribeiro-Neto Second edition Addison-Wesley Harlow, England \u2022 Reading, Massachusetts Menlo Park, California \u2022 New York Don Mills, Ontario \u2022 Amsterdam \u2022 Bonn Sydney \u2022 Singapore \u2022 Tokyo \u2022 Madrid"
+    },
+    {
+      "position": 30,
+      "title": "Modern Information Retrieval | Request PDF",
+      "link": "https://www.researchgate.net/publication/319393666_Modern_Information_Retrieval",
+      "displayed_link": "https://www.researchgate.net/publication/319393666...",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 9 mins"
+        ]
+      },
+      "snippet": "Request PDF | On Jan 1, 2000, Ricardo Baeza-Yates and others published Modern Information Retrieval | Find, read and cite all the research you need on ResearchGate"
+    },
+    {
+      "position": 31,
+      "title": "Introduction to Modern Information Retrieval by G.G. Chowdhury",
+      "link": "https://www.goodreads.com/book/show/1818137.Introduction_to_Modern_Information_Retrieval",
+      "displayed_link": "https://www.goodreads.com/book/show/1818137",
+      "rich_snippet": {
+        "extensions": [
+          "2.7/5",
+          "Ratings: 109",
+          "Reviews: 19"
+        ]
+      },
+      "snippet": "Introduction to Modern Information Retrieval. An information retrieval system is designed to analyse, process and store sources of information and retrieve those that match a particular user's requirements. A bewildering range of techniques is now available to the information professional attempting to \u2026"
+    },
+    {
+      "position": 32,
+      "title": "Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval ...",
+      "link": "https://www.pearson.com/uk/educators/higher-education-educators/program/Baeza-Yates-Modern-Information-Retrieval-The-Concepts-and-Technology-behind-Search-2nd-Edition/PGM804983.html",
+      "displayed_link": "https://www.pearson.com/uk/educators/higher...",
+      "snippet": "This completely reorganized, revised and enlarged second edition of Modern Information Retrieval contains many new chapters and double the number of pages and bibliographic references of the first edition, and a companion website www.mir2ed.org with teaching material. It will prove invaluable to students, professors, researchers, practitioners, and scholars of this fascinating field of information \u2026"
+    },
+    {
+      "position": 33,
+      "title": "Information retrieval - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Information_Retrieval_System",
+      "displayed_link": "https://en.wikipedia.org/wiki/Information_Retrieval_System",
+      "rich_snippet": {
+        "extensions": [
+          "Estimated Reading Time: 11 mins"
+        ]
+      },
+      "snippet": "Information retrieval (IR) is the process of obtaining information system resources that are relevant to an information need from a collection of those resources. Searches can be based on full-text or other content-based indexing. Information retrieval is the science of searching for information in a document, searching for documents themselves, and also searching for the metadata that ..."
+    },
+    {
+      "position": 34,
+      "title": "Modern Information Retrieval - Ricardo Baeza-Yates ...",
+      "link": "https://books.google.com/books/about/Modern_Information_Retrieval.html?id=GcPuAAAAMAAJ",
+      "displayed_link": "https://books.google.com/books/about/Modern...",
+      "rich_snippet": {
+        "extensions": [
+          "5/5(1)",
+          "Original from: the University of Michigan",
+          "Digitized: Jan 29, 2010",
+          "Publisher: ACM Press, 1999"
+        ]
+      },
+      "snippet": "Modern Information Retrieval will prove invaluable to students in Computer Science, Information Science and Library Science departments, as well as to programmers and analysts working with products..."
+    },
+    {
+      "position": 35,
+      "title": "Download [PDF] Modern Information Retrieval Full Pages By ...",
+      "link": "https://sites.google.com/site/6dry7tf76y/ab7eh9i-4",
+      "displayed_link": "https://sites.google.com/site/6dry7tf76y/ab7eh9i-4",
+      "snippet": "May 15, 1999\u00a0\u00b7 Download [PDF] Modern Information Retrieval Full Pages By - Ricardo Baeza-Yates Download [PDF] Moral Issues in Business Full Books By - William H. Shaw Download [PDF] Motor Skills Acquisition in the First Year: An Illustrated Guide to Normal Development Full Books By - Lois Bly"
+    },
+    {
+      "position": 36,
+      "title": "Modern Information Retrieval - Ricardo Baeza-Yates ...",
+      "link": "https://books.google.com/books/about/Modern_Information_Retrieval.html?id=CsLuAAAAMAAJ",
+      "displayed_link": "https://books.google.com/books/about/Modern...",
+      "rich_snippet": {
+        "extensions": [
+          "Digitized: Jan 29, 2010",
+          "Publisher: ACM Press, 1999",
+          "Original from: the University of Michigan",
+          "Title: Modern Information RetrievalACM Press books"
+        ]
+      },
+      "snippet": "Information Retrieval/Database Management Modern Information Retrieval Ricardo Baeza-Yates and Berthier Ribeiro-Neto We live in the information age, where swift access to relevant information in whatever form or medium can dictate the success or failure of businesses or individuals. The timely provision of relevant information with minimal ' noise' is critical to modern society and this is ..."
+    },
+    {
+      "position": 37,
+      "title": "Modern Information Retrieval - Al al-Bayt University",
+      "link": "https://web2.aabu.edu.jo/tool/course_file/lec_notes/902333_01Introduction.pdf",
+      "displayed_link": "https://web2.aabu.edu.jo/tool/course_file/lec_notes/902333_01Introduction.pdf",
+      "snippet": "Modern Information Retrieval Information Systems department First Semester 2018-2019 Saif Rababah . Subjects 1. Introduction 2. Models 3. Retrieval evaluation 4. Query languages 5. Query reformulation 6. Text properties 7. Text languages 8. Text processing 9. Information retrieval from the Web 10. Multimedia IR 11. Multi-Lingual IR"
+    },
+    {
+      "position": 38,
+      "title": "[PDF] Introduction to Modern Information Retrieval ...",
+      "link": "https://www.semanticscholar.org/paper/Introduction-to-Modern-Information-Retrieval-Salton-McGill/49af3e80343eb80c61e727ae0c27541628c7c5e2",
+      "displayed_link": "https://www.semanticscholar.org/paper/Introduction...",
+      "snippet": "Corpus ID: 43685115. Introduction to Modern Information Retrieval @inproceedings{Salton1983IntroductionTM, title={Introduction to Modern Information Retrieval}, author={G. Salton and M. McGill}, year={1983} }"
+    },
+    {
+      "position": 39,
+      "title": "Modern information retrieval (1999 edition) | Open Library",
+      "link": "https://openlibrary.org/books/OL30513M/Modern_information_retrieval",
+      "displayed_link": "https://openlibrary.org/books/OL30513M/Modern_information_retrieval",
+      "rich_snippet": {
+        "extensions": [
+          "Cited by: 19952",
+          "Publish Year: 1999",
+          "Author: Ricardo A. Baeza-Yates, Berthier Ribeiro-Neto",
+          "Pages: 513"
+        ]
+      },
+      "snippet": "Nov 30, 2020\u00a0\u00b7 Modern information retrieval by R. Baeza-Yates, 1999, ACM Press, Addison-Wesley, c1999. edition, in English"
+    },
+    {
+      "position": 40,
+      "title": "Baeza-Yates, R. and Ribeiro-Neto, B. (1999) Modern ...",
+      "link": "https://www.scirp.org/reference/ReferencesPapers.aspx?ReferenceID=1956768",
+      "displayed_link": "https://www.scirp.org/reference/ReferencesPapers.aspx?ReferenceID=1956768",
+      "snippet": "Article citations More>>. Baeza-Yates, R. and Ribeiro-Neto, B. (1999) Modern Information Retrieval. ACM Press, New York. has been cited by the following article:"
+    },
+    {
+      "position": 41,
+      "title": "CiteSeerX \u2014 Modern Information Retrieval",
+      "link": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.7690",
+      "displayed_link": "citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.27.7690",
+      "snippet": "Abstract. Information retrieval (IR) has changed considerably in the last years with the expansion of the Web (World Wide Web) and the advent of modern and inexpensive graphical user interfaces and mass storage devices. As a result, traditional IR textbooks have become quite out-of-date which has led to the introduction of new IR books recently."
+    },
+    {
+      "position": 42,
+      "title": "GoldenRetriever: A Speech Recognition System Powered by ...",
+      "link": "https://dl.acm.org/doi/10.1145/3394171.3414392",
+      "displayed_link": "https://dl.acm.org/doi/10.1145/3394171.3414392",
+      "snippet": "Oct 12, 2020\u00a0\u00b7 3394171.3414392.mp4 Automatic Speech Recognition (ASR) systems usually generate the N-best hypotheses list first, and then rescore these hypotheses with the language model score and the acoustic model score. This procedure is essentially an analogy of the working mechanism of modern Information Retrieval (IR) systems, which retrieve a relatively large amount of relevant candidates first \u2026"
+    },
+    {
+      "position": 43,
+      "title": "Introduction To Modern Information Retrieval (Mcgraw Hill ...",
+      "link": "http://kimyg.newreadbesttop.info/Introduction-To-Modern-Information-Retrieval-(Mcgraw-Hill-Computer-Science-Series)-Gerard-Salton.cgi",
+      "displayed_link": "kimyg.newreadbesttop.info/Introduction-To-Modern...",
+      "rich_snippet": {
+        "extensions": [
+          "9.7/10(610)"
+        ]
+      },
+      "snippet": "May 08, 2019\u00a0\u00b7 Introduction To Modern Information Retrieval (Mcgraw Hill Computer Science Series) Gerard Salton dedicated to helping students to achieve their academic goals, we ensure that every order is completed by the deadline, all instructions are met, and the quality corresponds to the highest academic standards."
+    },
+    {
+      "position": 44,
+      "title": "Modern Information Retrieval Berthier Ribeiro Neto",
+      "link": "http://mobok.mytopnewessaytoday.info/Modern-Information-Retrieval-Berthier-Ribeiro-Neto.cgi",
+      "displayed_link": "mobok.mytopnewessaytoday.info/Modern-Information...",
+      "rich_snippet": {
+        "extensions": [
+          "9.7/10(646)"
+        ]
+      },
+      "snippet": "Jun 12, 2019\u00a0\u00b7 Modern Information Retrieval Berthier Ribeiro Neto, Needle Felting: Simple Techniques, Beautiful Projects Jennifer Zoeterman, The 2016-2021 Outlook For Ripe And Green Ripe Canned Olives In Africa, Europe & The Middle East Icon Group International, Healing Power Of Mind. A Treatise On Mind-Cure, With Original Views On The Subject, And Complete Instructions For Practice, And Self-Treatment \u2026"
+    },
+    {
+      "position": 45,
+      "title": "ACM Press New York - CS",
+      "link": "http://web.cs.ucla.edu/~miodrag/cs259-security/baeza-yates99modern.pdf",
+      "displayed_link": "web.cs.ucla.edu/~miodrag/cs259-security/baeza-yates99modern.pdf",
+      "snippet": "./ )0+123 54 6)7 8. 6)7. !$:9;) <>= ?@ 0a < bbc \")edf #\" g ihj )7 /3k.)0hl 3m #b n,bo 6)c 45! *p ./ q . g r n,\" \" ts0 0uvwuyxn nz)7 g .) b"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which is the introduction to modern information retrieval?",
+      "snippet": "If you know are looking for the book enPDFd introduction to modern information retrieval as the choice of reading, you can find here. This Just In! Your Life in the Newspaper Who Do You Want to Be Today?",
+      "title": "[PDF] Introduction to Modern Information Retrieval ...",
+      "link": "https://www.semanticscholar.org/paper/Introduction-to-Modern-Information-Retrieval-Salton-McGill/49af3e80343eb80c61e727ae0c27541628c7c5e2",
+      "displayed_link": "www.semanticscholar.org/paper/Introduction-to-Modern-I\u2026"
+    },
+    {
+      "question": "How is information retrieval ( IR ) has changed over time?",
+      "snippet": "Information retrieval (IR) has changed considerably in the last years with the expansion of the Web (World Wide Web) and the advent of modern and inexpensive graphical user interfaces and mass storage devices. As a result, traditional IR textbooks have become quite out-of-date which has led to the introduction of new IR books recently.",
+      "title": "(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "displayed_link": "www.researchgate.net/publication/2352627_Modern_Info\u2026"
+    },
+    {
+      "question": "Where can I buy the book information retrieval?",
+      "snippet": "You can order this book at CUP, at your local bookstore or on the internet. The best search term to use is the ISBN: 0521865719. The book aims to provide a modern approach to information retrieval from a computer science perspective.",
+      "title": "Introduction to Information Retrieval - Stanford University",
+      "link": "https://nlp.stanford.edu/IR-book/",
+      "displayed_link": "nlp.stanford.edu/IR-book/"
+    },
+    {
+      "question": "What does information retrieval and web search mean?",
+      "snippet": "CS 276 / LING 286: Information Retrieval and Web Search Image credit Course Description Information retrieval is the process through which a computer system can respond to a user's query for text-based information on a specific topic.",
+      "title": "CS 276: Information Retrieval and Web Search",
+      "link": "http://web.stanford.edu/class/cs276/",
+      "displayed_link": "web.stanford.edu/class/cs276/"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "modern information retrieval pdf",
+      "link": "https://www.bing.com/search?q=modern+information+retrieval+pdf&FORM=QSRE1"
+    },
+    {
+      "query": "information retrieval system pdf",
+      "link": "https://www.bing.com/search?q=information+retrieval+system+pdf&FORM=QSRE2"
+    },
+    {
+      "query": "information retrieval pdf",
+      "link": "https://www.bing.com/search?q=information+retrieval+pdf&FORM=QSRE3"
+    },
+    {
+      "query": "introduction to modern information retrieval",
+      "link": "https://www.bing.com/search?q=introduction+to+modern+information+retrieval&FORM=QSRE4"
+    },
+    {
+      "query": "chowdhury information retrieval",
+      "link": "https://www.bing.com/search?q=chowdhury+information+retrieval&FORM=QSRE5"
+    },
+    {
+      "query": "information retrieval textbook",
+      "link": "https://www.bing.com/search?q=information+retrieval+textbook&FORM=QSRE6"
+    },
+    {
+      "query": "introduction to information retrieval solutions",
+      "link": "https://www.bing.com/search?q=introduction+to+information+retrieval+solutions&FORM=QSRE7"
+    },
+    {
+      "query": "information system gerard salton",
+      "link": "https://www.bing.com/search?q=information+system+gerard+salton&FORM=QSRE8"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.bing.com/search?q=Modern+Information+Retrieval&count=50&first=46&FORM=PORE",
+    "other_pages": {
+      "2": "https://www.bing.com/search?q=Modern+Information+Retrieval&count=50&first=46&FORM=PERE",
+      "3": "https://www.bing.com/search?q=Modern+Information+Retrieval&count=50&first=96&FORM=PERE1",
+      "4": "https://www.bing.com/search?q=Modern+Information+Retrieval&count=50&first=146&FORM=PERE2",
+      "5": "https://www.bing.com/search?q=Modern+Information+Retrieval&count=50&first=196&FORM=PERE3"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=46&q=Modern+Information+Retrieval",
+    "next": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=46&q=Modern+Information+Retrieval",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=46&q=Modern+Information+Retrieval",
+      "3": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=96&q=Modern+Information+Retrieval",
+      "4": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=146&q=Modern+Information+Retrieval",
+      "5": "https://serpapi.com/search.json?count=50&device=desktop&engine=bing&first=196&q=Modern+Information+Retrieval"
+    }
+  }
+}

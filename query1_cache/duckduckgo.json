@@ -1,0 +1,278 @@
+{
+  "search_metadata": {
+    "id": "6151e4c37d171aca203d3ac8",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/610b121dbb89fe6a/6151e4c37d171aca203d3ac8.json",
+    "created_at": "2021-09-27 15:35:31 UTC",
+    "processed_at": "2021-09-27 15:35:31 UTC",
+    "duckduckgo_url": "https://duckduckgo.com/?q=Modern+Information+Retrieval&kl=us-en",
+    "raw_html_file": "https://serpapi.com/searches/610b121dbb89fe6a/6151e4c37d171aca203d3ac8.html",
+    "prettify_html_file": "https://serpapi.com/searches/610b121dbb89fe6a/6151e4c37d171aca203d3ac8.prettify",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "duckduckgo",
+    "q": "Modern Information Retrieval",
+    "kl": "us-en"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "title": "Introduction To Modern Information Retrieval On eBay",
+      "link": "https://duckduckgo.com/y.js?ad_provider=bingv7aa&eddgt=nFp4HXdqrm7y_yMa4Xlm7g%3D%3D&rut=c015caff6264248ca6d448f691c18c028770fde891dd57e66910d2fa2d6736ba&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8gP9SPFKFSbTalZDgjKectDVUCUx8oKWi1wzvep17xIJN3hcZKV1e3wVKFubdRbvoyFSt0mowtcr3LA%2D2XeLKPYp8fzkdl5U_2DVRzLdAofsUj2_6WiKrdRMnY2NrZJocy2QLB6iQFubWZ75DnM4S0emALp7zTevC%2Dof2aX7EpRbynnczzyRTVeB8dm_b6zyN8l0wzw%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZWJheS5jb20lMmZwJTJmOTIzODk1ODUlM2Zub3JvdmVyJTNkMSUyNm1rZXZ0JTNkMSUyNm1rcmlkJTNkNzExLTE1MzY3Ny0zMjM2NjEtMCUyNm1rY2lkJTNkMiUyNmtleXdvcmQlM2Rib29rcyUyNTIwJTI2Y3JscCUzZF8lMjZNVF9JRCUzZCUyNmdlb19pZCUzZCUyNnJsc2F0YXJnZXQlM2RkYXQtMjMyODgzNDM0NzIxMTk0OCUzYWxvYy0xMjklMjZhZHBvcyUzZCUyNmRldmljZSUzZGMlMjZta3R5cGUlM2QlMjZsb2MlM2QxNTIzMDklMjZwb2klM2QlMjZhYmNJZCUzZCUyNmNtcGduJTNkMzk1MzMwMjEwJTI2c2l0ZWxuayUzZCUyNmFkZ3JvdXBpZCUzZDEyMzI1NTI3Mzg2MTk0MzElMjZuZXR3b3JrJTNkcyUyNm1hdGNodHlwZSUzZGIlMjZtc2Nsa2lkJTNkYjEzYjdiZTIxMzBmMTg4NjE0NjExYWIzZjdjYmIwOGM%26rlid%3Db13b7be2130f188614611ab3f7cbb08c&vqd=3-148851667534332215927080334773943387641-334420230774935795424696804880335930798&iurl=%7B1%7DIG%3DFE2433988B68430592458E13C1DCC2B9%26CID%3D2EADCFDF51CA69EB1A47DF605037680F%26ID%3DDevEx%2C5592.1",
+      "source": "ebay.com",
+      "snippet": "Over 70% New & Buy It Now; This Is The New eBay. Find Great Deals Now!"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "snippet": "Information retrieval (IR) has changed considerably in the last years with the expansion of the Web (World Wide Web) and the advent of modern and inexpensive graphical user interfaces and mass ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.researchgate.net.ico"
+    },
+    {
+      "position": 2,
+      "title": "PDF Modern Information Retrieval - Pompeu Fabra University",
+      "link": "http://grupoweb.upf.edu/mir2ed/pdf/slides_chap01.pdf",
+      "snippet": "entitled Information Retrieval, which focused on the Probabilistic Model In 1983, Salton and McGill published a classic book entitled Introduction to Modern Information Retrieval, which focused on the Vector Model Chap 01: Introduction, Baeza-Yates & Ribeiro-Neto, ModernInformation Retrieval, 2nd Edition - p. 6.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/grupoweb.upf.edu.ico"
+    },
+    {
+      "position": 3,
+      "title": "PDF Modern Information Retrieval: A Brief Overview",
+      "link": "http://sifaka.cs.uiuc.edu/course/410s12/mir.pdf",
+      "snippet": "Modern Information Retrieval: A Brief Overview Amit Singhal Google, Inc. singhal@google.com Abstract For thousands of years people have realized the importance of archiving and \ufb01nding information. With the advent of computers, it became possible to store large amounts of information; and \ufb01nding useful",
+      "favicon": "https://external-content.duckduckgo.com/ip3/sifaka.cs.uiuc.edu.ico"
+    },
+    {
+      "position": 4,
+      "title": "PDF INTRODUCTION TO MODERN INFORMATION RETRIEVAL i SCIENCE SERIES",
+      "link": "https://www.sigir.org/files/museum/introduction_to_modern_information_retrieval/frontmatter.pdf",
+      "snippet": "This text is aimed at increasing the understanding of modern information retrieval by students of computer science as well as by students of information science and management science. The book covers the basic aspects of infor\u00ad mation retrieval theory and practice, and also relates the various techniques to",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.sigir.org.ico"
+    },
+    {
+      "position": 5,
+      "title": "Amazon.com: Modern Information Retrieval: The Concepts and ...",
+      "link": "https://www.amazon.com/Modern-Information-Retrieval-Concepts-Technology/dp/0321416910",
+      "snippet": "This completely reorganized, revised and enlarged second edition of Modern Information Retrieval contains many new chapters and double the number of pages and bibliographic references of the first edition, and a companion websitewww.mir2ed.org with teaching material. It will prove invaluable to students, professors, researchers, practitioners ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.amazon.com.ico"
+    },
+    {
+      "position": 6,
+      "title": "PDF Modern Information Retrieval - Inspiring Innovation",
+      "link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap04.pdf",
+      "snippet": "Modern Information Retrieval Chapter 4 Retrieval Evaluation The Cran\ufb01eld Paradigm Retrieval Performance Evaluation Evaluation Using Reference Collections Interactive Systems Evaluation Search Log Analysis using Clickthrough Data Chap 04: Retrieval Evaluation, Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval, 2nd Edition - p. 1",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.csee.umbc.edu.ico"
+    },
+    {
+      "position": 7,
+      "title": "PDF Modern Information Retrieval - Pompeu Fabra University",
+      "link": "http://grupoweb.upf.edu/mir2ed/pdf/chapter15.pdf",
+      "snippet": "Modern Information Retrieval The Concepts and Technology behind Search Ricardo Baeza-Yates Berthier Ribeiro-Neto Second edition Addison-Wesley Harlow, England \u2022 Reading, Massachusetts Menlo Park, California \u2022 New York Don Mills, Ontario \u2022 Amsterdam \u2022 Bonn Sydney \u2022 Singapore \u2022 Tokyo \u2022 Madrid",
+      "favicon": "https://external-content.duckduckgo.com/ip3/grupoweb.upf.edu.ico"
+    },
+    {
+      "position": 8,
+      "title": "PDF Modern Information Retrieval - Jordan University of ...",
+      "link": "http://www.just.edu.jo/~hmeidi/Teaching/CS721/slides_chap03.pdf",
+      "snippet": "Modern Information Retrieval Chapter 3 Modeling Part I: Classic Models Introduction to IR Models Basic Concepts The Boolean Model Term Weighting The Vector Model Probabilistic Model Chap 03: Modeling, Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval, 2nd Edition - p. 1",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.just.edu.jo.ico"
+    },
+    {
+      "position": 9,
+      "title": "Modern Information Retrieval: Yates: 9788131709771: Amazon ...",
+      "link": "https://www.amazon.com/Modern-Information-Retrieval-Yates/dp/8131709779",
+      "snippet": "Modern Information Retrieval: The Concepts and Technology Behind Search. Ricardo Baeza-Yates. 4.2 out of 5 stars ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.amazon.com.ico"
+    },
+    {
+      "position": 10,
+      "title": "PPT Modern Information Retrieval - Sharif",
+      "link": "http://ce.sharif.edu/courses/84-85/2/ce324/resources/root/lecture%20slides/01Introduction.ppt",
+      "snippet": "Title: Modern Information Retrieval Last modified by: hassan Document presentation format: On-screen Show Other titles: Times New Roman Tahoma Arial Wingdings Arial Narrow MS Gothic Monotype Sorts Symbol Ocean Modern Information Retrieval Subjects Sources Motivation Motivation (cont.) Slide 6 Slide 7 Slide 8 Slide 9 Slide 10 Slide 11 Slide 12 Slide 13 Slide 14 Slide 15 Slide 16 Slide 17 Slide ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/ce.sharif.edu.ico"
+    },
+    {
+      "position": 11,
+      "title": "PDF Modern Information Retrieval - Inspiring Innovation",
+      "link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap12.pdf",
+      "snippet": "Modern Information Retrieval Chapter 12 Web Crawling with Carlos Castillo Applications of a Web Crawler Architecture and Implementation Scheduling Algorithms Crawling Evaluation Extensions Examples of Web Crawlers Trends and Research Issues Web Crawling, Modern Information Retrieval, Addison Wesley, 2010 - p. 1.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.csee.umbc.edu.ico"
+    },
+    {
+      "position": 12,
+      "title": "Modern information retrieval : Baeza-Yates, R. (Ricardo ...",
+      "link": "https://archive.org/details/moderninformatio0000baez",
+      "snippet": "Modern information retrieval Item Preview remove-circle Share or Embed This Item. Share to Twitter. Share to Facebook. Share to Reddit. Share to Tumblr. Share to Pinterest. Share via email. EMBED EMBED (for wordpress.com hosted blogs and archive.org item <description> tags) Want more? Advanced embedding details, examples, and ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/archive.org.ico"
+    },
+    {
+      "position": 13,
+      "title": "Modern Information Retrieval | Guide books",
+      "link": "https://dl.acm.org/doi/book/10.5555/1796408",
+      "snippet": "Modern Information Retrieval: The concepts and technology behind search . 2011. Abstract. No abstract available. Cited By. Moreo A, Esuli A and Sebastiani F (2020) Learning to Weight for Text Classification, IEEE Transactions on Knowledge and Data Engineering, 32:2, (302-316), Online publication date: 1-Feb-2020.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/dl.acm.org.ico"
+    },
+    {
+      "position": 14,
+      "title": "CS 276: Information Retrieval and Web Search",
+      "link": "http://web.stanford.edu/class/cs276/",
+      "snippet": "Information retrieval is the process through which a computer system can respond to a user's query for text-based information on a specific topic. IR was one of the first and remains one of the most important problems in the domain of natural language processing (NLP). ... (MIR) Modern Information Retrieval, by R. Baeza-Yates and B. Ribeiro ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/web.stanford.edu.ico"
+    },
+    {
+      "position": 15,
+      "title": "Modern Information Retrieval by Ricardo Baeza-Yates",
+      "link": "https://www.goodreads.com/book/show/433444.Modern_Information_Retrieval",
+      "snippet": "Modern Information Retrieval discusses all these changes in great detail and can be used for a first course on IR as well as graduate courses on the topic.The organization of the book, which includes a comprehensive glossary, allows the reader to either obtain a broad overview or detailed knowledge of all the key topics in modern IR. The heart ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.goodreads.com.ico"
+    },
+    {
+      "position": 16,
+      "title": "Introduction to Modern Information Retrieval by G.G. Chowdhury",
+      "link": "https://www.goodreads.com/book/show/1818137.Introduction_to_Modern_Information_Retrieval",
+      "snippet": "Introduction to Modern Information Retrieval. An information retrieval system is designed to analyse, process and store sources of information and retrieve those that match a particular user's requirements. A bewildering range of techniques is now available to the information professional attempting to achieve this goal.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.goodreads.com.ico"
+    },
+    {
+      "position": 17,
+      "title": "Download [PDF] Modern Information Retrieval Full Pages By ...",
+      "link": "https://sites.google.com/site/6dry7tf76y/ab7eh9i-4",
+      "snippet": "Download [PDF] Modern Information Retrieval Full Pages By - Ricardo Baeza-Yates Download [PDF] Moral Issues in Business Full Books By - William H. Shaw Download [PDF] Motor Skills Acquisition in the First Year: An Illustrated Guide to Normal Development Full Books By - Lois Bly",
+      "favicon": "https://external-content.duckduckgo.com/ip3/sites.google.com.ico"
+    },
+    {
+      "position": 18,
+      "title": "Baeza-Yates & Ribeiro-Neto, Modern Information Retrieval ...",
+      "link": "https://www.pearson.com/uk/educators/higher-education-educators/program/Baeza-Yates-Modern-Information-Retrieval-The-Concepts-and-Technology-behind-Search-2nd-Edition/PGM804983.html",
+      "snippet": "This completely reorganized, revised and enlarged second edition of Modern Information Retrieval contains many new chapters and double the number of pages and bibliographic references of the first edition, and a companion website www.mir2ed.org with teaching material. It will prove invaluable to students, professors, researchers, practitioners ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.pearson.com.ico"
+    },
+    {
+      "position": 19,
+      "title": "GitHub - ZahraFazel/Modern-Information-Retrieval",
+      "link": "https://github.com/ZahraFazel/Modern-Information-Retrieval",
+      "snippet": "Modern Information Retrieval. This repository contains the projects of advanced information retrieval course (CE-324). The projects are as follow: Infromation Retrieval System: A traditional infromation retrieval system for persian wikipedia dataset using vector space model & tf-idf score.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/github.com.ico"
+    },
+    {
+      "position": 20,
+      "title": "PPT Modern Information Retrieval - Al al-Bayt University",
+      "link": "https://web2.aabu.edu.jo/tool/course_file/lec_notes/902333_01Introduction.ppt",
+      "snippet": "Modern Information Retrieval Information Systems department Second Semester 2016-2017 Saif Rababah Saif Rababah Subjects 1. Introduction 2. Models 3. Retrieval evaluation 4. Query languages 5. Query reformulation 6. Text properties 7. Text languages 8. Text processing 9. Information retrieval from the Web 10. Multimedia IR 11. Multi-Lingual IR 12.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/web2.aabu.edu.jo.ico"
+    },
+    {
+      "position": 21,
+      "title": "PDF Online edition (c)2009 Cambridge UP - Stanford University",
+      "link": "https://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf",
+      "snippet": "10 XML retrieval 195 10.1 Basic XML concepts 197 10.2 Challenges in XML retrieval 201 10.3 A vector space model for XML retrieval 206 10.4 Evaluation of XML retrieval 210 10.5 Text-centric vs. data-centric XML retrieval 214 10.6 References and further reading 216 10.7 Exercises 217 11 Probabilistic information retrieval 219",
+      "favicon": "https://external-content.duckduckgo.com/ip3/nlp.stanford.edu.ico"
+    },
+    {
+      "position": 22,
+      "title": "(PDF) Trends and Issues in Modern Information Retrieval",
+      "link": "https://www.researchgate.net/publication/318530538_Trends_and_Issues_in_Modern_Information_Retrieval",
+      "snippet": "modern information retrieval models hav e been briefly presented. In the e nd the main issues and challenges in modern information retrieval techniques have be en summarized.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.researchgate.net.ico"
+    },
+    {
+      "position": 23,
+      "title": "Modern Information Retrieval - Yates - Google Books",
+      "link": "https://books.google.com/books/about/Modern_Information_Retrieval.html?id=nsjla44zAfwC",
+      "snippet": "Modern Information Retrieval. Yates. Pearson Education, 1999 - 534 pages. 0 Reviews. What people are saying - Write a review. We haven't found any reviews in the usual places. Other editions - View all. Modern Information Retrieval",
+      "favicon": "https://external-content.duckduckgo.com/ip3/books.google.com.ico"
+    },
+    {
+      "position": 24,
+      "title": "Baeza-Yates, R. and Ribeiro-Neto, B. (1999) Modern ...",
+      "link": "https://www.scirp.org/reference/ReferencesPapers.aspx?ReferenceID=1956768",
+      "snippet": "Article citations More>>. Baeza-Yates, R. and Ribeiro-Neto, B. (1999) Modern Information Retrieval. ACM Press, New York. has been cited by the following article:",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.scirp.org.ico"
+    },
+    {
+      "position": 25,
+      "title": "PDF Online edition (c)2009 Cambridge UP",
+      "link": "https://nlp.stanford.edu/IR-book/pdf/99back.pdf",
+      "snippet": "IP&M Information Processing and Management. IR Information Retrieval. JACM Journal of the Association for Computing Machinery. JASIS Journal of the American Society for Information Science. JASIST Journal of the American Society for Information Science and Technology. JMLR Journal of Machine Learning Research. TOIS ACM Transactions on ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/nlp.stanford.edu.ico"
+    },
+    {
+      "position": 26,
+      "title": "Introduction To Modern Information Retrieval G",
+      "link": "http://sijas.justgoodbesttrmy.info/Introduction-To-Modern-Information-Retrieval-G.-G.-Chowdhury.cgi",
+      "snippet": "Introduction To Modern Information Retrieval G, Endoscopy And Gastrointestinal Radiology: Volume 4: GI Requisite Series, 1e (Requisites In Gastroenterology) Michael L. Kochman MD FACP, Out Of Hours Care For The Primary Care Team John Howarth, Abnormal Psychology, Student CD, Scientific American Reader For Comer & Hidden Mind Reader Scientific American",
+      "favicon": "https://external-content.duckduckgo.com/ip3/sijas.justgoodbesttrmy.info.ico"
+    },
+    {
+      "position": 27,
+      "title": "PDF ACM Press New York - CS",
+      "link": "http://web.cs.ucla.edu/~miodrag/cs259-security/baeza-yates99modern.pdf",
+      "snippet": "./ )0+123 54 6)7 8. 6)7. !$:9;) <>= ?@ 0a < bbc \")edf #\" g ihj )7 /3k.)0hl 3m #b n,bo 6)c 45! *p ./ q . g r n,\" \" ts0 0uvwuyxn nz)7 g .) b",
+      "favicon": "https://external-content.duckduckgo.com/ip3/web.cs.ucla.edu.ico"
+    }
+  ],
+  "news_results": [
+    {
+      "position": 1,
+      "title": "OGC Membership approves the OGC API - Environmental Data Retrieval specification as official OGC Standard",
+      "link": "https://www.directionsmag.com/pressrelease/11066",
+      "snippet": "The Open Geospatial Consortium (OGC) is excited to announce that the OGC Membership has approved the OGC API - Environmental Data Retrieval (EDR) specification for adoption as an official OGC Standard.",
+      "source": "Directions Magazine",
+      "date": "5 days ago"
+    },
+    {
+      "position": 2,
+      "title": "Egg Freezing: 7 things You Need To Know About About Egg Freezing From A Specialist",
+      "link": "https://www.onlymyhealth.com/things-you-need-to-know-about-egg-freezing-expert-tips-1632294577",
+      "snippet": "Egg freezing is a procedure that is opted by many women around the world. Here are some essential things you should know about it.",
+      "source": "Onlymyhealth",
+      "date": "5 days ago",
+      "thumbnail": "https://images.onlymyhealth.com//imported/images/2021/September/22_Sep_2021/social2eggfreezing.jpg"
+    }
+  ],
+  "news_results_link": "https://duckduckgo.com/?q=Modern+Information+Retrieval&kl=us-en&iar=news&ia=news",
+  "related_searches": [
+    {
+      "query": "modern information retrieval pdf",
+      "link": "https://duckduckgo.com/?q=modern%20information%20retrieval%20pdf"
+    },
+    {
+      "query": "information retrieval system pdf",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20system%20pdf"
+    },
+    {
+      "query": "information retrieval pdf",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20pdf"
+    },
+    {
+      "query": "introduction to modern information retrieval",
+      "link": "https://duckduckgo.com/?q=introduction%20to%20modern%20information%20retrieval"
+    },
+    {
+      "query": "chowdhury information retrieval",
+      "link": "https://duckduckgo.com/?q=chowdhury%20information%20retrieval"
+    },
+    {
+      "query": "information retrieval textbook",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20textbook"
+    },
+    {
+      "query": "introduction to information retrieval solutions",
+      "link": "https://duckduckgo.com/?q=introduction%20to%20information%20retrieval%20solutions"
+    },
+    {
+      "query": "information system gerard salton",
+      "link": "https://duckduckgo.com/?q=information%20system%20gerard%20salton"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=duckduckgo&kl=us-en&q=Modern+Information+Retrieval&start=27"
+  }
+}

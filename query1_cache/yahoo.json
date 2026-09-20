@@ -1,0 +1,129 @@
+{
+  "search_metadata": {
+    "id": "6151e4c5a74fe05535c33c07",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/af8bf63ef9459ccd/6151e4c5a74fe05535c33c07.json",
+    "created_at": "2021-09-27 15:35:33 UTC",
+    "processed_at": "2021-09-27 15:35:33 UTC",
+    "yahoo_url": "https://search.yahoo.com/search?b=0&pz=50&p=Modern+Information+Retrieval&ei=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/af8bf63ef9459ccd/6151e4c5a74fe05535c33c07.html",
+    "total_time_taken": 1.16
+  },
+  "search_parameters": {
+    "engine": "yahoo",
+    "p": "Modern Information Retrieval",
+    "b": "0",
+    "pz": "50",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "Modern Information Retrieval"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "sifaka.cs.uiuc.edu \u203a course \u203a 410s12Modern Information Retrieval: A Brief Overview",
+      "link": "http://sifaka.cs.uiuc.edu/course/410s12/mir.pdf",
+      "displayed_link": "sifaka.cs.uiuc.edu \u203a course \u203a 410s12"
+    },
+    {
+      "position": 2,
+      "title": "grupoweb.upf.edu \u203a mir2ed \u203a pdfModern Information Retrieval - Pompeu Fabra University",
+      "link": "http://grupoweb.upf.edu/mir2ed/pdf/slides_chap01.pdf",
+      "displayed_link": "grupoweb.upf.edu \u203a mir2ed \u203a pdf"
+    },
+    {
+      "position": 3,
+      "title": "www.researchgate.net \u203a publication \u203a 2352627_Modern(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "displayed_link": "www.researchgate.net \u203a publication \u203a 2352627_Modern"
+    },
+    {
+      "position": 4,
+      "title": "www.sigir.org \u203a files \u203a museumINTRODUCTION TO MODERN INFORMATION RETRIEVAL i SCIENCE SERIES",
+      "link": "https://www.sigir.org/files/museum/introduction_to_modern_information_retrieval/frontmatter.pdf",
+      "displayed_link": "www.sigir.org \u203a files \u203a museum"
+    },
+    {
+      "position": 5,
+      "title": "www.csee.umbc.edu \u203a ~nicholas \u203a 676Modern Information Retrieval - Inspiring Innovation",
+      "link": "https://www.csee.umbc.edu/~nicholas/676/mir2edSlides/slides_chap04.pdf",
+      "displayed_link": "www.csee.umbc.edu \u203a ~nicholas \u203a 676"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which is the best description of modern information retrieval?",
+      "snippet": "... Several models have been proposed in the literature [12]. These models are divided into three main categories, namely, the set theoretic models, the algebraic models, and the probabilistic models (see Figure 2.2). ... Companies and individuals demand more and more storage space and computing power.",
+      "title": "(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://r.search.yahoo.com/_ylt=Awr9CWvG5FFhSQkARwtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1632785734/RO=10/RU=https%3a%2f%2fwww.researchgate.net%2fpublication%2f2352627_Modern_Information_Retrieval/RK=2/RS=lemelEgMTDpMBXnSIZJ1CTJAJLo-",
+      "displayed_link": "www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkASAtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=Which+is+the+best+description+of+modern+information+retrieval%3F&fr2="
+    },
+    {
+      "question": "How is information retrieval ( IR ) has changed over time?",
+      "snippet": "Information retrieval (IR) has changed considerably in the last years with the expansion of the Web (World Wide Web) and the advent of modern and inexpensive graphical user interfaces and mass storage devices. As a result, traditional IR textbooks have become quite out-of-date which has led to the introduction of new IR books recently.",
+      "title": "(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://r.search.yahoo.com/_ylt=Awr9CWvG5FFhSQkASQtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1632785734/RO=10/RU=https%3a%2f%2fwww.researchgate.net%2fpublication%2f2352627_Modern_Information_Retrieval/RK=2/RS=lemelEgMTDpMBXnSIZJ1CTJAJLo-",
+      "displayed_link": "www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkASgtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=How+is+information+retrieval+%28+IR+%29+has+changed+over+time%3F&fr2="
+    },
+    {
+      "question": "Are there any good books for information retrieval?",
+      "snippet": "As a result, traditional IR textbooks have become quite out-of-date which has led to the introduction of new IR books recently. Nevertheless, we believe that there is still great need of a book that approaches the field in a rigorous and complete way from a computer-science perspective (in opposition to a user-centered perspective).",
+      "title": "(PDF) Modern Information Retrieval - ResearchGate",
+      "link": "https://r.search.yahoo.com/_ylt=Awr9CWvG5FFhSQkASwtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1632785734/RO=10/RU=https%3a%2f%2fwww.researchgate.net%2fpublication%2f2352627_Modern_Information_Retrieval/RK=2/RS=lemelEgMTDpMBXnSIZJ1CTJAJLo-",
+      "displayed_link": "www.researchgate.net/publication/2352627_Modern_Information_Retrieval",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkATAtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=Are+there+any+good+books+for+information+retrieval%3F&fr2="
+    }
+  ],
+  "related_searches": {
+    "bottom": [
+      {
+        "query": "Modern Information Retrieval ricardo",
+        "link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAWAtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3JlbC1ib3Q-?p=modern+information+retrieval+ricardo&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "Modern Information Retrieval: a brief overview",
+        "link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAWwtXNyoA;_ylu=Y29sbwNncTEEcG9zAzQEdnRpZAMEc2VjA3JlbC1ib3Q-?p=modern+information+retrieval%3A+a+brief+overview&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "Modern Information Retrieval pdf",
+        "link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAWQtXNyoA;_ylu=Y29sbwNncTEEcG9zAzIEdnRpZAMEc2VjA3JlbC1ib3Q-?p=modern+information+retrieval+pdf&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "wordnet",
+        "link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAXAtXNyoA;_ylu=Y29sbwNncTEEcG9zAzUEdnRpZAMEc2VjA3JlbC1ib3Q-?p=wordnet&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "introduction to Modern Information Retrieval",
+        "link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAWgtXNyoA;_ylu=Y29sbwNncTEEcG9zAzMEdnRpZAMEc2VjA3JlbC1ib3Q-?p=introduction+to+modern+information+retrieval&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "Modern Information Retrieval ricardo baeza-yates pdf",
+        "link": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAXQtXNyoA;_ylu=Y29sbwNncTEEcG9zAzYEdnRpZAMEc2VjA3JlbC1ib3Q-?p=modern+information+retrieval+ricardo+baeza-yates+pdf&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAYgtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=Modern+Information+Retrieval&pz=50&ei=UTF-8&b=8&pz=7&bct=0&pstart=9",
+    "other_pages": {
+      "2": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAXgtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=Modern+Information+Retrieval&pz=50&ei=UTF-8&b=8&pz=7&bct=0&pstart=9",
+      "3": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAXwtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=Modern+Information+Retrieval&pz=50&ei=UTF-8&b=15&pz=7&bct=0&pstart=17",
+      "4": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAYAtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=Modern+Information+Retrieval&pz=50&ei=UTF-8&b=22&pz=7&bct=0&pstart=25",
+      "5": "https://search.yahoo.com/search;_ylt=Awr9CWvG5FFhSQkAYQtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=Modern+Information+Retrieval&pz=50&ei=UTF-8&b=29&pz=7&bct=0&pstart=33"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?b=8&device=desktop&engine=yahoo&p=Modern+Information+Retrieval&pz=50",
+    "next": "https://serpapi.com/search.json?b=8&device=desktop&engine=yahoo&p=Modern+Information+Retrieval&pz=50",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?b=8&device=desktop&engine=yahoo&p=Modern+Information+Retrieval&pz=50",
+      "3": "https://serpapi.com/search.json?b=15&device=desktop&engine=yahoo&p=Modern+Information+Retrieval&pz=50",
+      "4": "https://serpapi.com/search.json?b=22&device=desktop&engine=yahoo&p=Modern+Information+Retrieval&pz=50",
+      "5": "https://serpapi.com/search.json?b=29&device=desktop&engine=yahoo&p=Modern+Information+Retrieval&pz=50"
+    }
+  }
+}

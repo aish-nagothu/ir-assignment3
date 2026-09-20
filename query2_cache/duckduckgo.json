@@ -1,0 +1,256 @@
+{
+  "search_metadata": {
+    "id": "61559f0fada54b8b402d09ec",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/781adb25cde2e26b/61559f0fada54b8b402d09ec.json",
+    "created_at": "2021-09-30 11:27:11 UTC",
+    "processed_at": "2021-09-30 11:27:11 UTC",
+    "duckduckgo_url": "https://duckduckgo.com/?q=information+retrieval+evaluation&kl=us-en",
+    "raw_html_file": "https://serpapi.com/searches/781adb25cde2e26b/61559f0fada54b8b402d09ec.html",
+    "prettify_html_file": "https://serpapi.com/searches/781adb25cde2e26b/61559f0fada54b8b402d09ec.prettify",
+    "total_time_taken": 1.48
+  },
+  "search_parameters": {
+    "engine": "duckduckgo",
+    "q": "information retrieval evaluation",
+    "kl": "us-en"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "PDF Information Retrieval Evaluation",
+      "link": "https://www.iro.umontreal.ca/~nie/IFT6255/IR-Evaluation.pdf",
+      "snippet": "Information Retrieval Evaluation Jing He hejing@iro.umontreal.ca . October 21, 2012 . Outline \u2022 Background and Problem \u2022 Evaluation Methods - User Study - Cranfield Paradigm (Test Collections) - Implicit Feedback \u2022 Summary . Outline \u2022 Background and Problem",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.iro.umontreal.ca.ico"
+    },
+    {
+      "position": 2,
+      "title": "Evaluation in information retrieval - Stanford University",
+      "link": "https://nlp.stanford.edu/IR-book/html/htmledition/evaluation-in-information-retrieval-1.html",
+      "snippet": "Information retrieval has developed as a highly empirical discipline, requiring careful and thorough evaluation to demonstrate the superior performance of novel techniques on representative document collections.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/nlp.stanford.edu.ico"
+    },
+    {
+      "position": 3,
+      "title": "Information retrieval system evaluation - Stanford University",
+      "link": "https://nlp.stanford.edu/IR-book/html/htmledition/information-retrieval-system-evaluation-1.html",
+      "snippet": "Information retrieval system evaluation To measure ad hoc information retrieval effectiveness in the standard way, we need a test collection consisting of three things: A document collection A test suite of information needs, expressible as queries A set of relevance judgments, standardly a binary assessment of either relevant or nonrelevant ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/nlp.stanford.edu.ico"
+    },
+    {
+      "position": 4,
+      "title": "PDF Information Retrieval - Stanford University",
+      "link": "https://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-6-per.pdf",
+      "snippet": "Information Retrieval Evaluation Introduction to Information Retrieval Rank-Based Measures Binary relevance Precision@K (P@K) Mean Average Precision (MAP) ... Introduction to Information Retrieval 20 What Query Averaging Hides 0 0 .1 0 .2 0 .3 0 .4 0 .5 0 .6 0 .7 0 .8 0 .9 1",
+      "favicon": "https://external-content.duckduckgo.com/ip3/web.stanford.edu.ico"
+    },
+    {
+      "position": 5,
+      "title": "PDF Information Retrieval Evaluation",
+      "link": "http://people.cs.georgetown.edu/~nazli/classes/ir-Slides/Evaluation-13.pdf",
+      "snippet": "Information Retrieval Evaluation (COSC 488) Nazli Goharian nazli@cs.georgetown.edu 2 Measuring Effectiveness \u2022An algorithm is deemed incorrect if it does not have a \"right\" answer. \u2022A heuristic tries to guess something close to the right answer. Heuristics are measured on \"how close\" they come to a right answer.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/people.cs.georgetown.edu.ico"
+    },
+    {
+      "position": 6,
+      "title": "PDF Information Retrieval Evaluation - Georgetown University",
+      "link": "http://people.cs.georgetown.edu/~nazli/classes/ir-Slides/Evaluation-12.pdf",
+      "snippet": "Information Retrieval Evaluation (COSC 488) Nazli Goharian nazli@cs.georgetown.edu @ Goharian, Grossman, Frieder, 2002, 2012 2 Measuring Effectiveness \u2022 An algorithm is deemed incorrect if it does not have a \"right\" answer. \u2022 A heuristic tries to guess something close to the right answer. Heuristics are measured on \"how",
+      "favicon": "https://external-content.duckduckgo.com/ip3/people.cs.georgetown.edu.ico"
+    },
+    {
+      "position": 7,
+      "title": "PPT Evaluation of Information Retrieval Systems",
+      "link": "https://clgiles.ist.psu.edu/IST441/materials/powerpoint/eval-week3/retrieval-evaluation.ppt",
+      "snippet": "Evaluation Issues To place information retrieval on a systematic basis, we need repeatable criteria to evaluate how effective a system is in meeting the information needs of the user of the system. This proves to be very difficult with a human in the loop.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/clgiles.ist.psu.edu.ico"
+    },
+    {
+      "position": 8,
+      "title": "Information Retrieval Evaluation - SlideShare",
+      "link": "https://www.slideshare.net/JosRamnRosViqueira/information-retrieval-evaluation-64158263",
+      "snippet": "Information Retrieval Evaluation 1. IR Evaluation Mihai Lupu lupu@ifs.tuwien.ac.at Chapter 8 of the Introduction to IR book M. Sanderson. Test Collection Based Evaluation of Information Retrieval Systems Foundations and Trends in IR, 2010 1 2.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.slideshare.net.ico"
+    },
+    {
+      "position": 9,
+      "title": "Evaluation Metrics For Information Retrieval",
+      "link": "https://amitness.com/2020/08/information-retrieval-evaluation/",
+      "snippet": "Evaluation Metrics For Information Retrieval 9 minute read Most software products we encounter today have some form of search functionality integrated into them. We search for content on Google, videos on YouTube, products on Amazon, messages on Slack, emails on Gmail, people on Facebook, and so on. As users, the workflow is pretty simple.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/amitness.com.ico"
+    },
+    {
+      "position": 10,
+      "title": "Evaluating Information Retrieval. A story of Precision ...",
+      "link": "https://sniafas.medium.com/evaluating-information-retrieval-3975348ef97a",
+      "snippet": "Steve N. Apr 24, 2018 \u00b7 5 min read. Continuing from the latest post, it would be a great chance to discuss some of my grasps of evaluation methodologies in Information Retrieval presenting the concepts of precision, recall and F1-score (also F-Score, F Measure) or at least give it a try. \"A person reading a book with a magnifying glass and a ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/sniafas.medium.com.ico"
+    },
+    {
+      "position": 11,
+      "title": "Evaluation measures (information retrieval) - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)",
+      "snippet": "Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent. Such metrics are often split into kinds: online metrics look at users' interactions with the search system, while offline metrics measure relevance, in other words how likely each result, or search engine results page (SERP) page as a whole, is to meet the ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/en.wikipedia.org.ico"
+    },
+    {
+      "position": 12,
+      "title": "Ch5 Retrieval Evaluation 2021 | PDF | Information ...",
+      "link": "https://www.scribd.com/document/526097157/Ch5-Retrieval-Evaluation-2021",
+      "snippet": "Ch5 Retrieval Evaluation 2021 - Free download as PDF File (.pdf), Text File (.txt) or view presentation slides online. Modern Information Retrieval evaluation metrics and method precision recall confusion matrix",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.scribd.com.ico"
+    },
+    {
+      "position": 13,
+      "title": "PDF Retrieval Evaluation - SIGIR",
+      "link": "https://sigir.org/files/museum/introduction_to_modern_information_retrieval/chapter_5.pdf",
+      "snippet": "To understand the retrieval evaluation problem, it is necessary to examine first the functions of a retrieval system and the various system components. There\u00ad after, the measures that actually reflect system performance can be introduced. Information retrieval systems give a user population access to a stored col\u00ad lection of information items.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/sigir.org.ico"
+    },
+    {
+      "position": 14,
+      "title": "Evaluating Information Retrieval Systems - PDF Download",
+      "link": "https://cvlesalfabegues.com/search/evaluating-information-retrieval-systems/",
+      "snippet": "View: 424. Download \u2192. Use of test collections and evaluation measures to assess the effectiveness of information retrieval systems has its origins in work dating back to the early 1950s. Across the nearly 60 years since that work started, use of test collections is a de facto standard of evaluation.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/cvlesalfabegues.com.ico"
+    },
+    {
+      "position": 15,
+      "title": "PDF Introduction to Information Retrieval",
+      "link": "http://web.stanford.edu/class/cs276/19handouts/lecture8-evaluation-1per.pdf",
+      "snippet": "Introduction to Information Retrieval 13 Evaluating an IR system \u00a7Note: user needis translated into a query \u00a7Relevance is assessed relative to the user need, not thequery \u00a7E.g., Information need: My swimming pool bottom is becoming black and needs to be cleaned. \u00a7Query: pool cleaner \u00a7Assess whether the doc addresses the underlying",
+      "favicon": "https://external-content.duckduckgo.com/ip3/web.stanford.edu.ico"
+    },
+    {
+      "position": 16,
+      "title": "Evaluation of Information Retrieval System",
+      "link": "https://www.slideshare.net/somipam123456/evaluation-of-information-retrieval-system",
+      "snippet": "Evaluation of Information Retrieval System 1. Submitted by Somipam R. Shimray III/Semester dept. of LIS Pondicherry University 2. INTRODUCTION Evaluation is a systematic determination of a subject's merit, worth and significance, using criteria governed by a set of standards. It ascertain the degree of achievement in regard to the aim and ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.slideshare.net.ico"
+    },
+    {
+      "position": 17,
+      "title": "PDF Methods for Evaluating Interactive Information Retrieval ...",
+      "link": "https://ils.unc.edu/courses/2017_fall/inls509_002/papers/FnTIR-Press-Kelly.pdf",
+      "snippet": "Information Retrieval Vol. 3, Nos. 1-2 (2009) 1-224 c 2009 D. Kelly DOI: 10.1561/1500000012 Methods for Evaluating Interactive Information Retrieval Systems with Users Diane Kelly School of Information and Library Science, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA, dianek@email.unc.edu Abstract",
+      "favicon": "https://external-content.duckduckgo.com/ip3/ils.unc.edu.ico"
+    },
+    {
+      "position": 18,
+      "title": "Information Retrieval Evaluation | Synthesis Lectures on ...",
+      "link": "https://www.morganclaypool.com/doi/abs/10.2200/S00368ED1V01Y201105ICR019",
+      "snippet": "The lecture starts with a discussion of the early evaluation of information retrieval systems, starting with the Cranfield testing in the early 1960s, continuing with the Lancaster \"user\" study for MEDLARS, and presenting the various test collection investigations by the SMART project and by groups in Britain. The emphasis in this chapter is on ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.morganclaypool.com.ico"
+    },
+    {
+      "position": 19,
+      "title": "What is Information Retrieval? - GeeksforGeeks",
+      "link": "https://www.geeksforgeeks.org/what-is-information-retrieval/",
+      "snippet": "Information Retrieval (IR) can be defined as a software program that deals with the organization, storage, retrieval, and evaluation of information from document repositories, particularly textual information. Information Retrieval is the activity of obtaining material that can usually be documented on an unstructured nature i.e. usually text which satisfies an information need from within ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.geeksforgeeks.org.ico"
+    },
+    {
+      "position": 20,
+      "title": "Information Retrieval: Implementing and Evaluating Search ...",
+      "link": "https://www.amazon.com/Information-Retrieval-Implementing-Evaluating-Engines/dp/0262528878",
+      "snippet": "Information retrieval is the foundation for modern search engines. This textbook offers an introduction to the core topics underlying modern search technologies, including algorithms, data structures, indexing, retrieval, and evaluation.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.amazon.com.ico"
+    },
+    {
+      "position": 21,
+      "title": "Evaluating The Effectiveness Of Information Retrieval ...",
+      "link": "https://cvlesalfabegues.com/search/evaluating-the-effectiveness-of-information-retrieval-systems/",
+      "snippet": "View: 876. Download \u2192. Use of test collections and evaluation measures to assess the effectiveness of information retrieval systems has its origins in work dating back to the early 1950s. Across the nearly 60 years since that work started, use of test collections is a de facto standard of evaluation.",
+      "favicon": "https://external-content.duckduckgo.com/ip3/cvlesalfabegues.com.ico"
+    },
+    {
+      "position": 22,
+      "title": "Information Retrieval Evaluation - I - YouTube",
+      "link": "https://www.youtube.com/watch?v=0zWXSmyvr0M",
+      "snippet": "Mrs. Manisha A. NirgudeAssistant ProfessorDepartment of Information TechnologyWalchand Institute of Technology, Solapur",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+    },
+    {
+      "position": 23,
+      "title": "PDF Test Collection Based Evaluation of Information Retrieval ...",
+      "link": "http://marksanderson.org/publications/my_papers/FnTIR.pdf",
+      "snippet": "Information Retrieval Vol. 4, No. 4 (2010) 247-375 c 2010 M. Sanderson DOI: 10.1561/1500000009 Test Collection Based Evaluation of Information Retrieval Systems Mark Sanderson The Information School, University of She\ufb03eld, She\ufb03eld, UK m.sanderson@shef.ac.uk Abstract Use of test collections and evaluation measures to assess the e\ufb00ective-",
+      "favicon": "https://external-content.duckduckgo.com/ip3/marksanderson.org.ico"
+    },
+    {
+      "position": 24,
+      "title": "Information retrieval - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Information_retrieval",
+      "snippet": "The evaluation of an information retrieval system' is the process of assessing how well a system meets the information needs of its users. In general, measurement considers a collection of documents to be searched and a search query. Traditional evaluation metrics, ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/en.wikipedia.org.ico"
+    },
+    {
+      "position": 25,
+      "title": "(PDF) Evaluation of Evaluation in Information Retrieval",
+      "link": "https://www.researchgate.net/publication/221301028_Evaluation_of_Evaluation_in_Information_Retrieval",
+      "snippet": "Evaluation is a major force in research, development and applications related to information retrieval (IR). This paper is a critical and historical analysis of evaluations of IR systems and ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.researchgate.net.ico"
+    },
+    {
+      "position": 26,
+      "title": "Information Retrieval: Evaluation - YouTube",
+      "link": "https://www.youtube.com/watch?v=BxAzuCSvF8s",
+      "snippet": "Video Lecture from the course CMSC 470: Natural Language ProcessingFull course information here:http://www.umiacs.umd.edu/~jbg/teaching/CMSC_470/",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.youtube.com.ico"
+    },
+    {
+      "position": 27,
+      "title": "Amazon.com: Information Retrieval Evaluation (Synthesis ...",
+      "link": "https://www.amazon.com/Information-Retrieval-Evaluation-Synthesis-Lectures/dp/1598299719",
+      "snippet": "Amazon.com: Information Retrieval Evaluation (Synthesis Lectures on Information Concepts, Retrieval, and S) (9781598299717): Harman, Donna, Marchionini, Gary: Books",
+      "favicon": "https://external-content.duckduckgo.com/ip3/www.amazon.com.ico"
+    },
+    {
+      "position": 28,
+      "title": "Evaluation measures (information retrieval) - WikiMili ...",
+      "link": "https://wikimili.com/en/Evaluation_measures_(information_retrieval)",
+      "snippet": "Evaluation measures (information retrieval) Last updated January 16, 2021. Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent. Such metrics are often split into kinds: online metrics look at users' interactions with the search system, while offline metrics measure relevance, in other words how likely each ...",
+      "favicon": "https://external-content.duckduckgo.com/ip3/wikimili.com.ico"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "information retrieval pdf",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20pdf"
+    },
+    {
+      "query": "information retrieval services",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20services"
+    },
+    {
+      "query": "information retrieval system",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20system"
+    },
+    {
+      "query": "information retrieval models",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20models"
+    },
+    {
+      "query": "information retrieval definition",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20definition"
+    },
+    {
+      "query": "information retrieval system pdf",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20system%20pdf"
+    },
+    {
+      "query": "information retrieval tutorial",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20tutorial"
+    },
+    {
+      "query": "information retrieval textbook",
+      "link": "https://duckduckgo.com/?q=information%20retrieval%20textbook"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?engine=duckduckgo&kl=us-en&q=information+retrieval+evaluation&start=28"
+  }
+}

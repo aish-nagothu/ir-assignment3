@@ -1,0 +1,161 @@
+{
+  "search_metadata": {
+    "id": "61559f11ce87f80c8b261f04",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/358367479aceb8f6/61559f11ce87f80c8b261f04.json",
+    "created_at": "2021-09-30 11:27:13 UTC",
+    "processed_at": "2021-09-30 11:27:13 UTC",
+    "yahoo_url": "https://search.yahoo.com/search?b=0&pz=50&p=information+retrieval+evaluation&ei=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/358367479aceb8f6/61559f11ce87f80c8b261f04.html",
+    "total_time_taken": 2.14
+  },
+  "search_parameters": {
+    "engine": "yahoo",
+    "p": "information retrieval evaluation",
+    "b": "0",
+    "pz": "50",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "information retrieval evaluation"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "people.cs.georgetown.edu \u203a ir-Slides \u203a Evaluation-13Information Retrieval Evaluation",
+      "link": "http://people.cs.georgetown.edu/~nazli/classes/ir-Slides/Evaluation-13.pdf",
+      "displayed_link": "people.cs.georgetown.edu \u203a ir-Slides \u203a Evaluation-13"
+    },
+    {
+      "position": 2,
+      "title": "web.stanford.edu \u203a class \u203a cs276Information Retrieval - Stanford University",
+      "link": "https://web.stanford.edu/class/cs276/handouts/EvaluationNew-handout-6-per.pdf",
+      "displayed_link": "web.stanford.edu \u203a class \u203a cs276",
+      "rich_snippet": {
+        "extensions": {
+          "file_size": "502KB",
+          "page_count": "4"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "title": "clgiles.ist.psu.edu \u203a retrieval-evaluationEvaluation of Information Retrieval Systems",
+      "link": "https://clgiles.ist.psu.edu/IST441/materials/powerpoint/eval-week3/retrieval-evaluation.ppt",
+      "displayed_link": "clgiles.ist.psu.edu \u203a retrieval-evaluation",
+      "rich_snippet": {
+        "extensions": {
+          "author": "Microsoft Office User",
+          "last_modified_by": "Giles, C Lee",
+          "created_date": "1/20/2017 2",
+          "title": "Evaluation of Information Retrieval Systems"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "title": "www.slideshare.net \u203a JosRamnRosViqueiraInformation Retrieval Evaluation - SlideShare",
+      "link": "https://www.slideshare.net/JosRamnRosViqueira/information-retrieval-evaluation-64158263",
+      "displayed_link": "www.slideshare.net \u203a JosRamnRosViqueira",
+      "cached_page_link": "https://cc.bingj.com/cache.aspx?q=information+retrieval+evaluation&d=4669067784948888&mkt=en-US&setlang=en-US&w=wjARGg5MZaFLP2L4strZdgr1nZ3TlySL"
+    },
+    {
+      "position": 5,
+      "title": "amitness.com \u203a 08 \u203a information-retrieval-evaluationEvaluation Metrics For Information Retrieval",
+      "link": "https://amitness.com/2020/08/information-retrieval-evaluation/",
+      "displayed_link": "amitness.com \u203a 08 \u203a information-retrieval-evaluation",
+      "cached_page_link": "https://cc.bingj.com/cache.aspx?q=information+retrieval+evaluation&d=4850598875169071&mkt=en-US&setlang=en-US&w=WsHSjcovYa6dzCjmwQMS49hcl4at2QQn"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How are evaluation measures used in information retrieval?",
+      "snippet": "Evaluation measures (information retrieval) Evaluation measures for an information retrieval system are used to assess how well the search results satisfied the user's query intent. Such metrics are often split into kinds: online metrics look at users' interactions with the search system, while offline metrics measure relevance,...",
+      "title": "Evaluation measures (information retrieval) - Wikipedia",
+      "link": "https://r.search.yahoo.com/_ylt=A0geK9oSn1Vh164APwtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1633030035/RO=10/RU=https%3a%2f%2fen.wikipedia.org%2fwiki%2fEvaluation_measures_%28information_retrieval%29/RK=2/RS=24Ou5bPvOhSKHvxk5I26X22KYrs-",
+      "displayed_link": "en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AQAtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=How+are+evaluation+measures+used+in+information+retrieval%3F&fr2="
+    },
+    {
+      "question": "Which is the best definition of information retrieval?",
+      "snippet": "Information Retrieval \uf0a7 \u201cInformation retrieval is a field concerned with the structure, analysis, organization, storage, searching, and retrieval of information.\u201d (Salton, 1968) \uf0a7 General definition that can be applied to many types of information and search applications \uf0a7 Primary focus of IR since the 50s has been on text and documents 5.",
+      "title": "Information Retrieval Evaluation - SlideShare",
+      "link": "https://r.search.yahoo.com/_ylt=A0geK9oSn1Vh164AQQtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1633030035/RO=10/RU=https%3a%2f%2fwww.slideshare.net%2fJosRamnRosViqueira%2finformation-retrieval-evaluation-64158263/RK=2/RS=ZKv5E73Rn9LbcMmN52.vONpTPPI-",
+      "displayed_link": "www.slideshare.net/JosRamnRosViqueira/information-retrieval-evaluation-64158263",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AQgtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=Which+is+the+best+definition+of+information+retrieval%3F&fr2="
+    },
+    {
+      "question": "What does precision mean in information retrieval system?",
+      "snippet": "Precision: percentage (or fraction) of the hits that are relevant, i.e., the extent to which the set of hits retrieved by a query satisfies the requirement that generated the query.",
+      "title": "Evaluation of Information Retrieval Systems",
+      "link": "https://r.search.yahoo.com/_ylt=A0geK9oSn1Vh164AQwtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1633030035/RO=10/RU=https%3a%2f%2fclgiles.ist.psu.edu%2fIST441%2fmaterials%2fpowerpoint%2feval-week3%2fretrieval-evaluation.ppt/RK=2/RS=QvRRz0bxM7GPDMx.J4nb9wB3UeA-",
+      "displayed_link": "clgiles.ist.psu.edu/IST441/materials/powerpoint/eval-week3/retrieval-evaluation.ppt",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164ARAtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=What+does+precision+mean+in+information+retrieval+system%3F&fr2="
+    },
+    {
+      "question": "How are precision and recall used in an evaluation?",
+      "snippet": "Evaluation: Precision and Recall Precision and recall measure the results of a single query using a specific search system applied to a specific set of documents. Matching methods: Precision and recall are single numbers. Ranking methods: Precision and recall are functions of the rank order.",
+      "title": "Evaluation of Information Retrieval Systems",
+      "link": "https://r.search.yahoo.com/_ylt=A0geK9oSn1Vh164ARQtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj/RV=2/RE=1633030035/RO=10/RU=https%3a%2f%2fclgiles.ist.psu.edu%2fIST441%2fmaterials%2fpowerpoint%2feval-week3%2fretrieval-evaluation.ppt/RK=2/RS=QvRRz0bxM7GPDMx.J4nb9wB3UeA-",
+      "displayed_link": "clgiles.ist.psu.edu/IST441/materials/powerpoint/eval-week3/retrieval-evaluation.ppt",
+      "more_results_link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164ARgtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3Nj?ei=UTF-8&p=How+are+precision+and+recall+used+in+an+evaluation%3F&fr2="
+    }
+  ],
+  "related_searches": {
+    "bottom": [
+      {
+        "query": "information retrieval evaluation definition",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AVAtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3JlbC1ib3Q-?p=information+retrieval+evaluation+definition&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "information retrieval software",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AWAtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzUEdnRpZAMEc2VjA3JlbC1ib3Q-?p=information+retrieval+software&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "information retrieval evaluation form",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AVQtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzIEdnRpZAMEc2VjA3JlbC1ib3Q-?p=information+retrieval+evaluation+form&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "information retrieval course",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AWQtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzYEdnRpZAMEc2VjA3JlbC1ib3Q-?p=information+retrieval+course&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "information retrieval evaluation tool",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AVgtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzMEdnRpZAMEc2VjA3JlbC1ib3Q-?p=information+retrieval+evaluation+tool&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "yahoo information retrieval",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AWgtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzcEdnRpZAMEc2VjA3JlbC1ib3Q-?p=yahoo+information+retrieval&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "information retrieval evaluation examples",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AVwtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzQEdnRpZAMEc2VjA3JlbC1ib3Q-?p=information+retrieval+evaluation+examples&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      },
+      {
+        "query": "what is information retrieval system",
+        "link": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AWwtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzgEdnRpZAMEc2VjA3JlbC1ib3Q-?p=what+is+information+retrieval+system&ei=UTF-8&fr2=p%3As%2Cv%3Aw%2Cm%3Ars-bottom"
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "next": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AYAtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=information+retrieval+evaluation&pz=50&b=8&pz=7&bct=0&xargs=0",
+    "other_pages": {
+      "2": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AXAtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=information+retrieval+evaluation&pz=50&b=8&pz=7&bct=0&xargs=0",
+      "3": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AXQtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=information+retrieval+evaluation&pz=50&b=15&pz=7&bct=0&xargs=0",
+      "4": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AXgtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=information+retrieval+evaluation&pz=50&b=22&pz=7&bct=0&xargs=0",
+      "5": "https://search.yahoo.com/search;_ylt=A0geK9oSn1Vh164AXwtXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BhZ2luYXRpb24-?p=information+retrieval+evaluation&pz=50&b=29&pz=7&bct=0&xargs=0"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?b=8&device=desktop&engine=yahoo&p=information+retrieval+evaluation&pz=50",
+    "next": "https://serpapi.com/search.json?b=8&device=desktop&engine=yahoo&p=information+retrieval+evaluation&pz=50",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?b=8&device=desktop&engine=yahoo&p=information+retrieval+evaluation&pz=50",
+      "3": "https://serpapi.com/search.json?b=15&device=desktop&engine=yahoo&p=information+retrieval+evaluation&pz=50",
+      "4": "https://serpapi.com/search.json?b=22&device=desktop&engine=yahoo&p=information+retrieval+evaluation&pz=50",
+      "5": "https://serpapi.com/search.json?b=29&device=desktop&engine=yahoo&p=information+retrieval+evaluation&pz=50"
+    }
+  }
+}
