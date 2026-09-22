@@ -78,32 +78,20 @@ def plot_precision_vs_recall_curve(p_values, r_values, plt_title=None):
 
 
 def f_metric(retrieved_docs, relevant_docs):
-    # F-measure (harmonic mean of precision and recall): F = 2PR / (P + R)
     p, r = precision_recall(retrieved_docs, relevant_docs)
-    f = 2 * p * r / (p + r) if (p + r) > 0 else 0.0
-    return f
-
-
-def p_at_k(retrieved_docs, relevant_docs, k):
-    # precision at rank k: fraction of the top-k results that are relevant.
-    # divide by k (not by the number returned) so rankings shorter than k are penalised.
-    top_k = retrieved_docs[:k]
-    return sum(1 for doc in top_k if doc in relevant_docs) / k
+    if p + r == 0:
+        return 0.0
+    return (2 * p * r) / (p + r)
 
 
 def p_at_5(retrieved_docs, relevant_docs):
-    p = p_at_k(retrieved_docs, relevant_docs, 5)
-    return p
-
-
-def p_at_7(retrieved_docs, relevant_docs):
-    p = p_at_k(retrieved_docs, relevant_docs, 7)
-    return p
+    top_5 = retrieved_docs[:5]
+    return sum(1 for doc in top_5 if doc in relevant_docs) / 5
 
 
 def p_at_10(retrieved_docs, relevant_docs):
-    p = p_at_k(retrieved_docs, relevant_docs, 10)
-    return p
+    top_10 = retrieved_docs[:10]
+    return sum(1 for doc in top_10 if doc in relevant_docs) / 10
 
 
 def run_all_parts(dir):
@@ -138,11 +126,9 @@ def run_all_parts(dir):
     for ranking_name, retrieved_docs in search_results.items():
         f_score = f_metric(retrieved_docs, relevant_docs)
         p_at_5_score = p_at_5(retrieved_docs, relevant_docs)
-        p_at_7_score = p_at_7(retrieved_docs, relevant_docs)
         p_at_10_score = p_at_10(retrieved_docs, relevant_docs)
         print(f'{ranking_name.ljust(11)}   ==>  f: {round(f_score, 2)} '
-              f'\t p@5: {round(p_at_5_score, 2)} \t p@7: {round(p_at_7_score, 2)} \t p@10: {round(p_at_10_score, 2)}')
-
+              f'\t p@5: {round(p_at_5_score, 2)} \t p@10: {round(p_at_10_score, 2)}')
 
 if __name__ == '__main__':
     print('Running for query1_cache')
